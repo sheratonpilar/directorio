@@ -1,0 +1,1043 @@
+{
+ "directorio": {
+  "nombre": "Sheraton Pilar Hotel & Convention Center",
+  "bajada": {
+   "es": "Todo lo que necesita para su estadía. Para cualquier consulta, marque **0** desde el teléfono de su habitación.",
+   "en": "Everything you need for your stay. For any request, dial **0** from your room phone.",
+   "pt": "Tudo o que você precisa para a sua estadia. Para qualquer dúvida, disque **0** do telefone do quarto."
+  },
+  "direccion": "Panamericana km 49,5 (B1629MYA), Pilar, Buenos Aires, Argentina · T (0230) 438 5000",
+  "telefono_asistencia": "0",
+  "pie": {
+   "es": "Sheraton. Aquí es donde debe estar.\n©Marriott International, Inc. Todos los nombres, marcas y logos son marcas registradas de Marriott International, Inc. o sus afiliadas."
+  },
+  "idiomas": [
+   "es",
+   "en",
+   "pt"
+  ],
+  "actualizado": "2026-09-30T20:57:35.064Z"
+ },
+ "secciones": [
+  {
+   "id": "estadia",
+   "nombre": {
+    "es": "Su estadía",
+    "en": "Your stay",
+    "pt": "Estadia"
+   },
+   "nota": {
+    "es": "Check in, limpieza, lavandería y servicios en la habitación."
+   },
+   "foto": "",
+   "items": [
+    {
+     "id": "checkin",
+     "nombre": {
+      "es": "Check in / Check out"
+     },
+     "descripcion": {
+      "es": "Consulte en el front desk por early check in y late check out."
+     },
+     "horario": {
+      "es": "Check in 15 hs · Check out 12 hs"
+     }
+    },
+    {
+     "id": "guest-service",
+     "nombre": {
+      "es": "Guest Service"
+     },
+     "descripcion": {
+      "es": "Para cualquier pedido o consulta durante su estadía."
+     },
+     "dato": "Marque 0"
+    },
+    {
+     "id": "limpieza",
+     "nombre": {
+      "es": "Limpieza de la habitación"
+     },
+     "descripcion": {
+      "es": "Si necesita un horario especial, o que su habitación se acondicione el día de su partida, contacte al Departamento de Ama de Llaves."
+     },
+     "horario": {
+      "es": "Todos los días de 9 a 16:30 hs"
+     }
+    },
+    {
+     "id": "apertura",
+     "nombre": {
+      "es": "Servicio de apertura"
+     },
+     "descripcion": {
+      "es": "Para garantizar su privacidad, lo ofrecemos solo a pedido. Si desea que acondicionemos su habitación por la tarde, llame a la extensión 3001/2."
+     },
+     "horario": {
+      "es": "De 17 a 21 hs"
+     },
+     "interno": "3001"
+    },
+    {
+     "id": "lavanderia",
+     "nombre": {
+      "es": "Lavandería"
+     },
+     "descripcion": {
+      "es": "En su armario encontrará una bolsa con un ticket con toda la información y los precios. Coloque las prendas en la bolsa junto con el ticket y marque 0 para coordinar el retiro."
+     },
+     "horario": {
+      "es": "Todos los días de 7 a 17 hs"
+     },
+     "interno": "0"
+    },
+    {
+     "id": "room-service",
+     "nombre": {
+      "es": "Room Service"
+     },
+     "descripcion": {
+      "es": "Pida desde el teléfono de su habitación."
+     },
+     "horario": {
+      "es": "Todos los días de 6 a 00 hs"
+     }
+    },
+    {
+     "id": "amenities",
+     "nombre": {
+      "es": "Amenities adicionales"
+     },
+     "descripcion": {
+      "es": "¿Olvidó algo? Tenemos kit dental, kit de afeitar y otros artículos de viaje. Pídalos en el front desk o marcando 0."
+     },
+     "interno": "0"
+    },
+    {
+     "id": "caja-fuerte",
+     "nombre": {
+      "es": "Caja fuerte"
+     },
+     "descripcion": {
+      "es": "Su habitación cuenta con caja fuerte sin cargo para guardar dinero y objetos de valor."
+     }
+    }
+   ]
+  },
+  {
+   "id": "restaurantes",
+   "nombre": {
+    "es": "Restaurantes y bares",
+    "en": "Restaurants & bars",
+    "pt": "Restaurantes e bares"
+   },
+   "nota": {
+    "es": "Reservas y menús de todos nuestros espacios gastronómicos."
+   },
+   "foto": "",
+   "items": [
+    {
+     "id": "desayuno",
+     "nombre": {
+      "es": "Desayuno buffet"
+     },
+     "descripcion": {
+      "es": "Todos los días en Las Vasijas Restaurante."
+     },
+     "horario": {
+      "es": "Lun a vie 6:30 a 10 hs · Sáb, dom 7 a 10:30 hs"
+     }
+    },
+    {
+     "id": "don-giovanni",
+     "nombre": {
+      "es": "Don Giovanni Ristorante"
+     },
+     "descripcion": {
+      "es": "Cocina mediterránea de autor en un ambiente elegante."
+     },
+     "horario": {
+      "es": "Vie y sáb de 20 a 00 hs"
+     },
+     "whatsapp": "5491131353023"
+    },
+    {
+     "id": "las-vasijas",
+     "nombre": {
+      "es": "Las Vasijas Restaurante"
+     },
+     "descripcion": {
+      "es": "Buffet internacional con vista a los jardines, para desayuno, almuerzo o cena."
+     },
+     "horario": {
+      "es": "Almuerzo sáb y dom 13 a 15:30 hs · Cena vie y sáb 20 a 00 hs"
+     },
+     "whatsapp": "5491131353022"
+    },
+    {
+     "id": "lobby-bar",
+     "nombre": {
+      "es": "Lobby Bar"
+     },
+     "descripcion": {
+      "es": "Cafetería, pastelería, sándwiches, ensaladas y cocktails. Sin reserva."
+     },
+     "horario": {
+      "es": "Dom a jue 8 a 00 hs · Vie y sáb 8 a 2 hs"
+     }
+    },
+    {
+     "id": "la-federala",
+     "nombre": {
+      "es": "La Federala"
+     },
+     "descripcion": {
+      "es": "El estilo del campo argentino y las especialidades de nuestro menú criollo."
+     },
+     "aviso": {
+      "es": "Abre en temporada de verano"
+     }
+    },
+    {
+     "id": "pool-snack",
+     "nombre": {
+      "es": "Pool Snack"
+     },
+     "descripcion": {
+      "es": "Bar junto a la piscina externa: snacks, bebidas y platos para todos los gustos. Sin reserva, solo huéspedes."
+     },
+     "aviso": {
+      "es": "Abre en temporada de verano"
+     }
+    }
+   ]
+  },
+  {
+   "id": "bienestar",
+   "nombre": {
+    "es": "Health & Spa y bienestar",
+    "en": "Health & Spa and wellness",
+    "pt": "Health & Spa e bem-estar"
+   },
+   "nota": {
+    "es": "Recuerde presentar la tarjeta “Health & Spa” entregada en el check in."
+   },
+   "foto": "",
+   "items": [
+    {
+     "id": "health-spa",
+     "nombre": {
+      "es": "Health & Spa"
+     },
+     "descripcion": {
+      "es": "Tratamientos faciales y corporales. Incluye dos piscinas (una cubierta climatizada y otra al aire libre de 240 m²), Sheraton Fitness, vestuarios, sauna, baños de vapor, hidromasaje, gabinetes de masajes, sala de relax y sala de juegos.\nToallas en la recepción del spa. En las salas de relax hay agua saborizada, té y frutas."
+     },
+     "horario": {
+      "es": "Lun a vie 7 a 22 hs · Sáb 8 a 22 hs · Dom y feriados 8 a 20 hs"
+     },
+     "aviso": {
+      "es": "Menores de 16 años: hasta las 17 hs"
+     }
+    },
+    {
+     "id": "piscina-interna",
+     "nombre": {
+      "es": "Piscina interna"
+     },
+     "descripcion": {
+      "es": "Piscina climatizada con hidromasaje."
+     },
+     "horario": {
+      "es": "Lun a vie 7 a 22 hs · Sáb 8 a 22 hs · Dom y feriados 8 a 20 hs"
+     }
+    },
+    {
+     "id": "piscina-externa",
+     "nombre": {
+      "es": "Piscina externa"
+     },
+     "descripcion": {
+      "es": "Con solárium seco y húmedo. Camastros con costo extra: consulte en recepción."
+     },
+     "horario": {
+      "es": "De 10 a 20 hs"
+     },
+     "aviso": {
+      "es": "Solo en temporada de verano"
+     }
+    },
+    {
+     "id": "fitness",
+     "nombre": {
+      "es": "Sheraton Fitness"
+     },
+     "descripcion": {
+      "es": "Equipamiento de última generación y profesionales para asesorarlo durante su entrenamiento."
+     },
+     "horario": {
+      "es": "Lun a vie 7 a 22 hs · Sáb 8 a 22 hs · Dom y feriados 8 a 20 hs"
+     }
+    },
+    {
+     "id": "masajes",
+     "nombre": {
+      "es": "Masajes y tratamientos faciales"
+     },
+     "descripcion": {
+      "es": "Con reserva previa y según disponibilidad. Preséntese 15 minutos antes de su turno.\n**Cancelación:** avise con al menos 2 horas de anticipación; de lo contrario se cobra el 50% del servicio."
+     }
+    },
+    {
+     "id": "peluqueria",
+     "nombre": {
+      "es": "Peluquería"
+     },
+     "descripcion": {
+      "es": "Planta baja, al lado del Health & Spa."
+     },
+     "whatsapp": "5491150074296",
+     "interno": "2890"
+    }
+   ]
+  },
+  {
+   "id": "otros-servicios",
+   "nombre": {
+    "es": "Familia y negocios",
+    "en": "Family & business",
+    "pt": "Família e negócios"
+   },
+   "nota": {},
+   "foto": "",
+   "items": [
+    {
+     "id": "kids-club",
+     "nombre": {
+      "es": "Sheratoons Kids Club"
+     },
+     "descripcion": {
+      "es": "Recreación para chicos de 6 a 12 años. Menores de 6 pueden participar acompañados de un adulto."
+     },
+     "horario": {
+      "es": "Fines de semana y feriados · Sáb 12 a 20 hs · Dom 11 a 17 hs"
+     }
+    },
+    {
+     "id": "business-center",
+     "nombre": {
+      "es": "Business Center"
+     },
+     "descripcion": {
+      "es": "Dos estaciones de trabajo e impresora. Ubicado en el Lobby."
+     }
+    },
+    {
+     "id": "salas-reuniones",
+     "nombre": {
+      "es": "Salas de reuniones"
+     },
+     "descripcion": {
+      "es": "Dos salas para hasta 15 personas. Solicítelas en el front desk o llamando a Guest Service."
+     },
+     "horario": {
+      "es": "De 9 a 18 hs"
+     },
+     "interno": "0"
+    }
+   ]
+  },
+  {
+   "id": "conectividad",
+   "nombre": {
+    "es": "Internet y teléfono",
+    "en": "Internet & phone",
+    "pt": "Internet e telefone"
+   },
+   "nota": {
+    "es": "Ante cualquier inconveniente, contacte al Guest Service marcando 0."
+   },
+   "foto": "",
+   "items": [
+    {
+     "id": "wifi",
+     "nombre": {
+      "es": "Wi-Fi"
+     },
+     "descripcion": {
+      "es": "1. Conéctese a la red **Sheraton Pilar**.\n2. Espere a que se abra el navegador.\n3. Ingrese su número de habitación y apellido (como figura en la reserva).\n4. Elija el paquete de internet y acepte los términos y condiciones."
+     },
+     "dato": "Sheraton Pilar"
+    },
+    {
+     "id": "internet-cable",
+     "nombre": {
+      "es": "Internet por cable"
+     },
+     "descripcion": {
+      "es": "Conecte su cable LAN al puerto del escritorio de la habitación y siga los mismos pasos que para el Wi-Fi."
+     }
+    },
+    {
+     "id": "tel-local",
+     "nombre": {
+      "es": "Llamadas locales"
+     },
+     "dato": "AR$ 50 / min"
+    },
+    {
+     "id": "tel-cel",
+     "nombre": {
+      "es": "Celulares locales"
+     },
+     "dato": "AR$ 100 / min"
+    },
+    {
+     "id": "tel-nac",
+     "nombre": {
+      "es": "Llamadas a Argentina"
+     },
+     "dato": "AR$ 150 / min"
+    },
+    {
+     "id": "tel-america",
+     "nombre": {
+      "es": "Llamadas a América (incl. EE.UU. y Canadá)"
+     },
+     "dato": "AR$ 300 / min"
+    },
+    {
+     "id": "tel-mundo",
+     "nombre": {
+      "es": "Llamadas al resto del mundo"
+     },
+     "dato": "AR$ 400 / min"
+    },
+    {
+     "id": "tel-0800",
+     "nombre": {
+      "es": "0800 / 0822 / 0810"
+     },
+     "dato": "AR$ 200 / llamada"
+    },
+    {
+     "id": "tel-1800",
+     "nombre": {
+      "es": "1-800"
+     },
+     "dato": "AR$ 300 / min"
+    },
+    {
+     "id": "tel-0810",
+     "nombre": {
+      "es": "0-810"
+     },
+     "dato": "AR$ 200 / llamada"
+    },
+    {
+     "id": "tel-0600",
+     "nombre": {
+      "es": "0-600"
+     },
+     "dato": "AR$ 200 / hora"
+    },
+    {
+     "id": "tel-0610",
+     "nombre": {
+      "es": "0-610"
+     },
+     "dato": "AR$ 200 / hora"
+    }
+   ]
+  },
+  {
+   "id": "tv",
+   "nombre": {
+    "es": "Canales de TV",
+    "en": "TV channels",
+    "pt": "Canais de TV"
+   },
+   "nota": {},
+   "foto": "",
+   "items": [
+    {
+     "id": "tv-2",
+     "nombre": {
+      "es": "Bloomberg"
+     },
+     "dato": "2"
+    },
+    {
+     "id": "tv-3",
+     "nombre": {
+      "es": "CNN Internacional"
+     },
+     "dato": "3"
+    },
+    {
+     "id": "tv-4",
+     "nombre": {
+      "es": "CNN en Español"
+     },
+     "dato": "4"
+    },
+    {
+     "id": "tv-5",
+     "nombre": {
+      "es": "BBC"
+     },
+     "dato": "5"
+    },
+    {
+     "id": "tv-6",
+     "nombre": {
+      "es": "DeporTV"
+     },
+     "dato": "6"
+    },
+    {
+     "id": "tv-7",
+     "nombre": {
+      "es": "The Golf Channel"
+     },
+     "dato": "7"
+    },
+    {
+     "id": "tv-8",
+     "nombre": {
+      "es": "D-Sport"
+     },
+     "dato": "8"
+    },
+    {
+     "id": "tv-9",
+     "nombre": {
+      "es": "ESPN"
+     },
+     "dato": "9"
+    },
+    {
+     "id": "tv-10",
+     "nombre": {
+      "es": "ESPN Premium"
+     },
+     "dato": "10"
+    },
+    {
+     "id": "tv-11",
+     "nombre": {
+      "es": "TNT Sports"
+     },
+     "dato": "11"
+    },
+    {
+     "id": "tv-12",
+     "nombre": {
+      "es": "FOX Sports"
+     },
+     "dato": "12"
+    },
+    {
+     "id": "tv-13",
+     "nombre": {
+      "es": "TyC Sports"
+     },
+     "dato": "13"
+    },
+    {
+     "id": "tv-14",
+     "nombre": {
+      "es": "TN"
+     },
+     "dato": "14"
+    },
+    {
+     "id": "tv-15",
+     "nombre": {
+      "es": "América"
+     },
+     "dato": "15"
+    },
+    {
+     "id": "tv-16",
+     "nombre": {
+      "es": "Televisión Pública"
+     },
+     "dato": "16"
+    },
+    {
+     "id": "tv-17",
+     "nombre": {
+      "es": "Telefe"
+     },
+     "dato": "17"
+    },
+    {
+     "id": "tv-18",
+     "nombre": {
+      "es": "Canal Trece"
+     },
+     "dato": "18"
+    },
+    {
+     "id": "tv-19",
+     "nombre": {
+      "es": "Canal 9"
+     },
+     "dato": "19"
+    },
+    {
+     "id": "tv-20",
+     "nombre": {
+      "es": "Comedy Central"
+     },
+     "dato": "20"
+    },
+    {
+     "id": "tv-21",
+     "nombre": {
+      "es": "TNT"
+     },
+     "dato": "21"
+    },
+    {
+     "id": "tv-22",
+     "nombre": {
+      "es": "A&E"
+     },
+     "dato": "22"
+    },
+    {
+     "id": "tv-23",
+     "nombre": {
+      "es": "Star Channel"
+     },
+     "dato": "23"
+    },
+    {
+     "id": "tv-24",
+     "nombre": {
+      "es": "Sony Channel"
+     },
+     "dato": "24"
+    },
+    {
+     "id": "tv-25",
+     "nombre": {
+      "es": "MTV"
+     },
+     "dato": "25"
+    },
+    {
+     "id": "tv-26",
+     "nombre": {
+      "es": "E!"
+     },
+     "dato": "26"
+    },
+    {
+     "id": "tv-27",
+     "nombre": {
+      "es": "Space"
+     },
+     "dato": "27"
+    },
+    {
+     "id": "tv-28",
+     "nombre": {
+      "es": "AXN"
+     },
+     "dato": "28"
+    },
+    {
+     "id": "tv-29",
+     "nombre": {
+      "es": "Warner Channel"
+     },
+     "dato": "29"
+    },
+    {
+     "id": "tv-30",
+     "nombre": {
+      "es": "TLC"
+     },
+     "dato": "30"
+    },
+    {
+     "id": "tv-31",
+     "nombre": {
+      "es": "Discovery Channel"
+     },
+     "dato": "31"
+    },
+    {
+     "id": "tv-32",
+     "nombre": {
+      "es": "History Channel"
+     },
+     "dato": "32"
+    },
+    {
+     "id": "tv-33",
+     "nombre": {
+      "es": "Animal Planet"
+     },
+     "dato": "33"
+    },
+    {
+     "id": "tv-34",
+     "nombre": {
+      "es": "Cartoonito"
+     },
+     "dato": "34"
+    },
+    {
+     "id": "tv-35",
+     "nombre": {
+      "es": "Cartoon Network"
+     },
+     "dato": "35"
+    },
+    {
+     "id": "tv-36",
+     "nombre": {
+      "es": "Discovery Kids"
+     },
+     "dato": "36"
+    },
+    {
+     "id": "tv-37",
+     "nombre": {
+      "es": "Caracol (Colombia)"
+     },
+     "dato": "37"
+    },
+    {
+     "id": "tv-38",
+     "nombre": {
+      "es": "Rai (Italia)"
+     },
+     "dato": "38"
+    },
+    {
+     "id": "tv-39",
+     "nombre": {
+      "es": "DW (Alemania)"
+     },
+     "dato": "39"
+    },
+    {
+     "id": "tv-40",
+     "nombre": {
+      "es": "Canal24 (Chile)"
+     },
+     "dato": "40"
+    },
+    {
+     "id": "tv-41",
+     "nombre": {
+      "es": "D-News (Latinoamérica)"
+     },
+     "dato": "41"
+    },
+    {
+     "id": "tv-42",
+     "nombre": {
+      "es": "NHK (Japón)"
+     },
+     "dato": "42"
+    },
+    {
+     "id": "tv-43",
+     "nombre": {
+      "es": "O Globo (Brasil)"
+     },
+     "dato": "43"
+    },
+    {
+     "id": "tv-44",
+     "nombre": {
+      "es": "La Nación+"
+     },
+     "dato": "44"
+    },
+    {
+     "id": "tv-46",
+     "nombre": {
+      "es": "Sheraton Pilar"
+     },
+     "dato": "46"
+    }
+   ]
+  },
+  {
+   "id": "membresias",
+   "nombre": {
+    "es": "Membresías",
+    "en": "Memberships",
+    "pt": "Associações"
+   },
+   "nota": {},
+   "foto": "",
+   "items": [
+    {
+     "id": "bonvoy",
+     "nombre": {
+      "es": "Marriott Bonvoy™"
+     },
+     "descripcion": {
+      "es": "El programa de recompensas de viaje con más hoteles y experiencias en el mundo. La membresía es gratuita: pida ayuda en el front desk para registrarse."
+     }
+    },
+    {
+     "id": "membresia-spa",
+     "nombre": {
+      "es": "Membresía Sheraton Pilar – Health & Spa"
+     },
+     "descripcion": {
+      "es": "Acceso ilimitado a todas las instalaciones del Health & Spa: piscinas, sauna, baños de vapor, sala de relax, Sheraton Fitness, sala de juegos y vestuarios (masajes y tratamientos con cargo adicional).\n**Beneficios:** toallas, batas y lockers · Wi-Fi · estacionamiento.\n**Descuentos:** 15% en masajes · 10% en Las Vasijas, Don Giovanni y Lobby Bar · 10% en alojamiento · 10% en peluquería · 20% en lavandería.\nMás información en el Health & Spa."
+     }
+    }
+   ]
+  },
+  {
+   "id": "seguridad",
+   "nombre": {
+    "es": "Seguridad",
+    "en": "Safety",
+    "pt": "Segurança"
+   },
+   "nota": {
+    "es": "Ante una emergencia, marque 0 (Guest Service Center)."
+   },
+   "foto": "",
+   "items": [
+    {
+     "id": "al-llegar",
+     "nombre": {
+      "es": "Al llegar"
+     },
+     "descripcion": {
+      "es": "• Ubique las salidas de emergencia.\n• Revise el mapa detrás de la puerta de su habitación.\n• Ubique los matafuegos y alarmas de incendio más cercanos."
+     }
+    },
+    {
+     "id": "incendio",
+     "nombre": {
+      "es": "Si suena la alarma de incendio"
+     },
+     "descripcion": {
+      "es": "El hotel cuenta con aspersores y detectores de humo en habitaciones y pasillos.\n• Lleve su llave.\n• Antes de abrir, fíjese si entra calor o humo por la puerta.\n• Si el pasillo está despejado, salga por la escalera más cercana.\n• **No use los ascensores.**"
+     }
+    },
+    {
+     "id": "puerta-caliente",
+     "nombre": {
+      "es": "Si la puerta está caliente o no puede salir"
+     },
+     "descripcion": {
+      "es": "• Coloque toallas mojadas en la parte inferior de la puerta.\n• Marque 0 e indique su nombre y número de habitación.\n• Apague el aire acondicionado o la calefacción.\n• Agáchese para no inhalar humo."
+     },
+     "interno": "0"
+    },
+    {
+     "id": "consejos",
+     "nombre": {
+      "es": "Consejos para su seguridad"
+     },
+     "descripcion": {
+      "es": "• Cierre puertas y ventanas con todos los dispositivos de bloqueo, esté o no en la habitación (los ventanales abren hasta 10 cm).\n• Si alguien del personal llega sin que lo espere, pídale que se identifique. No acepte entregas que no pidió.\n• Use la mirilla para identificar a los visitantes.\n• Lleve siempre la llave de su habitación.\n• Si ve algo sospechoso, avísenos de inmediato."
+     }
+    }
+   ]
+  },
+  {
+   "id": "area-local",
+   "nombre": {
+    "es": "Área local",
+    "en": "Local area",
+    "pt": "Região"
+   },
+   "nota": {
+    "es": "Consulte en el front desk para obtener información adicional."
+   },
+   "foto": "",
+   "items": [
+    {
+     "id": "ubicacion",
+     "nombre": {
+      "es": "Ubicación"
+     },
+     "descripcion": {
+      "es": "A 40 minutos de la Ciudad de Buenos Aires, en Pilar: centros de compras, cines, universidades, más de 100 campos de polo y las mejores canchas de golf del país."
+     }
+    },
+    {
+     "id": "ezeiza",
+     "nombre": {
+      "es": "Aeropuerto Internacional Ezeiza"
+     },
+     "dato": "70 km"
+    },
+    {
+     "id": "aeroparque",
+     "nombre": {
+      "es": "Aeroparque Jorge Newbery"
+     },
+     "dato": "50 km"
+    },
+    {
+     "id": "brasov",
+     "nombre": {
+      "es": "Brasov Grill & Bowl"
+     },
+     "dato": "150 m"
+    },
+    {
+     "id": "rush",
+     "nombre": {
+      "es": "Rush – Parque de camas elásticas"
+     },
+     "dato": "150 m"
+    },
+    {
+     "id": "palmas",
+     "nombre": {
+      "es": "Palmas de Pilar Shopping"
+     },
+     "dato": "450 m"
+    },
+    {
+     "id": "cinepolis",
+     "nombre": {
+      "es": "Cinépolis Pilar"
+     },
+     "dato": "800 m"
+    },
+    {
+     "id": "escape-room",
+     "nombre": {
+      "es": "Escape Room Pilar"
+     },
+     "dato": "800 m"
+    },
+    {
+     "id": "pilar-walk",
+     "nombre": {
+      "es": "Pilar Walk"
+     },
+     "dato": "950 m"
+    },
+    {
+     "id": "club-escape",
+     "nombre": {
+      "es": "Club del Escape Pilar"
+     },
+     "dato": "950 m"
+    },
+    {
+     "id": "champagnat",
+     "nombre": {
+      "es": "Paseo Champagnat"
+     },
+     "dato": "5 km"
+    },
+    {
+     "id": "teatro",
+     "nombre": {
+      "es": "Teatro Gran Pilar"
+     },
+     "dato": "5,5 km"
+    },
+    {
+     "id": "paseo-pilar",
+     "nombre": {
+      "es": "Paseo Pilar"
+     },
+     "dato": "5,9 km"
+    },
+    {
+     "id": "iglesia",
+     "nombre": {
+      "es": "Iglesia Nuestra Señora del Pilar"
+     },
+     "dato": "6 km"
+    },
+    {
+     "id": "temaiken",
+     "nombre": {
+      "es": "Bioparque Temaikén"
+     },
+     "dato": "12 km"
+    },
+    {
+     "id": "tortugas",
+     "nombre": {
+      "es": "Tortugas Open Mall"
+     },
+     "dato": "15 km"
+    },
+    {
+     "id": "tigre",
+     "nombre": {
+      "es": "Delta del Tigre"
+     },
+     "dato": "37 km"
+    },
+    {
+     "id": "servicios-cercanos",
+     "nombre": {
+      "es": "Servicios cercanos"
+     },
+     "descripcion": {
+      "es": "Parque Industrial de Pilar · Universidad y Hospital Austral · IAE Business School · más de 300 empresas locales y multinacionales."
+     }
+    }
+   ]
+  },
+  {
+   "id": "eventos",
+   "nombre": {
+    "es": "Eventos",
+    "en": "Events",
+    "pt": "Eventos"
+   },
+   "nota": {},
+   "foto": "",
+   "items": [
+    {
+     "id": "ev-sociales",
+     "nombre": {
+      "es": "Eventos sociales"
+     },
+     "descripcion": {
+      "es": "Bodas, fiestas de 15, Bat y Bar Mitzvá, aniversarios y cumpleaños. Nosotros nos ocupamos de todo."
+     },
+     "mail": "eventos@pilar.sheraton.com.ar"
+    },
+    {
+     "id": "ev-corporativos",
+     "nombre": {
+      "es": "Eventos corporativos"
+     },
+     "descripcion": {
+      "es": "Reuniones, convenciones, almuerzos, team building, congresos y exposiciones."
+     },
+     "mail": "ventas@pilar.sheraton.com.ar"
+    },
+    {
+     "id": "ev-exclusivos",
+     "nombre": {
+      "es": "Eventos exclusivos"
+     },
+     "descripcion": {
+      "es": "Shows íntimos con artistas internacionales en los salones del hotel. Incluyen DJ en vivo, menú de 5 pasos, bebidas sin alcohol, vinos, espumantes y estacionamiento."
+     },
+     "aviso": {
+      "es": "Consulte por el próximo evento"
+     },
+     "mail": "eventosespeciales@pilar.sheraton.com.ar"
+    }
+   ]
+  }
+ ]
+}
