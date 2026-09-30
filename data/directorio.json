@@ -16,7 +16,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-30T20:57:35.064Z"
+  "actualizado": "2026-09-30T21:08:47.524Z"
  },
  "secciones": [
   {
@@ -51,7 +51,8 @@
      "descripcion": {
       "es": "Para cualquier pedido o consulta durante su estadía."
      },
-     "dato": "Marque 0"
+     "dato": "Marque 0",
+     "interno": "0"
     },
     {
      "id": "limpieza",
