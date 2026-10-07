@@ -16,7 +16,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-10-07T18:01:58.722Z"
+  "actualizado": "2026-10-07T18:28:56.226Z"
  },
  "secciones": [
   {
@@ -76,7 +76,7 @@
      "horario": {
       "es": "De 17 a 21 hs"
      },
-     "interno": "3001"
+     "dato": "Marque 3001"
     },
     {
      "id": "lavanderia",
@@ -89,7 +89,7 @@
      "horario": {
       "es": "Todos los días de 7 a 17 hs"
      },
-     "interno": "0",
+     "dato": "Marque 0",
      "link": "https://sheraton-pilar.com.ar/lavanderia.jpg",
      "link_texto": {
       "es": "Tarifas"
@@ -103,7 +103,7 @@
      "descripcion": {
       "es": "¿Olvidó algo? Tenemos kit dental, kit de afeitar y otros artículos de viaje. Pídalos en el front desk o marcando 0."
      },
-     "interno": "0"
+     "dato": "Marque 0"
     },
     {
      "id": "caja-fuerte",
@@ -225,6 +225,7 @@
      "horario": {
       "es": "Todos los días de 6 a 00 hs"
      },
+     "dato": "Marque 2840",
      "link": "https://sheratonpilar.github.io/menu/carta/room-service/",
      "link_texto": {
       "es": "Ver menú"
@@ -313,8 +314,8 @@
      "descripcion": {
       "es": "Planta baja, al lado del Health & Spa."
      },
-     "whatsapp": "5491150074296",
-     "interno": "2890"
+     "dato": "Marque 2890",
+     "whatsapp": "5491150074296"
     }
    ]
   },
@@ -360,7 +361,7 @@
      "horario": {
       "es": "De 9 a 18 hs"
      },
-     "interno": "0"
+     "dato": "Marque 0"
     }
    ]
   },
@@ -855,7 +856,7 @@
      "descripcion": {
       "es": "• Coloque toallas mojadas en la parte inferior de la puerta.\n• Marque 0 e indique su nombre y número de habitación.\n• Apague el aire acondicionado o la calefacción.\n• Agáchese para no inhalar humo."
      },
-     "interno": "0"
+     "dato": "Marque 0"
     },
     {
      "id": "consejos",
