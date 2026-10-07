@@ -16,7 +16,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-09-30T21:08:47.524Z"
+  "actualizado": "2026-10-07T17:42:38.115Z"
  },
  "secciones": [
   {
@@ -40,7 +40,7 @@
       "es": "Consulte en el front desk por early check in y late check out."
      },
      "horario": {
-      "es": "Check in 15 hs · Check out 12 hs"
+      "es": "Check in 15 hs (domingos 18hs)  · Check out 12 hs (domingos late check out 16hs)"
      }
     },
     {
@@ -60,7 +60,7 @@
       "es": "Limpieza de la habitación"
      },
      "descripcion": {
-      "es": "Si necesita un horario especial, o que su habitación se acondicione el día de su partida, contacte al Departamento de Ama de Llaves."
+      "es": "Si necesita un horario especial, contacte al Departamento de Ama de Llaves. SI prefiere que su habitación no sea acondicionada, simplemente deje puesto el cartel de \"No molestar\"."
      },
      "horario": {
       "es": "Todos los días de 9 a 16:30 hs"
@@ -85,23 +85,15 @@
       "es": "Lavandería"
      },
      "descripcion": {
-      "es": "En su armario encontrará una bolsa con un ticket con toda la información y los precios. Coloque las prendas en la bolsa junto con el ticket y marque 0 para coordinar el retiro."
+      "es": "En su armario encontrará una bolsa con una planilla con toda la información y un QR con los precios. Coloque las prendas en la bolsa junto con la planila y marque 0 para coordinar el retiro."
      },
      "horario": {
       "es": "Todos los días de 7 a 17 hs"
      },
-     "interno": "0"
-    },
-    {
-     "id": "room-service",
-     "nombre": {
-      "es": "Room Service"
-     },
-     "descripcion": {
-      "es": "Pida desde el teléfono de su habitación."
-     },
-     "horario": {
-      "es": "Todos los días de 6 a 00 hs"
+     "interno": "0",
+     "link": "https://sheraton-pilar.com.ar/lavanderia.jpg",
+     "link_texto": {
+      "es": "Tarifas"
      }
     },
     {
@@ -120,7 +112,7 @@
       "es": "Caja fuerte"
      },
      "descripcion": {
-      "es": "Su habitación cuenta con caja fuerte sin cargo para guardar dinero y objetos de valor."
+      "es": "Su habitación cuenta con caja fuerte sin cargo para guardar dinero y objetos de valor. Las instrucciones de uso se encuentran en la misma."
      }
     }
    ]
@@ -128,12 +120,12 @@
   {
    "id": "restaurantes",
    "nombre": {
-    "es": "Restaurantes y bares",
+    "es": "Propuestas gastronómicas",
     "en": "Restaurants & bars",
     "pt": "Restaurantes e bares"
    },
    "nota": {
-    "es": "Reservas y menús de todos nuestros espacios gastronómicos."
+    "es": "Reservas y menús de todos nuestras propuestas gastronómicas."
    },
    "foto": "",
    "items": [
@@ -160,7 +152,11 @@
      "horario": {
       "es": "Vie y sáb de 20 a 00 hs"
      },
-     "whatsapp": "5491131353023"
+     "whatsapp": "5491131353023",
+     "link": "https://sheratonpilar.github.io/menu/carta/don-giovanni/",
+     "link_texto": {
+      "es": "Ver menú"
+     }
     },
     {
      "id": "las-vasijas",
@@ -168,12 +164,16 @@
       "es": "Las Vasijas Restaurante"
      },
      "descripcion": {
-      "es": "Buffet internacional con vista a los jardines, para desayuno, almuerzo o cena."
+      "es": "Buffet internacional con vista a los jardines. Amplia variedad de entradas, platos principales y postres."
      },
      "horario": {
       "es": "Almuerzo sáb y dom 13 a 15:30 hs · Cena vie y sáb 20 a 00 hs"
      },
-     "whatsapp": "5491131353022"
+     "whatsapp": "5491131353022",
+     "link": "https://sheratonpilar.github.io/menu/carta/las-vasijas/",
+     "link_texto": {
+      "es": "Ver menú"
+     }
     },
     {
      "id": "lobby-bar",
@@ -181,10 +181,14 @@
       "es": "Lobby Bar"
      },
      "descripcion": {
-      "es": "Cafetería, pastelería, sándwiches, ensaladas y cocktails. Sin reserva."
+      "es": "Cafetería, pastelería, sándwiches, ensaladas, platos principales y cocktails. Sin reserva previa."
      },
      "horario": {
       "es": "Dom a jue 8 a 00 hs · Vie y sáb 8 a 2 hs"
+     },
+     "link": "https://sheratonpilar.github.io/menu/carta/lobby-bar/",
+     "link_texto": {
+      "es": "Ver menú"
      }
     },
     {
@@ -196,7 +200,7 @@
       "es": "El estilo del campo argentino y las especialidades de nuestro menú criollo."
      },
      "aviso": {
-      "es": "Abre en temporada de verano"
+      "es": "Temporalemnte cerrado, disponible solo en temporada de verano."
      }
     },
     {
@@ -205,10 +209,26 @@
       "es": "Pool Snack"
      },
      "descripcion": {
-      "es": "Bar junto a la piscina externa: snacks, bebidas y platos para todos los gustos. Sin reserva, solo huéspedes."
+      "es": "Bar junto a la piscina externa: snacks, bebidas y platos para todos los gustos. Sin reserva previa, solo disponible para huéspedes."
      },
      "aviso": {
-      "es": "Abre en temporada de verano"
+      "es": "Temporalemnte cerrado, disponible solo en temporada de verano."
+     }
+    },
+    {
+     "id": "room-service",
+     "nombre": {
+      "es": "Room Service"
+     },
+     "descripcion": {
+      "es": "Amplia variedad para disfrutar desde su habitación."
+     },
+     "horario": {
+      "es": "Todos los días de 6 a 00 hs"
+     },
+     "link": "https://sheratonpilar.github.io/menu/carta/room-service/",
+     "link_texto": {
+      "es": "Ver menú"
      }
     }
    ]
@@ -216,12 +236,12 @@
   {
    "id": "bienestar",
    "nombre": {
-    "es": "Health & Spa y bienestar",
+    "es": "Health & Spa",
     "en": "Health & Spa and wellness",
     "pt": "Health & Spa e bem-estar"
    },
    "nota": {
-    "es": "Recuerde presentar la tarjeta “Health & Spa” entregada en el check in."
+    "es": "Horarios y toda la informaciónnecesaria para utilizar nuetsras instslaciones de bienestar."
    },
    "foto": "",
    "items": [
@@ -238,7 +258,8 @@
      },
      "aviso": {
       "es": "Menores de 16 años: hasta las 17 hs"
-     }
+     },
+     "dato": "Recuerde presentar la tarjeta “Health & Spa” entregada al momento del check in para canjearla por toallas en la recepción del spa."
     },
     {
      "id": "piscina-interna",
@@ -247,9 +268,6 @@
      },
      "descripcion": {
       "es": "Piscina climatizada con hidromasaje."
-     },
-     "horario": {
-      "es": "Lun a vie 7 a 22 hs · Sáb 8 a 22 hs · Dom y feriados 8 a 20 hs"
      }
     },
     {
