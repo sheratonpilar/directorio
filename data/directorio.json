@@ -16,7 +16,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-10-14T16:49:33.996Z"
+  "actualizado": "2026-10-14T16:56:24.015Z"
  },
  "secciones": [
   {
@@ -252,15 +252,12 @@
       "es": "Health & Spa"
      },
      "descripcion": {
-      "es": "Incluye dos piscinas (una cubierta climatizada y otra al aire libre), Sheraton Fitness, vestuarios, saunas, baños de vapor, hidromasaje, gabinetes de masajes, sala de relax y sala de juegos."
+      "es": "Incluye dos piscinas (una cubierta climatizada y otra al aire libre), Sheraton Fitness, vestuarios, saunas, baños de vapor, hidromasaje, gabinetes de masajes, sala de relax y sala de juegos.\nRecuerde presentar las tarjetas celestes entregadas al momento del check in, para canjearlas por toallas en la recepción del spa."
      },
      "horario": {
       "es": "Lun a vie 7:00 a 22:00 hs · Sáb 8:00 a 22:00 hs · Dom y feriados 8:00 a 20:00 hs"
      },
-     "aviso": {
-      "es": "Menores de 16 años: hasta las 17 hs"
-     },
-     "dato": "Recuerde presentar las tarjetas celestes entregadas al momento del check in, para canjearlas por toallas en la recepción del spa."
+     "dato": "Menores de 16 años: hasta las 17 hs"
     },
     {
      "id": "piscina-interna",
