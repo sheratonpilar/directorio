@@ -16,7 +16,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-10-14T16:56:24.015Z"
+  "actualizado": "2026-10-14T17:01:17.931Z"
  },
  "secciones": [
   {
@@ -257,7 +257,9 @@
      "horario": {
       "es": "Lun a vie 7:00 a 22:00 hs · Sáb 8:00 a 22:00 hs · Dom y feriados 8:00 a 20:00 hs"
      },
-     "dato": "Menores de 16 años: hasta las 17 hs"
+     "aviso": {
+      "es": "Menores de 16 años: hasta las 17 hs"
+     }
     },
     {
      "id": "piscina-interna",
