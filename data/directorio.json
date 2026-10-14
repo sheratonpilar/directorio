@@ -16,7 +16,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-10-14T17:01:17.931Z"
+  "actualizado": "2026-10-14T18:42:30.432Z"
  },
  "secciones": [
   {
@@ -961,25 +961,11 @@
     {
      "id": "ubicacion",
      "nombre": {
-      "es": "Ubicación"
+      "es": "Actividades"
      },
      "descripcion": {
-      "es": "A 40 minutos de la Ciudad de Buenos Aires, en Pilar: centros de compras, cines, universidades, más de 100 campos de polo y las mejores canchas de golf del país."
+      "es": "Opciones de entretenimiento, deporte y aventura para disfrutar en familia o con amigos cerca del hotel."
      }
-    },
-    {
-     "id": "ezeiza",
-     "nombre": {
-      "es": "Aeropuerto Internacional Ezeiza"
-     },
-     "dato": "70 km"
-    },
-    {
-     "id": "aeroparque",
-     "nombre": {
-      "es": "Aeroparque Jorge Newbery"
-     },
-     "dato": "50 km"
     },
     {
      "id": "brasov",
@@ -996,11 +982,11 @@
      "dato": "150 m"
     },
     {
-     "id": "palmas",
+     "id": "multiplex",
      "nombre": {
-      "es": "Palmas de Pilar Shopping"
+      "es": "Cine Multiplex"
      },
-     "dato": "450 m"
+     "dato": "700 m"
     },
     {
      "id": "cinepolis",
@@ -1017,16 +1003,81 @@
      "dato": "800 m"
     },
     {
-     "id": "pilar-walk",
+     "id": "club-escape",
      "nombre": {
-      "es": "Pilar Walk"
+      "es": "Club del Escape Pilar"
      },
      "dato": "950 m"
     },
     {
-     "id": "club-escape",
+     "id": "bingo",
      "nombre": {
-      "es": "Club del Escape Pilar"
+      "es": "Bingo Oasis"
+     },
+     "dato": "1,1 km"
+    },
+    {
+     "id": "pilar-paddle",
+     "nombre": {
+      "es": "Pilar Paddle Center"
+     },
+     "dato": "1,2 km"
+    },
+    {
+     "id": "neverland",
+     "nombre": {
+      "es": "Neverland"
+     },
+     "dato": "1,6 km"
+    },
+    {
+     "id": "sharewood",
+     "nombre": {
+      "es": "Sharewood Pilar"
+     },
+     "dato": "1,6 km"
+    },
+    {
+     "id": "yarda",
+     "nombre": {
+      "es": "Yarda 51: Indoor Golf"
+     },
+     "dato": "2,1 km"
+    },
+    {
+     "id": "teatro",
+     "nombre": {
+      "es": "Teatro Gran Pilar"
+     },
+     "dato": "5,5 km"
+    },
+    {
+     "id": "temaiken",
+     "nombre": {
+      "es": "Bioparque Temaikén"
+     },
+     "dato": "12 km"
+    },
+    {
+     "id": "compras",
+     "nombre": {
+      "es": "Paseos y Compras"
+     },
+     "descripcion": {
+      "es": "Centros comerciales y paseos para descubrir, recorrer y disfrutar durante tu estadía."
+     }
+    },
+    {
+     "id": "palmas",
+     "nombre": {
+      "es": "Palmas de Pilar Shopping"
+     },
+     "dato": "450 m"
+    },
+    {
+     "id": "pilar-walk",
+     "nombre": {
+      "es": "Pilar Walk"
      },
      "dato": "950 m"
     },
@@ -1038,18 +1089,148 @@
      "dato": "5 km"
     },
     {
-     "id": "teatro",
-     "nombre": {
-      "es": "Teatro Gran Pilar"
-     },
-     "dato": "5,5 km"
-    },
-    {
      "id": "paseo-pilar",
      "nombre": {
       "es": "Paseo Pilar"
      },
      "dato": "5,9 km"
+    },
+    {
+     "id": "tortugas",
+     "nombre": {
+      "es": "Tortugas Open Mall"
+     },
+     "dato": "13,6"
+    },
+    {
+     "id": "propuestas-gastronomicas",
+     "nombre": {
+      "es": "Propuestas gastronómicas"
+     },
+     "descripcion": {
+      "es": "Descubrí los sabores de la zona con opciones para cada gusto y ocasión."
+     }
+    },
+    {
+     "id": "yokos",
+     "nombre": {
+      "es": "Yokos Bureau"
+     },
+     "dato": "500 m"
+    },
+    {
+     "id": "negroni",
+     "nombre": {
+      "es": "Negroni Bistró & Sushi Bar"
+     },
+     "dato": "550 m"
+    },
+    {
+     "id": "birra-bar",
+     "nombre": {
+      "es": "La Birra Bar"
+     },
+     "dato": "750 m"
+    },
+    {
+     "id": "mooi",
+     "nombre": {
+      "es": "Mooi"
+     },
+     "dato": "850 m"
+    },
+    {
+     "id": "club-milanesa",
+     "nombre": {
+      "es": "El Club de la Milanesa"
+     },
+     "dato": "1 km"
+    },
+    {
+     "id": "food-truck-store",
+     "nombre": {
+      "es": "The Food Truck Store"
+     },
+     "dato": "1,5 km"
+    },
+    {
+     "id": "rock-fellers",
+     "nombre": {
+      "es": "Rock & Feller’s"
+     },
+     "dato": "2,5 km"
+    },
+    {
+     "id": "tutto-tano",
+     "nombre": {
+      "es": "Tutto Tano"
+     },
+     "dato": "2,5 km"
+    },
+    {
+     "id": "cabrera",
+     "nombre": {
+      "es": "La Cabrera"
+     },
+     "dato": "2,7 km"
+    },
+    {
+     "id": "fabric-sushi",
+     "nombre": {
+      "es": "Fabric Sushi"
+     },
+     "dato": "2,7 km"
+    },
+    {
+     "id": "kansas",
+     "nombre": {
+      "es": "Kansas"
+     },
+     "dato": "6,4 km"
+    },
+    {
+     "id": "lima",
+     "nombre": {
+      "es": "Lima Estilo Nikkei"
+     },
+     "dato": "8 km"
+    },
+    {
+     "id": "otras-atracciones",
+     "nombre": {
+      "es": "Otras atracciones y servicios cercanos"
+     },
+     "descripcion": {
+      "es": "Lugares para descubrir, instituciones de salud y educación, polos empresariales y conexiones para tu viaje."
+     }
+    },
+    {
+     "id": "parque-austral",
+     "nombre": {
+      "es": "Parque Austral — polo empresarial y tecnológico"
+     },
+     "dato": "1,2 km"
+    },
+    {
+     "id": "iae",
+     "nombre": {
+      "es": "IAE Business School"
+     },
+     "dato": "1,5 km"
+    },
+    {
+     "id": "austral",
+     "nombre": {
+      "es": "Hospital Universitario Austral"
+     },
+     "dato": "2,4 km"
+    },
+    {
+     "id": "centro-historico",
+     "nombre": {
+      "es": "Centro histórico de Pilar"
+     },
+     "dato": "5 km"
     },
     {
      "id": "iglesia",
@@ -1059,34 +1240,39 @@
      "dato": "6 km"
     },
     {
-     "id": "temaiken",
+     "id": "reserva-natural",
      "nombre": {
-      "es": "Bioparque Temaikén"
+      "es": "Reserva Natural del Pilar"
      },
-     "dato": "12 km"
+     "dato": "7,3 km"
     },
     {
-     "id": "tortugas",
+     "id": "parque-industrial-pilar",
      "nombre": {
-      "es": "Tortugas Open Mall"
+      "es": "Parque Industrial de Pilar"
      },
-     "dato": "15 km"
+     "dato": "13,1 km"
     },
     {
-     "id": "tigre",
+     "id": "delta-tigre",
      "nombre": {
       "es": "Delta del Tigre"
      },
      "dato": "37 km"
     },
     {
-     "id": "servicios-cercanos",
+     "id": "aeroparque",
      "nombre": {
-      "es": "Servicios cercanos"
+      "es": "Aeroparque Jorge Newbery (AEP)"
      },
-     "descripcion": {
-      "es": "Parque Industrial de Pilar · Universidad y Hospital Austral · IAE Business School · más de 300 empresas locales y multinacionales."
-     }
+     "dato": "50 km"
+    },
+    {
+     "id": "ezeiza",
+     "nombre": {
+      "es": "Aeropuerto Internacional Ezeiza (EZE)"
+     },
+     "dato": "70 km"
     }
    ]
   },
