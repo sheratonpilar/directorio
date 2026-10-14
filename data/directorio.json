@@ -16,7 +16,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-10-14T16:43:16.563Z"
+  "actualizado": "2026-10-14T16:49:33.996Z"
  },
  "secciones": [
   {
@@ -463,6 +463,15 @@
      },
      "descripcion": {
       "es": "Conecte su cable LAN al puerto del escritorio de la habitación y siga los mismos pasos que para el Wi-Fi."
+     }
+    },
+    {
+     "id": "llamadas",
+     "nombre": {
+      "es": "Información Telefónica"
+     },
+     "descripcion": {
+      "es": "Ponemos a su disposición el servicio de llamadas telefónicas nacionales e internacionales. A continuación, se detallan las tarifas vigentes según el tipo de llamada y el destino."
      }
     },
     {
