@@ -16,7 +16,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-10-07T18:30:48.556Z"
+  "actualizado": "2026-10-14T16:14:35.927Z"
  },
  "secciones": [
   {
@@ -40,7 +40,7 @@
       "es": "Consulte en el front desk por early check in y late check out."
      },
      "horario": {
-      "es": "Check in 15 hs (domingos 18hs)  · Check out 12 hs (domingos late check out 16hs)"
+      "es": "Check in 15:00 hs (domingos 18:00 hs)  · Check out 12:00 hs (domingos late check out 16:00 hs)"
      }
     },
     {
@@ -62,8 +62,9 @@
       "es": "Si necesita un horario especial, contacte al Departamento de Ama de Llaves. SI prefiere que su habitación no sea acondicionada, simplemente deje puesto el cartel de \"No molestar\"."
      },
      "horario": {
-      "es": "Todos los días de 9 a 16:30 hs"
-     }
+      "es": "Todos los días de 9:00 a 16:30 hs"
+     },
+     "dato": "Marque 3001"
     },
     {
      "id": "apertura",
@@ -71,10 +72,10 @@
       "es": "Servicio de apertura"
      },
      "descripcion": {
-      "es": "Para garantizar su privacidad, lo ofrecemos solo a pedido. Si desea que acondicionemos su habitación por la tarde, llame a la extensión 3001/2."
+      "es": "Si desea que acondicionemos su habitación por la tarde, comuniquesé con nuestro departamento de Ama de Llaves. Para garantizar su privacidad, lo ofrecemos solo a pedido."
      },
      "horario": {
-      "es": "De 17 a 21 hs"
+      "es": "De 17:00 a 21:00 hs"
      },
      "dato": "Marque 3001"
     },
@@ -84,10 +85,10 @@
       "es": "Lavandería"
      },
      "descripcion": {
-      "es": "En su armario encontrará una bolsa con una planilla con toda la información y un QR con los precios. Coloque las prendas en la bolsa junto con la planila y marque 0 para coordinar el retiro."
+      "es": "Si desea lavar ropa, en su armario encontrará una bolsa y una planilla con toda la información. Coloque las prendas en la bolsa junto con la planila y marque 0 para coordinar el retiro."
      },
      "horario": {
-      "es": "Todos los días de 7 a 17 hs"
+      "es": "Todos los días de 7:00 a 17:00 hs"
      },
      "dato": "Marque 0",
      "link": "https://sheraton-pilar.com.ar/lavanderia.jpg",
@@ -101,7 +102,7 @@
       "es": "Amenities adicionales"
      },
      "descripcion": {
-      "es": "¿Olvidó algo? Tenemos kit dental, kit de afeitar y otros artículos de viaje. Pídalos en el front desk o marcando 0."
+      "es": "¿Olvidó algo? Tenemos kit dental, kit de afeitar y otros artículos de viaje. Pídalos acercandose o comunicandose con el front desk."
      },
      "dato": "Marque 0"
     },
@@ -137,7 +138,7 @@
       "es": "Todos los días en Las Vasijas Restaurante."
      },
      "horario": {
-      "es": "Lun a vie 6:30 a 10 hs · Sáb, dom 7 a 10:30 hs"
+      "es": "Lun a vie 6:30 a 10:00 hs · Sáb, dom 7:00 a 10:30 hs"
      }
     },
     {
@@ -149,7 +150,7 @@
       "es": "Cocina mediterránea de autor en un ambiente elegante."
      },
      "horario": {
-      "es": "Vie y sáb de 20 a 00 hs"
+      "es": "Vie y sáb de 20:00 a 00:00 hs"
      },
      "whatsapp": "5491131353023",
      "link": "https://sheratonpilar.github.io/menu/carta/don-giovanni/",
@@ -166,7 +167,7 @@
       "es": "Buffet internacional con vista a los jardines. Amplia variedad de entradas, platos principales y postres."
      },
      "horario": {
-      "es": "Almuerzo sáb y dom 13 a 15:30 hs · Cena vie y sáb 20 a 00 hs"
+      "es": "Almuerzo sáb y dom 13:00 a 15:30 hs · Cena vie y sáb 20:00 a 00:00 hs · Durante la semana sujeto a disponibilidad."
      },
      "whatsapp": "5491131353022",
      "link": "https://sheratonpilar.github.io/menu/carta/las-vasijas/",
@@ -183,7 +184,7 @@
       "es": "Cafetería, pastelería, sándwiches, ensaladas, platos principales y cocktails. Sin reserva previa."
      },
      "horario": {
-      "es": "Dom a jue 8 a 00 hs · Vie y sáb 8 a 2 hs"
+      "es": "Dom a jue 8:00 a 00:00 hs · Vie y sáb 8:00 a 2:00 hs"
      },
      "link": "https://sheratonpilar.github.io/menu/carta/lobby-bar/",
      "link_texto": {
@@ -191,9 +192,26 @@
      }
     },
     {
+     "id": "room-service",
+     "nombre": {
+      "es": "Room Service"
+     },
+     "descripcion": {
+      "es": "Amplia variedad para disfrutar desde su habitación."
+     },
+     "horario": {
+      "es": "Todos los días de 6:00 a 00:00 hs"
+     },
+     "dato": "Marque 2840",
+     "link": "https://sheratonpilar.github.io/menu/carta/room-service/",
+     "link_texto": {
+      "es": "Ver menú"
+     }
+    },
+    {
      "id": "la-federala",
      "nombre": {
-      "es": "La Federala"
+      "es": "La Federala Parrilla"
      },
      "descripcion": {
       "es": "El estilo del campo argentino y las especialidades de nuestro menú criollo."
@@ -213,23 +231,6 @@
      "aviso": {
       "es": "Temporalemnte cerrado, disponible solo en temporada de verano."
      }
-    },
-    {
-     "id": "room-service",
-     "nombre": {
-      "es": "Room Service"
-     },
-     "descripcion": {
-      "es": "Amplia variedad para disfrutar desde su habitación."
-     },
-     "horario": {
-      "es": "Todos los días de 6 a 00 hs"
-     },
-     "dato": "Marque 2840",
-     "link": "https://sheratonpilar.github.io/menu/carta/room-service/",
-     "link_texto": {
-      "es": "Ver menú"
-     }
     }
    ]
   },
@@ -241,7 +242,7 @@
     "pt": "Health & Spa e bem-estar"
    },
    "nota": {
-    "es": "Horarios y toda la informaciónnecesaria para utilizar nuetsras instslaciones de bienestar."
+    "es": "Horarios y toda la informaciónnecesaria para utilizar nuestras instslaciones de bienestar."
    },
    "foto": "",
    "items": [
@@ -251,38 +252,38 @@
       "es": "Health & Spa"
      },
      "descripcion": {
-      "es": "Tratamientos faciales y corporales. Incluye dos piscinas (una cubierta climatizada y otra al aire libre de 240 m²), Sheraton Fitness, vestuarios, sauna, baños de vapor, hidromasaje, gabinetes de masajes, sala de relax y sala de juegos.\nToallas en la recepción del spa. En las salas de relax hay agua saborizada, té y frutas."
+      "es": "Incluye dos piscinas (una cubierta climatizada y otra al aire libre), Sheraton Fitness, vestuarios, saunas, baños de vapor, hidromasaje, gabinetes de masajes, sala de relax y sala de juegos."
      },
      "horario": {
-      "es": "Lun a vie 7 a 22 hs · Sáb 8 a 22 hs · Dom y feriados 8 a 20 hs"
+      "es": "Lun a vie 7:00 a 22:00 hs · Sáb 8:00 a 22:00 hs · Dom y feriados 8:00 a 20:00 hs"
      },
      "aviso": {
-      "es": "Menores de 16 años: hasta las 17 hs"
+      "es": "Recuerde presentar las tarjetas celestes entregadas al momento del check in, para canjearlas por toallas en la recepción del spa."
      },
-     "dato": "Recuerde presentar la tarjeta “Health & Spa” entregada al momento del check in para canjearla por toallas en la recepción del spa."
+     "dato": "Menores de 16 años: hasta las 17 hs"
     },
     {
      "id": "piscina-interna",
      "nombre": {
-      "es": "Piscina interna"
+      "es": "Piscina interna, icebath e hidromasaje"
      },
      "descripcion": {
-      "es": "Piscina climatizada con hidromasaje."
+      "es": "La piscina interna tiene una temperatura de 34°, el ice bath de 8° y el hidromasajes de 38°. Podrá alternar entre ellas para hacer terapia de contraste.\nLa piscina interna climatizada cuenta con dos escaleras de acero para ingresar, mientras que el hidromasaje cuenta con una escalinata con baranda para facilitar el acceso."
      }
     },
     {
      "id": "piscina-externa",
      "nombre": {
-      "es": "Piscina externa"
+      "es": "Piscinas externas y solarium"
      },
      "descripcion": {
-      "es": "Con solárium seco y húmedo. Camastros con costo extra: consulte en recepción."
+      "es": "Piscina externa de 240 m2 y piscina para menores. Cuenta también con solarium húmedo y seco. Guardavidas en temporada de verano. Camastros con costo extra: consulte en recepción Health & Spa."
      },
      "horario": {
-      "es": "De 10 a 20 hs"
+      "es": "De 10:00 a 20:00 hs"
      },
      "aviso": {
-      "es": "Solo en temporada de verano"
+      "es": "Solo durante temporada de verano con guardavidas (de octubre hasta abril)"
      }
     },
     {
@@ -291,10 +292,13 @@
       "es": "Sheraton Fitness"
      },
      "descripcion": {
-      "es": "Equipamiento de última generación y profesionales para asesorarlo durante su entrenamiento."
+      "es": "Gimnasio totalmente equipado para entrenar con vista a los jardines, y profesionales para asesorarlo durante su entrenamiento."
      },
      "horario": {
-      "es": "Lun a vie 7 a 22 hs · Sáb 8 a 22 hs · Dom y feriados 8 a 20 hs"
+      "es": "Disponible 24 hs · Para acceder fuera del horario del spa, solicite la apertura en nuestro Front Desk."
+     },
+     "aviso": {
+      "es": "Permitido el uso sólo con calzado apropiado para gimnasio. Para mayores de 16 años."
      }
     },
     {
@@ -303,7 +307,22 @@
       "es": "Masajes y tratamientos faciales"
      },
      "descripcion": {
-      "es": "Con reserva previa y según disponibilidad. Preséntese 15 minutos antes de su turno.\n**Cancelación:** avise con al menos 2 horas de anticipación; de lo contrario se cobra el 50% del servicio."
+      "es": "Servicio de masajes y tratamientos faciales diseñados para el bienestar y la renovación de la piel. \n\nCon reserva previa y según disponibilidad. Se recomienda presentarse 15 minutos antes del horario reservado para aprovechar al máximo su tiempo de masaje.\n**Cancelación:** se requiere un aviso con al menos 2 horas de anticipación al horario reservado.\nEn caso de no cancelar con la anticipación requerida, se aplicará un cargo del 50% del valor del servicio."
+     },
+     "horario": {
+      "es": "Lun a sab 14:00 a 21:00 hs · Dom y feriados 10:00 a 17:00 hs"
+     },
+     "aviso": {
+      "es": "Para mayores de 16 años."
+     }
+    },
+    {
+     "id": "vestuarios",
+     "nombre": {
+      "es": "Vestuarios y salas de relax"
+     },
+     "descripcion": {
+      "es": "Los saunas, baños de vapor y salas de relax se encuentran ubicados dentro de los vestuarios de hombres y mujeres, respectivamente. Estos espacios no son mixtos. Contamos con lockers para guardar pertenencias y ofrecemos toallas, shampoo, acondicionador, jabón, crema corporal, secador de pelo y planchita para la comodidad de nuestros clientes. Nuestra sala de relax cuenta con agua saborizada, té y frutas."
      }
     },
     {
@@ -312,7 +331,10 @@
       "es": "Peluquería"
      },
      "descripcion": {
-      "es": "Planta baja, al lado del Health & Spa."
+      "es": "Planta baja, al lado del Health & Spa. Reservas por WhatsApp o marcando su interno desde cualquier teléfono del hotel."
+     },
+     "horario": {
+      "es": "Mar a sab 9:30 a 20:00 hs."
      },
      "dato": "Marque 2890",
      "whatsapp": "5491150074296"
@@ -322,7 +344,7 @@
   {
    "id": "otros-servicios",
    "nombre": {
-    "es": "Familia y negocios",
+    "es": "Actividades y amenities",
     "en": "Family & business",
     "pt": "Família e negócios"
    },
@@ -335,19 +357,68 @@
       "es": "Sheratoons Kids Club"
      },
      "descripcion": {
-      "es": "Recreación para chicos de 6 a 12 años. Menores de 6 pueden participar acompañados de un adulto."
+      "es": "Actividades recreativas guiadas por nuestros profesores, pensadas para niños de 6 a 12 años (los menores de 6 años pueden participar acompañados por un adulto). Consiste en juegos al aire libre, manualidades, talleres creativos y actividades deportivas.\n\nTambién contamos con un salón Sheratoons, equipado con videojuegos (Wii, PlayStation 5 y arcade), ping pong, plaza blanda para bebés y más. En fechas especiales, organizamos actividades temáticas como búsqueda de huevos de Pascua o manualidades para el día del padre, de la madre o halloween."
      },
      "horario": {
-      "es": "Fines de semana y feriados · Sáb 12 a 20 hs · Dom 11 a 17 hs"
+      "es": "Sáb 12:00 a 20:00 hs · Dom 11:00 a 17:00 hs · Fines de semana y todos los días durante vacaciones de invierno o verano."
+     },
+     "link": "https://sheraton-pilar.com.ar/sheratoons.pdf",
+     "link_texto": {
+      "es": "Cronograma de actividades"
      }
     },
     {
-     "id": "business-center",
+     "id": "plaza-juegos",
      "nombre": {
-      "es": "Business Center"
+      "es": "Plaza de juegos para niños"
      },
      "descripcion": {
-      "es": "Dos estaciones de trabajo e impresora. Ubicado en el Lobby."
+      "es": "En nuestros jardines, los más pequeños pueden divertirse en nuestra plaza de juegos, equipada con hamacas, sube y bajas, toboganes, puentes colgantes y más. Un espacio al aire libre para que disfruten al máximo su estadía. Se recomienda que los menores estén supervisados por un adulto mientras disfrutan de la actividad."
+     }
+    },
+    {
+     "id": "sala-de-juegos",
+     "nombre": {
+      "es": "Sala de juegos"
+     },
+     "descripcion": {
+      "es": "Cuenta con mesa de pool, ping pong, metegol, jenga gigante, generale gigante, cartas y juegos de mesa varios. La mesa de pool es de uso exclusivo para mayores de 16 años. Ubicado dentro de nuetsro Health & Spa."
+     },
+     "horario": {
+      "es": "Lun a vie 7:00 a 22:00 hs · Sáb 8:00 a 22:00 hs · Dom y feriados 8:00 a 20:00 hs"
+     },
+     "aviso": {
+      "es": "Menores de 16 años: hasta las 17 hs"
+     }
+    },
+    {
+     "id": "cancha-multideporte",
+     "nombre": {
+      "es": "Cancha Multideporte"
+     },
+     "descripcion": {
+      "es": "Un espacio al aire libre pensado para disfrutar del deporte y la actividad física. Cuenta con arcos de fútbol y aro de básquet, pero su superficie de pasto sintético permite practicar distintas disciplinas.\nSu uso es libre para huéspedes, socios Health & Spa y clientes de Día de Spa.\n\nPonemos a disposición pelotas de fútbol y básquet sin cargo y, para grupos numerosos, es posible reservar un turno. Además, la cancha cuenta con iluminación nocturna, por lo que puede disfrutarse tanto durante el día como por la noche."
+     },
+     "horario": {
+      "es": "Lun a vie 7:00 a 22:00 hs · Sáb 8:00 a 22:00 hs · Dom y feriados 8:00 a 20:00 hs · Para acceder fuera del horario del spa, cordineló previamente con el personal de nuestro Health & Spa."
+     }
+    },
+    {
+     "id": "clases-aerobicas",
+     "nombre": {
+      "es": "Clases aeróbicas para adultos"
+     },
+     "descripcion": {
+      "es": "Disfrutá de nuestras clases de stretching en fines de semana seleccionados. Nuestros profesores ofrecen sesiones de estiramiento y, en temporada de verano, gimnasia acuática. Actividades pensadas tanto para adultos como para compartir en familia."
+     }
+    },
+    {
+     "id": "link-center",
+     "nombre": {
+      "es": "Espacio de trabajo"
+     },
+     "descripcion": {
+      "es": "Ubicado en nuestro lobby principal, cuenta con estaciones de trabajo e impresora."
      }
     },
     {
@@ -359,7 +430,7 @@
       "es": "Dos salas para hasta 15 personas. Solicítelas en el front desk o llamando a Guest Service."
      },
      "horario": {
-      "es": "De 9 a 18 hs"
+      "es": "De 9:00 a 18:00 hs"
      },
      "dato": "Marque 0"
     }
@@ -372,9 +443,7 @@
     "en": "Internet & phone",
     "pt": "Internet e telefone"
    },
-   "nota": {
-    "es": "Ante cualquier inconveniente, contacte al Guest Service marcando 0."
-   },
+   "nota": {},
    "foto": "",
    "items": [
     {
@@ -383,7 +452,7 @@
       "es": "Wi-Fi"
      },
      "descripcion": {
-      "es": "1. Conéctese a la red **Sheraton Pilar**.\n2. Espere a que se abra el navegador.\n3. Ingrese su número de habitación y apellido (como figura en la reserva).\n4. Elija el paquete de internet y acepte los términos y condiciones."
+      "es": "1. Conéctese a la red **Sheraton Pilar**.\n2. Espere a que se abra el navegador. De lo contrario, abralo manulamente y será direccionado al portal del hotel.\n3. Ingrese su número de habitación y apellido (como figura en la reserva).\n4. Acepte los términos y condiciones, y presione INGRESAR."
      },
      "dato": "Sheraton Pilar"
     },
@@ -804,7 +873,7 @@
       "es": "Marriott Bonvoy™"
      },
      "descripcion": {
-      "es": "El programa de recompensas de viaje con más hoteles y experiencias en el mundo. La membresía es gratuita: pida ayuda en el front desk para registrarse."
+      "es": "Marriott Bonvoy™, es el programa de recompensas de viaje más rico\ndel mundo. Con más hoteles y experiencias en más destinos que\nningún otro, permite a todos sus miembros seguir viajando con pasión y propósito.\nMarriott Bonvoy™ cree que viajar enriquece y nutre al mundo. Abre la\nmente, amplía fronteras y crea recuerdos.\n¿Aún no es socio de Marriott Bonvoy? La membresía es gratuita.\nSolicite ayuda en el Front Desk para registrarse."
      }
     },
     {
@@ -813,7 +882,7 @@
       "es": "Membresía Sheraton Pilar – Health & Spa"
      },
      "descripcion": {
-      "es": "Acceso ilimitado a todas las instalaciones del Health & Spa: piscinas, sauna, baños de vapor, sala de relax, Sheraton Fitness, sala de juegos y vestuarios (masajes y tratamientos con cargo adicional).\n**Beneficios:** toallas, batas y lockers · Wi-Fi · estacionamiento.\n**Descuentos:** 15% en masajes · 10% en Las Vasijas, Don Giovanni y Lobby Bar · 10% en alojamiento · 10% en peluquería · 20% en lavandería.\nMás información en el Health & Spa."
+      "es": "Acceso ilimitado a todas las instalaciones del Health & Spa: piscinas, hidromasaje, ice bath, saunas, baños de vapor, salas de relax, Sheraton Fitness, sala de juegos y vestuarios. Servicio de masajes y tratamientos faciales con cargo adicional.\n**Beneficios:** toallas, batas y lockers · Wi-Fi · estacionamiento.\n**Descuentos:** 15% en masajes · 10% en Las Vasijas, Don Giovanni y Lobby Bar · 10% en alojamiento · 10% en peluquería · 20% en lavandería.\nMás información en el Health & Spa."
      }
     }
    ]
@@ -821,7 +890,7 @@
   {
    "id": "seguridad",
    "nombre": {
-    "es": "Seguridad",
+    "es": "Procedimientos de seguridad",
     "en": "Safety",
     "pt": "Segurança"
    },
@@ -836,7 +905,7 @@
       "es": "Al llegar"
      },
      "descripcion": {
-      "es": "• Ubique las salidas de emergencia.\n• Revise el mapa detrás de la puerta de su habitación.\n• Ubique los matafuegos y alarmas de incendio más cercanos."
+      "es": "Le recomendamos que tome algunas medidas de precaución al llegar:\n• Ubique las salidas de emergencia.\n• Revise el mapa detrás de la puerta de su habitación.\n• Ubique los matafuegos y alarmas de incendio más cercanos."
      }
     },
     {
@@ -845,7 +914,7 @@
       "es": "Si suena la alarma de incendio"
      },
      "descripcion": {
-      "es": "El hotel cuenta con aspersores y detectores de humo en habitaciones y pasillos.\n• Lleve su llave.\n• Antes de abrir, fíjese si entra calor o humo por la puerta.\n• Si el pasillo está despejado, salga por la escalera más cercana.\n• **No use los ascensores.**"
+      "es": "El hotel cuenta con aspersores y detectores de humo en habitaciones y pasillos.\n• Lleve su llave.\n• Antes de abrirla, fíjese si entra calor o humo por la puerta.\n• Si el pasillo está despejado, salga por la escalera más cercana.\n• **No use los ascensores.**"
      }
     },
     {
@@ -854,14 +923,14 @@
       "es": "Si la puerta está caliente o no puede salir"
      },
      "descripcion": {
-      "es": "• Coloque toallas mojadas en la parte inferior de la puerta.\n• Marque 0 e indique su nombre y número de habitación.\n• Apague el aire acondicionado o la calefacción.\n• Agáchese para no inhalar humo."
+      "es": "• Coloque toallas mojadas en la parte inferior de la puerta.\n• Contactesé con Guest Service e indique su nombre y número de habitación.\n• Apague el aire acondicionado o calefacción.\n• Agáchese para no inhalar humo."
      },
      "dato": "Marque 0"
     },
     {
      "id": "consejos",
      "nombre": {
-      "es": "Consejos para su seguridad"
+      "es": "Consejos para la seguridad de nuestros huéspedes"
      },
      "descripcion": {
       "es": "• Cierre puertas y ventanas con todos los dispositivos de bloqueo, esté o no en la habitación (los ventanales abren hasta 10 cm).\n• Si alguien del personal llega sin que lo espere, pídale que se identifique. No acepte entregas que no pidió.\n• Use la mirilla para identificar a los visitantes.\n• Lleve siempre la llave de su habitación.\n• Si ve algo sospechoso, avísenos de inmediato."
