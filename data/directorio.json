@@ -16,7 +16,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-10-14T18:42:30.432Z"
+  "actualizado": "2026-10-14T19:40:13.556Z"
  },
  "secciones": [
   {
@@ -29,7 +29,7 @@
    "nota": {
     "es": "Check in, limpieza, lavandería y servicios en la habitación."
    },
-   "foto": "",
+   "foto": "estadia.jpg",
    "items": [
     {
      "id": "checkin",
@@ -127,7 +127,7 @@
    "nota": {
     "es": "Reservas y menús de todos nuestras propuestas gastronómicas."
    },
-   "foto": "",
+   "foto": "restaurantes.jpg",
    "items": [
     {
      "id": "desayuno",
@@ -244,7 +244,7 @@
    "nota": {
     "es": "Horarios y toda la informaciónnecesaria para utilizar nuestras instslaciones de bienestar."
    },
-   "foto": "",
+   "foto": "bienestar.jpg",
    "items": [
     {
      "id": "health-spa",
@@ -348,7 +348,7 @@
     "pt": "Família e negócios"
    },
    "nota": {},
-   "foto": "",
+   "foto": "otros-servicios.jpg",
    "items": [
     {
      "id": "kids-club",
@@ -443,7 +443,7 @@
     "pt": "Internet e telefone"
    },
    "nota": {},
-   "foto": "",
+   "foto": "conectividad.jpg",
    "items": [
     {
      "id": "wifi",
@@ -553,7 +553,7 @@
     "pt": "Canais de TV"
    },
    "nota": {},
-   "foto": "",
+   "foto": "tv.jpg",
    "items": [
     {
      "id": "tv-2",
@@ -873,7 +873,7 @@
     "pt": "Associações"
    },
    "nota": {},
-   "foto": "",
+   "foto": "membresias.jpg",
    "items": [
     {
      "id": "bonvoy",
@@ -905,7 +905,7 @@
    "nota": {
     "es": "Ante una emergencia, marque 0 (Guest Service Center)."
    },
-   "foto": "",
+   "foto": "seguridad.jpg",
    "items": [
     {
      "id": "al-llegar",
@@ -956,7 +956,7 @@
    "nota": {
     "es": "Consulte en el front desk para obtener información adicional."
    },
-   "foto": "",
+   "foto": "area-local.jpg",
    "items": [
     {
      "id": "ubicacion",
@@ -1119,13 +1119,6 @@
      "dato": "500 m"
     },
     {
-     "id": "negroni",
-     "nombre": {
-      "es": "Negroni Bistró & Sushi Bar"
-     },
-     "dato": "550 m"
-    },
-    {
      "id": "birra-bar",
      "nombre": {
       "es": "La Birra Bar"
@@ -1284,7 +1277,7 @@
     "pt": "Eventos"
    },
    "nota": {},
-   "foto": "",
+   "foto": "eventos.jpg",
    "items": [
     {
      "id": "ev-sociales",
@@ -1294,6 +1287,7 @@
      "descripcion": {
       "es": "Bodas, fiestas de 15, Bat y Bar Mitzvá, aniversarios y cumpleaños. Nosotros nos ocupamos de todo."
      },
+     "whatsapp": "5491140967395",
      "mail": "eventos@pilar.sheraton.com.ar"
     },
     {
@@ -1317,6 +1311,7 @@
      "aviso": {
       "es": "Consulte por el próximo evento"
      },
+     "whatsapp": "5491131353034",
      "mail": "eventosespeciales@pilar.sheraton.com.ar"
     }
    ]
