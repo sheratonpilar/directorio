@@ -3,20 +3,22 @@
   "nombre": "Sheraton Pilar Hotel & Convention Center",
   "bajada": {
    "es": "Todo lo que necesita para su estadía. Para cualquier consulta, marque **0** desde el teléfono de su habitación.",
-   "en": "Everything you need for your stay. For any request, dial **0** from your room phone.",
-   "pt": "Tudo o que você precisa para a sua estadia. Para qualquer dúvida, disque **0** do telefone do quarto."
+   "en": "Everything you need for your stay. For any inquiries, please dial **0** from your room phone.",
+   "pt": "Panamericana km 49,5 (B1629MYA), Pilar, Buenos Aires, Argentina · T (0230) 438 5000"
   },
   "direccion": "Panamericana km 49,5 (B1629MYA), Pilar, Buenos Aires, Argentina · T (0230) 438 5000",
   "telefono_asistencia": "0",
   "pie": {
-   "es": "Sheraton. Aquí es donde debe estar.\n©Marriott International, Inc. Todos los nombres, marcas y logos son marcas registradas de Marriott International, Inc. o sus afiliadas."
+   "es": "Sheraton. Aquí es donde debe estar.\n© 2026 Marriott International, Inc. Todos los nombres, marcas y logos son marcas registradas de Marriott International, Inc. o sus afiliadas.",
+   "en": "Sheraton. This is where you belong.\n\n© 2026 Marriott International, Inc. All names, brands, and logos are trademarks of Marriott International, Inc. or its affiliates.",
+   "pt": "Tudo o que você precisa para a sua estadia. Para qualquer dúvida, disque **0** do telefone do seu quarto."
   },
   "idiomas": [
    "es",
    "en",
    "pt"
   ],
-  "actualizado": "2026-10-15T16:25:04.924Z"
+  "actualizado": "2026-10-15T19:04:22.876Z"
  },
  "secciones": [
   {
@@ -24,71 +26,101 @@
    "nombre": {
     "es": "Su estadía",
     "en": "Your stay",
-    "pt": "Estadia"
+    "pt": "Sua estadia"
    },
    "nota": {
-    "es": "Check in, limpieza, lavandería y servicios en la habitación."
+    "es": "Horarios de ingreso y salida, atención al huésped y servicios para su habitación.",
+    "en": "Check-in and check-out times, guest services and room amenities.",
+    "pt": "Horários de check-in e check-out, serviços para hóspedes e comodidades dos quartos."
    },
    "foto": "estadia.jpg",
    "items": [
     {
      "id": "checkin",
      "nombre": {
-      "es": "Check in / Check out"
+      "es": "Check in / Check out",
+      "en": "Check in / Check out",
+      "pt": "Check-in / Check-out"
      },
      "descripcion": {
-      "es": "Consulte en el front desk por early check in y late check out."
+      "es": "Consulte en el front desk por early check in y late check out.",
+      "en": "Check at the front desk for early check in and late check out.",
+      "pt": "Consulte a recepção para informações sobre check-in antecipado e check-out tardio."
      },
      "horario": {
-      "es": "Check in 15:00 hs (domingos 18:00 hs)  · Check out 12:00 hs (domingos late check out 16:00 hs)"
+      "es": "Check in 15:00 hs (domingos 18:00 hs)  · Check out 12:00 hs (domingos late check out 16:00 hs)",
+      "en": "Check in 3:00 p.m. (Sundays 6:00 p.m.) · Check out 12:00 p.m. (Sundays late check out 4:00 p.m.)",
+      "pt": "Check-in às 15h (domingos às 18h) · Check-out às 12h (domingos com check-out tardio às 16h)"
      }
     },
     {
      "id": "guest-service",
      "nombre": {
-      "es": "Guest Service"
+      "es": "Guest Service",
+      "en": "Guest Service",
+      "pt": "Serviço de Atendimento ao Cliente"
      },
      "descripcion": {
-      "es": "Para cualquier pedido o consulta durante su estadía."
+      "es": "Para cualquier pedido o consulta durante su estadía.",
+      "en": "For any requests or inquiries during your stay.",
+      "pt": "Para quaisquer pedidos ou dúvidas durante a sua estadia."
      },
      "dato": "Marque 0"
     },
     {
      "id": "limpieza",
      "nombre": {
-      "es": "Limpieza de la habitación"
+      "es": "Limpieza de la habitación",
+      "en": "Room cleaning",
+      "pt": "Limpeza de quartos"
      },
      "descripcion": {
-      "es": "Si necesita un horario especial, contacte al Departamento de Ama de Llaves. SI prefiere que su habitación no sea acondicionada, simplemente deje puesto el cartel de \"No molestar\"."
+      "es": "Si necesita un horario especial, contacte al Departamento de Ama de Llaves. SI prefiere que su habitación no sea acondicionada, simplemente deje puesto el cartel de \"No molestar\".",
+      "en": "If you require a special schedule, please contact the Housekeeping Department. If you prefer your room not to be cleaned, simply leave the \"Do Not Disturb\" sign up.",
+      "pt": "Caso necessite de um horário especial, entre em contato com o Departamento de Limpeza. Se preferir que seu quarto não seja limpo, basta deixar a placa \"Não Perturbe\" no quarto."
      },
      "horario": {
-      "es": "Todos los días de 9:00 a 16:30 hs"
+      "es": "Todos los días de 9:00 a 16:30 hs",
+      "en": "Every day from 9:00 to 16:30",
+      "pt": "Todos os dias, das 9h às 16h30."
      },
      "dato": "Marque 0"
     },
     {
      "id": "apertura",
      "nombre": {
-      "es": "Servicio de apertura"
+      "es": "Servicio de apertura",
+      "en": "Opening service",
+      "pt": "Cerimônia de abertura"
      },
      "descripcion": {
-      "es": "Si desea que acondicionemos su habitación por la tarde, comuniquesé con nuestro departamento de Ama de Llaves. Para garantizar su privacidad, lo ofrecemos solo a pedido."
+      "es": "Si desea que acondicionemos su habitación por la tarde, comuniquesé con nuestro departamento de Ama de Llaves. Para garantizar su privacidad, lo ofrecemos solo a pedido.",
+      "en": "If you would like us to prepare your room in the afternoon, please contact our Housekeeping Department. To ensure your privacy, this service is offered only upon request.",
+      "pt": "Caso deseje que preparemos seu quarto à tarde, entre em contato com nosso Departamento de Limpeza. Para garantir sua privacidade, este serviço é oferecido somente mediante solicitação."
      },
      "horario": {
-      "es": "De 17:00 a 21:00 hs"
+      "es": "De 17:00 a 21:00 hs",
+      "en": "From 5:00 PM to 9:00 PM",
+      "pt": "Das 17h às 21h"
      },
      "dato": "Marque 0"
     },
     {
      "id": "lavanderia",
      "nombre": {
-      "es": "Lavandería"
+      "es": "Lavandería",
+      "en": "Laundry",
+      "pt": "Lavanderia"
      },
      "descripcion": {
-      "es": "Si desea lavar ropa, en su armario encontrará una bolsa y una planilla con toda la información. Coloque las prendas en la bolsa junto con la planila y marque 0 para coordinar el retiro."
+      "es": "Si desea lavar ropa, en su armario encontrará una bolsa y una planilla con toda la información. Coloque las prendas en la bolsa junto con la planila y marque 0 para coordinar el retiro.",
+      "en": "If you wish to have your clothes washed, you will find a bag and a form with all the information in your closet. Place the clothes in the bag along with the form and mark 0 to schedule a pickup.",
+      "pt": "Se desejar que suas roupas sejam lavadas, você encontrará uma sacola e um formulário com todas as informações necessárias em seu armário. Coloque as roupas na sacola junto com o formulário e marque 0 para agendar a coleta."
      },
      "horario": {
-      "es": "Todos los días de 7:00 a 17:00 hs"
+      "es": "Todos los días de 7:00 a 17:00 hs",
+      "en": "Every day from 7:00 a.m. to 5:00 p.m.",
+      "pt": "Todos os dias, das 7h às 17h."
      },
      "dato": "Marque 0",
      "link": "https://sheraton-pilar.com.ar/lavanderia.jpg",
@@ -99,20 +131,28 @@
     {
      "id": "amenities",
      "nombre": {
-      "es": "Amenities adicionales"
+      "es": "Amenities adicionales",
+      "en": "Additional amenities",
+      "pt": "Comodidades adicionais"
      },
      "descripcion": {
-      "es": "¿Olvidó algo? Tenemos kit dental, kit de afeitar y otros artículos de viaje. Pídalos acercandose o comunicandose con el front desk."
+      "es": "¿Olvidó algo? Tenemos kit dental, kit de afeitar y otros artículos de viaje. Pídalos acercandose o comunicandose con el front desk.",
+      "en": "Did you forget something? We have dental kits, shaving kits, and other travel items. Please ask for them by coming to the front desk or contacting us.",
+      "pt": "Você esqueceu de algo? Temos kits dentais, kits de barbear e outros itens de viagem. Solicite-os na recepção ou entre em contato conosco."
      },
      "dato": "Marque 0"
     },
     {
      "id": "caja-fuerte",
      "nombre": {
-      "es": "Caja fuerte"
+      "es": "Caja fuerte",
+      "en": "Safe",
+      "pt": "Seguro"
      },
      "descripcion": {
-      "es": "Su habitación cuenta con caja fuerte sin cargo para guardar dinero y objetos de valor. Las instrucciones de uso se encuentran en la misma."
+      "es": "Su habitación cuenta con caja fuerte sin cargo para guardar dinero y objetos de valor. Las instrucciones de uso se encuentran en la misma.",
+      "en": "Your room includes a free safe for storing money and valuables. Instructions for use are provided inside.",
+      "pt": "Seu quarto inclui um cofre gratuito para guardar dinheiro e objetos de valor. As instruções de uso estão disponíveis no interior do cofre."
      }
     }
    ]
@@ -121,36 +161,50 @@
    "id": "restaurantes",
    "nombre": {
     "es": "Propuestas gastronómicas",
-    "en": "Restaurants & bars",
-    "pt": "Restaurantes e bares"
+    "en": "Gastronomic proposals",
+    "pt": "Propostas gastronômicas"
    },
    "nota": {
-    "es": "Reservas y menús de todos nuestras propuestas gastronómicas."
+    "es": "Conozca nuestros restaurantes y bares, consulte menús y horarios, y realice su reserva.",
+    "en": "Discover our restaurants and bars, view menus and opening hours, and make your reservation.",
+    "pt": "Descubra nossos restaurantes e bares, veja os cardápios e horários de funcionamento e faça sua reserva."
    },
    "foto": "restaurantes.jpg",
    "items": [
     {
      "id": "desayuno",
      "nombre": {
-      "es": "Desayuno buffet"
+      "es": "Desayuno buffet",
+      "en": "Buffet breakfast",
+      "pt": "Café da manhã tipo buffet"
      },
      "descripcion": {
-      "es": "Todos los días en Las Vasijas Restaurante."
+      "es": "Todos los días en Las Vasijas Restaurante.",
+      "en": "Every day at Las Vasijas Restaurant.",
+      "pt": "Todos os dias no restaurante Las Vasijas."
      },
      "horario": {
-      "es": "Lun a vie 6:30 a 10:00 hs · Sáb, dom 7:00 a 10:30 hs"
+      "es": "Lun a vie 6:30 a 10:00 hs · Sáb, dom 7:00 a 10:30 hs",
+      "en": "Mon to Fri 6:30 a.m. to 10:00 a.m. Sat, Sun 7:00 a.m. to 10:30 a.m.",
+      "pt": "De segunda a sexta, das 6h30 às 10h. Sábado e domingo, das 7h às 10h30."
      }
     },
     {
      "id": "don-giovanni",
      "nombre": {
-      "es": "Don Giovanni Ristorante"
+      "es": "Don Giovanni Ristorante",
+      "en": "Don Giovanni Ristorante",
+      "pt": "Restaurante Don Giovanni"
      },
      "descripcion": {
-      "es": "Cocina mediterránea de autor en un ambiente elegante."
+      "es": "Cocina mediterránea de autor en un ambiente elegante.",
+      "en": "Signature Mediterranean cuisine in an elegant setting.",
+      "pt": "Cozinha mediterrânea exclusiva em um ambiente elegante."
      },
      "horario": {
-      "es": "Vie y sáb de 20:00 a 00:00 hs"
+      "es": "Vie y sáb de 20:00 a 00:00 hs",
+      "en": "Fri and Sat from 8:00 PM to 12:00 AM",
+      "pt": "Sexta e sábado, das 20h às 00h."
      },
      "whatsapp": "5491131353023",
      "link": "https://sheratonpilar.github.io/menu/carta/don-giovanni/",
@@ -161,13 +215,19 @@
     {
      "id": "las-vasijas",
      "nombre": {
-      "es": "Las Vasijas Restaurante"
+      "es": "Las Vasijas Restaurante",
+      "en": "Las Vasijas Restaurant",
+      "pt": "Restaurante Las Vasijas"
      },
      "descripcion": {
-      "es": "Buffet internacional con vista a los jardines. Amplia variedad de entradas, platos principales y postres."
+      "es": "Buffet internacional con vista a los jardines. Amplia variedad de entradas, platos principales y postres.",
+      "en": "International buffet overlooking the gardens. Wide variety of appetizers, main courses, and desserts.",
+      "pt": "Buffet internacional com vista para os jardins. Grande variedade de entradas, pratos principais e sobremesas."
      },
      "horario": {
-      "es": "Almuerzo sáb y dom 13:00 a 15:30 hs · Cena vie y sáb 20:00 a 00:00 hs · Durante la semana sujeto a disponibilidad."
+      "es": "Almuerzo sáb y dom 13:00 a 15:30 hs · Cena vie y sáb 20:00 a 00:00 hs · Durante la semana sujeto a disponibilidad.",
+      "en": "Lunch Sat & Sun 13:00 to 15:30 · Dinner Fri & Sat 20:00 to 00:00 · During the week subject to availability.",
+      "pt": "Almoço: sábado e domingo, das 13h às 15h30 · Jantar: sexta e sábado, das 20h à meia-noite · Durante a semana, sujeito à disponibilidade."
      },
      "whatsapp": "5491131353022",
      "link": "https://sheratonpilar.github.io/menu/carta/las-vasijas/",
@@ -178,13 +238,19 @@
     {
      "id": "lobby-bar",
      "nombre": {
-      "es": "Lobby Bar"
+      "es": "Lobby Bar",
+      "en": "Lobby Bar",
+      "pt": "Bar do Lobby"
      },
      "descripcion": {
-      "es": "Cafetería, pastelería, sándwiches, ensaladas, platos principales y cocktails. Sin reserva previa."
+      "es": "Cafetería, pastelería, sándwiches, ensaladas, platos principales y cocktails. Sin reserva previa.",
+      "en": "Coffee shop, pastries, sandwiches, salads, main courses, and cocktails. No reservation required.",
+      "pt": "Cafeteria, doces, sanduíches, saladas, pratos principais e coquetéis. Não é necessário fazer reserva."
      },
      "horario": {
-      "es": "Dom a jue 8:00 a 00:00 hs · Vie y sáb 8:00 a 2:00 hs"
+      "es": "Dom a jue 8:00 a 00:00 hs · Vie y sáb 8:00 a 2:00 hs",
+      "en": "Sun to Thursday 8:00 a.m. to 12:00 a.m. · Fri and Sat 8:00 a.m. to 2:00 a.m.",
+      "pt": "De domingo a quinta-feira, das 8h às 0h. · Sexta-feira e sábado, das 8h às 2h."
      },
      "link": "https://sheratonpilar.github.io/menu/carta/lobby-bar/",
      "link_texto": {
@@ -194,13 +260,19 @@
     {
      "id": "room-service",
      "nombre": {
-      "es": "Room Service"
+      "es": "Room Service",
+      "en": "Room Service",
+      "pt": "Serviço de quarto"
      },
      "descripcion": {
-      "es": "Amplia variedad para disfrutar desde su habitación."
+      "es": "Amplia variedad para disfrutar desde su habitación.",
+      "en": "A wide variety to enjoy from your room.",
+      "pt": "Uma grande variedade para desfrutar no conforto do seu quarto."
      },
      "horario": {
-      "es": "Todos los días de 6:00 a 00:00 hs"
+      "es": "Todos los días de 6:00 a 00:00 hs",
+      "en": "Every day from 6:00 to 00:00",
+      "pt": "Todos os dias, das 6:00 às 00:00."
      },
      "dato": "Marque 2840",
      "link": "https://sheratonpilar.github.io/menu/carta/room-service/",
@@ -211,10 +283,14 @@
     {
      "id": "la-federala",
      "nombre": {
-      "es": "La Federala Parrilla"
+      "es": "La Federala Parrilla",
+      "en": "The Federal Grill",
+      "pt": "O Federal Grill"
      },
      "descripcion": {
-      "es": "El estilo del campo argentino y las especialidades de nuestro menú criollo."
+      "es": "El estilo del campo argentino y las especialidades de nuestro menú criollo.",
+      "en": "The style of the Argentine countryside and the specialties of our Creole menu.",
+      "pt": "O estilo do interior argentino e as especialidades do nosso cardápio crioulo."
      },
      "aviso": {
       "es": "Temporalemnte cerrado, disponible solo en temporada de verano."
@@ -223,10 +299,14 @@
     {
      "id": "pool-snack",
      "nombre": {
-      "es": "Pool Snack"
+      "es": "Pool Snack",
+      "en": "Pool Snack",
+      "pt": "Lanche na piscina"
      },
      "descripcion": {
-      "es": "Bar junto a la piscina externa: snacks, bebidas y platos para todos los gustos. Sin reserva previa, solo disponible para huéspedes."
+      "es": "Bar junto a la piscina externa: snacks, bebidas y platos para todos los gustos. Sin reserva previa, solo disponible para huéspedes.",
+      "en": "Poolside bar: snacks, drinks, and dishes to suit all tastes. No reservation required, available only to hotel guests.",
+      "pt": "Bar da piscina: petiscos, bebidas e pratos para todos os gostos. Não é necessário fazer reserva, disponível apenas para hóspedes do hotel."
      },
      "aviso": {
       "es": "Temporalemnte cerrado, disponible solo en temporada de verano."
@@ -238,24 +318,32 @@
    "id": "bienestar",
    "nombre": {
     "es": "Health & Spa",
-    "en": "Health & Spa and wellness",
-    "pt": "Health & Spa e bem-estar"
+    "en": "Health & Spa",
+    "pt": "Saúde e Spa"
    },
    "nota": {
-    "es": "Horarios y toda la informaciónnecesaria para utilizar nuestras instslaciones de bienestar."
+    "es": "Toda la información para disfrutar de nuestras piscinas, gimnasio, espacios de relax y tratamientos.",
+    "en": "All the information you need to enjoy our swimming pools, gym, relaxation areas and treatments.",
+    "pt": "Todas as informações que você precisa para aproveitar nossas piscinas, academia, áreas de relaxamento e tratamentos."
    },
    "foto": "bienestar.jpg",
    "items": [
     {
      "id": "health-spa",
      "nombre": {
-      "es": "Health & Spa"
+      "es": "Health & Spa",
+      "en": "Health & Spa",
+      "pt": "Saúde e Spa"
      },
      "descripcion": {
-      "es": "Incluye dos piscinas (una cubierta climatizada y otra al aire libre), Sheraton Fitness, vestuarios, saunas, baños de vapor, hidromasaje, gabinetes de masajes, sala de relax y sala de juegos.\nRecuerde presentar las tarjetas celestes entregadas al momento del check in, para canjearlas por toallas en la recepción del spa."
+      "es": "Incluye dos piscinas (una cubierta climatizada y otra al aire libre), Sheraton Fitness, vestuarios, saunas, baños de vapor, hidromasaje, gabinetes de masajes, sala de relax y sala de juegos.\nRecuerde presentar las tarjetas celestes entregadas al momento del check in, para canjearlas por toallas en la recepción del spa.",
+      "en": "It includes two swimming pools (one heated indoor and one outdoor), Sheraton Fitness, changing rooms, saunas, steam rooms, a whirlpool, massage rooms, a relaxation room, and a game room.\n\nRemember to present the blue cards you received at check-in to exchange them for towels at the spa reception.",
+      "pt": "O spa inclui duas piscinas (uma aquecida, coberta e ao ar livre), academia Sheraton Fitness, vestiários, saunas, banho turco, banheira de hidromassagem, salas de massagem, sala de relaxamento e sala de jogos.\n\nLembre-se de apresentar os cartões azuis que você recebeu no check-in para trocá-los por toalhas na recepção do spa."
      },
      "horario": {
-      "es": "Lun a vie 7:00 a 22:00 hs · Sáb 8:00 a 22:00 hs · Dom y feriados 8:00 a 20:00 hs"
+      "es": "Lun a vie 7:00 a 22:00 hs · Sáb 8:00 a 22:00 hs · Dom y feriados 8:00 a 20:00 hs",
+      "en": "Mon to Fri 7:00 to 22:00 · Sat 8:00 to 22:00 · Sun and holidays 8:00 to 20:00",
+      "pt": "Segunda a sexta, das 7h às 22h · Sábado, das 8h às 22h · Domingo e feriados, das 8h às 20h"
      },
      "aviso": {
       "es": "Menores de 16 años: hasta las 17 hs"
@@ -264,22 +352,32 @@
     {
      "id": "piscina-interna",
      "nombre": {
-      "es": "Piscina interna, icebath e hidromasaje"
+      "es": "Piscina interna, icebath e hidromasaje",
+      "en": "Indoor pool, ice bath and whirlpool",
+      "pt": "Piscina coberta, banho de gelo e hidromassagem."
      },
      "descripcion": {
-      "es": "La piscina interna tiene una temperatura de 34°, el ice bath de 8° y el hidromasajes de 38°. Podrá alternar entre ellas para hacer terapia de contraste.\nLa piscina interna climatizada cuenta con dos escaleras de acero para ingresar, mientras que el hidromasaje cuenta con una escalinata con baranda para facilitar el acceso."
+      "es": "La piscina interna tiene una temperatura de 34°, el ice bath de 8° y el hidromasajes de 38°. Podrá alternar entre ellas para hacer terapia de contraste.\nLa piscina interna climatizada cuenta con dos escaleras de acero para ingresar, mientras que el hidromasaje cuenta con una escalinata con baranda para facilitar el acceso.",
+      "en": "The indoor pool is heated to 34°C, the ice bath to 8°C, and the whirlpool to 38°C. You can alternate between them for contrast therapy.\nThe heated indoor pool has two steel staircases for entry, while the whirlpool has a staircase with a handrail for easy access.",
+      "pt": "A piscina interior é aquecida a 34°C, o banho de gelo a 8°C e a banheira de hidromassagem a 38°C. Pode alternar entre elas para uma terapia de contraste.\nA piscina interior aquecida tem duas escadas de aço para acesso, enquanto a banheira de hidromassagem tem uma escada com corrimão para facilitar o acesso."
      }
     },
     {
      "id": "piscina-externa",
      "nombre": {
-      "es": "Piscinas externas y solarium"
+      "es": "Piscinas externas y solarium",
+      "en": "Outdoor swimming pools and solarium",
+      "pt": "Piscinas externas e solário"
      },
      "descripcion": {
-      "es": "Piscina externa de 240 m2 y piscina para menores. Cuenta también con solarium húmedo y seco. Guardavidas en temporada de verano. Camastros con costo extra: consulte en recepción Health & Spa."
+      "es": "Piscina externa de 240 m2 y piscina para menores. Cuenta también con solarium húmedo y seco. Guardavidas en temporada de verano. Camastros con costo extra: consulte en recepción Health & Spa.",
+      "en": "240 m² outdoor pool and children's pool. Also features a wet and dry solarium. Lifeguard on duty during the summer season. Sun loungers available at an extra cost: please inquire at the Health & Spa reception.",
+      "pt": "Piscina exterior de 240 m² e piscina infantil. Dispõe ainda de solário seco e molhado. Guarda-vidas de serviço durante a época alta. Espreguiçadeiras disponíveis mediante um custo adicional: por favor, informe-se na receção do Health & Spa."
      },
      "horario": {
-      "es": "De 10:00 a 20:00 hs"
+      "es": "De 10:00 a 20:00 hs",
+      "en": "From 10:00 to 20:00",
+      "pt": "Das 10:00 às 20:00"
      },
      "aviso": {
       "es": "Solo durante temporada de verano con guardavidas (de octubre hasta abril)"
@@ -288,13 +386,19 @@
     {
      "id": "fitness",
      "nombre": {
-      "es": "Sheraton Fitness"
+      "es": "Sheraton Fitness",
+      "en": "Sheraton Fitness",
+      "pt": "Sheraton Fitness"
      },
      "descripcion": {
-      "es": "Gimnasio totalmente equipado para entrenar con vista a los jardines, y profesionales para asesorarlo durante su entrenamiento."
+      "es": "Gimnasio totalmente equipado para entrenar con vista a los jardines, y profesionales para asesorarlo durante su entrenamiento.",
+      "en": "Fully equipped gym for training with a view of the gardens, and professionals to advise you during your training.",
+      "pt": "Academia totalmente equipada para treinamento com vista para os jardins e profissionais para orientá-lo durante o seu treino."
      },
      "horario": {
-      "es": "Disponible 24 hs · Para acceder fuera del horario del spa, solicite la apertura en nuestro Front Desk."
+      "es": "Disponible 24 hs · Para acceder fuera del horario del spa, solicite la apertura en nuestro Front Desk.",
+      "en": "Available 24 hours · To access outside of spa hours, please request access at our Front Desk.",
+      "pt": "Disponível 24 horas · Para acesso fora do horário de funcionamento do spa, solicite na recepção."
      },
      "aviso": {
       "es": "Permitido el uso sólo con calzado apropiado para gimnasio. Para mayores de 16 años."
@@ -303,13 +407,19 @@
     {
      "id": "masajes",
      "nombre": {
-      "es": "Masajes y tratamientos faciales"
+      "es": "Masajes y tratamientos faciales",
+      "en": "Massages and facial treatments",
+      "pt": "Massagens e tratamentos faciais"
      },
      "descripcion": {
-      "es": "Servicio de masajes y tratamientos faciales diseñados para el bienestar y la renovación de la piel. \n\nCon reserva previa y según disponibilidad. Se recomienda presentarse 15 minutos antes del horario reservado para aprovechar al máximo su tiempo de masaje.\n**Cancelación:** se requiere un aviso con al menos 2 horas de anticipación al horario reservado.\nEn caso de no cancelar con la anticipación requerida, se aplicará un cargo del 50% del valor del servicio."
+      "es": "Servicio de masajes y tratamientos faciales diseñados para el bienestar y la renovación de la piel. \n\nCon reserva previa y según disponibilidad. Se recomienda presentarse 15 minutos antes del horario reservado para aprovechar al máximo su tiempo de masaje.\n**Cancelación:** se requiere un aviso con al menos 2 horas de anticipación al horario reservado.\nEn caso de no cancelar con la anticipación requerida, se aplicará un cargo del 50% del valor del servicio.",
+      "en": "Massage and facial treatments designed for skin well-being and renewal.\n\nReservations are required and subject to availability. We recommend arriving 15 minutes prior to your scheduled appointment to make the most of your massage time.\n\n**Cancellation:** Please notify us at least 2 hours in advance of your appointment. Failure to cancel within the required timeframe will result in a charge of 50% of the service fee.",
+      "pt": "Massagens e tratamentos faciais concebidos para o bem-estar e renovação da pele.\n\nÉ necessário fazer reserva, sujeita à disponibilidade. Recomendamos chegar 15 minutos antes do horário agendado para aproveitar ao máximo o tempo da sua massagem.\n\n**Cancelamento:** Por favor, avise-nos com pelo menos 2 horas de antecedência. O não cancelamento dentro do prazo estipulado resultará na cobrança de 50% do valor do serviço."
      },
      "horario": {
-      "es": "Lun a sab 14:00 a 21:00 hs · Dom y feriados 10:00 a 17:00 hs"
+      "es": "Lun a sab 14:00 a 21:00 hs · Dom y feriados 10:00 a 17:00 hs",
+      "en": "Mon to Sat 2:00 PM to 9:00 PM · Sun and holidays 10:00 AM to 5:00 PM",
+      "pt": "De segunda a sábado, das 14h às 21h · Domingos e feriados, das 10h às 17h"
      },
      "aviso": {
       "es": "Para mayores de 16 años."
@@ -318,22 +428,32 @@
     {
      "id": "vestuarios",
      "nombre": {
-      "es": "Vestuarios y salas de relax"
+      "es": "Vestuarios y salas de relax",
+      "en": "Changing rooms and relaxation rooms",
+      "pt": "Vestiários e salas de relaxamento"
      },
      "descripcion": {
-      "es": "Los saunas, baños de vapor y salas de relax se encuentran ubicados dentro de los vestuarios de hombres y mujeres, respectivamente. Estos espacios no son mixtos. Contamos con lockers para guardar pertenencias y ofrecemos toallas, shampoo, acondicionador, jabón, crema corporal, secador de pelo y planchita para la comodidad de nuestros clientes. Nuestra sala de relax cuenta con agua saborizada, té y frutas."
+      "es": "Los saunas, baños de vapor y salas de relax se encuentran ubicados dentro de los vestuarios de hombres y mujeres, respectivamente. Estos espacios no son mixtos. Contamos con lockers para guardar pertenencias y ofrecemos toallas, shampoo, acondicionador, jabón, crema corporal, secador de pelo y planchita para la comodidad de nuestros clientes. Nuestra sala de relax cuenta con agua saborizada, té y frutas.",
+      "en": "The saunas, steam rooms, and relaxation areas are located within the men's and women's changing rooms, respectively. These spaces are not co-ed. We have lockers for storing belongings and offer towels, shampoo, conditioner, soap, body lotion, a hair dryer, and a hair straightener for our guests' convenience. Our relaxation area offers flavored water, tea, and fruit.",
+      "pt": "As saunas, banhos de vapor e áreas de relaxamento estão localizadas nos vestiários masculino e feminino, respectivamente. Esses espaços não são mistos. Disponibilizamos armários para guardar pertences e oferecemos toalhas, xampu, condicionador, sabonete, loção corporal, secador de cabelo e chapinha para maior comodidade de nossos hóspedes. Nossa área de relaxamento oferece água aromatizada, chá e frutas."
      }
     },
     {
      "id": "peluqueria",
      "nombre": {
-      "es": "Peluquería"
+      "es": "Peluquería",
+      "en": "Hair salon",
+      "pt": "Salão de cabeleireiro"
      },
      "descripcion": {
-      "es": "Planta baja, al lado del Health & Spa. Reservas por WhatsApp o marcando su interno desde cualquier teléfono del hotel."
+      "es": "Planta baja, al lado del Health & Spa. Reservas por WhatsApp o marcando su interno desde cualquier teléfono del hotel.",
+      "en": "Ground floor, next to the Health & Spa. Reservations via WhatsApp or by dialing their extension from any hotel phone.",
+      "pt": "Piso térreo, ao lado do Health & Spa. Reservas via WhatsApp ou ligando para o ramal correspondente de qualquer telefone do hotel."
      },
      "horario": {
-      "es": "Mar a sab 9:30 a 20:00 hs."
+      "es": "Mar a sab 9:30 a 20:00 hs.",
+      "en": "Tue to Sat 9:30 a.m. to 8:00 p.m.",
+      "pt": "De terça a sábado, das 9h30 às 20h."
      },
      "dato": "Marque 2890",
      "whatsapp": "5491150074296"
@@ -344,22 +464,32 @@
    "id": "otros-servicios",
    "nombre": {
     "es": "Actividades y amenities",
-    "en": "Family & business",
-    "pt": "Família e negócios"
+    "en": "Activities and amenities",
+    "pt": "Atividades e comodidades"
    },
-   "nota": {},
+   "nota": {
+    "es": "Descubra las propuestas de recreación, deporte y entretenimiento, y los espacios disponibles para trabajar.",
+    "en": "Discover the recreation, sports and entertainment options, and the spaces available for working.",
+    "pt": "Descubra as opções de lazer, esportes e entretenimento, bem como os espaços disponíveis para trabalho."
+   },
    "foto": "otros-servicios.jpg",
    "items": [
     {
      "id": "kids-club",
      "nombre": {
-      "es": "Sheratoons Kids Club"
+      "es": "Sheratoons Kids Club",
+      "en": "Sheratons Kids Club",
+      "pt": "Clube Infantil Sheraton"
      },
      "descripcion": {
-      "es": "Actividades recreativas guiadas por nuestros profesores, pensadas para niños de 6 a 12 años (los menores de 6 años pueden participar acompañados por un adulto). Consiste en juegos al aire libre, manualidades, talleres creativos y actividades deportivas.\n\nTambién contamos con un salón Sheratoons, equipado con videojuegos (Wii, PlayStation 5 y arcade), ping pong, plaza blanda para bebés y más. En fechas especiales, organizamos actividades temáticas como búsqueda de huevos de Pascua o manualidades para el día del padre, de la madre o halloween."
+      "es": "Actividades recreativas guiadas por nuestros profesores, pensadas para niños de 6 a 12 años (los menores de 6 años pueden participar acompañados por un adulto). Consiste en juegos al aire libre, manualidades, talleres creativos y actividades deportivas.\n\nTambién contamos con un salón Sheratoons, equipado con videojuegos (Wii, PlayStation 5 y arcade), ping pong, plaza blanda para bebés y más. En fechas especiales, organizamos actividades temáticas como búsqueda de huevos de Pascua o manualidades para el día del padre, de la madre o halloween.",
+      "en": "Recreational activities led by our instructors, designed for children aged 6 to 12 (children under 6 can participate accompanied by an adult). These include outdoor games, crafts, creative workshops, and sports activities.\n\nWe also have a Sheratons room, equipped with video games (Wii, PlayStation 5, and arcade), ping pong, a soft play area for babies, and more. On special occasions, we organize themed activities such as Easter egg hunts or crafts for Father's Day, Mother's Day, or Halloween.",
+      "pt": "Atividades recreativas conduzidas por nossos instrutores, voltadas para crianças de 6 a 12 anos (crianças menores de 6 anos podem participar acompanhadas por um adulto). Essas atividades incluem jogos ao ar livre, artesanato, oficinas criativas e atividades esportivas.\n\nTambém contamos com uma sala Sheratons, equipada com videogames (Wii, PlayStation 5 e jogos de arcade), mesa de pingue-pongue, área de recreação infantil e muito mais. Em ocasiões especiais, organizamos atividades temáticas, como caça aos ovos de Páscoa ou oficinas de artesanato para o Dia dos Pais, Dia das Mães ou Halloween."
      },
      "horario": {
-      "es": "Sáb 12:00 a 20:00 hs · Dom 11:00 a 17:00 hs · Fines de semana y todos los días durante vacaciones de invierno o verano."
+      "es": "Sáb 12:00 a 20:00 hs · Dom 11:00 a 17:00 hs · Fines de semana y todos los días durante vacaciones de invierno o verano.",
+      "en": "Sat 12:00 to 20:00 · Sun 11:00 to 17:00 · Weekends and every day during winter or summer holidays.",
+      "pt": "Sáb. das 12:00 às 20:00 · Dom. das 11:00 às 17:00 · Fins de semana e todos os dias durante as férias de inverno ou verão."
      },
      "link": "https://sheraton-pilar.com.ar/sheratoons.pdf",
      "link_texto": {
@@ -369,22 +499,32 @@
     {
      "id": "plaza-juegos",
      "nombre": {
-      "es": "Plaza de juegos para niños"
+      "es": "Plaza de juegos para niños",
+      "en": "Children's playground",
+      "pt": "Parque infantil"
      },
      "descripcion": {
-      "es": "En nuestros jardines, los más pequeños pueden divertirse en nuestra plaza de juegos, equipada con hamacas, sube y bajas, toboganes, puentes colgantes y más. Un espacio al aire libre para que disfruten al máximo su estadía. Se recomienda que los menores estén supervisados por un adulto mientras disfrutan de la actividad."
+      "es": "En nuestros jardines, los más pequeños pueden divertirse en nuestra plaza de juegos, equipada con hamacas, sube y bajas, toboganes, puentes colgantes y más. Un espacio al aire libre para que disfruten al máximo su estadía. Se recomienda que los menores estén supervisados por un adulto mientras disfrutan de la actividad.",
+      "en": "In our gardens, the little ones can have fun in our playground, equipped with swings, seesaws, slides, suspension bridges, and more. It's an open-air space for them to make the most of their stay. Adult supervision is recommended for children while they are playing.",
+      "pt": "Em nossos jardins, os pequenos podem se divertir em nosso parquinho, equipado com balanços, gangorras, escorregadores, pontes suspensas e muito mais. É um espaço ao ar livre para que eles aproveitem ao máximo a estadia. Recomenda-se a supervisão de um adulto enquanto as crianças brincam."
      }
     },
     {
      "id": "sala-de-juegos",
      "nombre": {
-      "es": "Sala de juegos"
+      "es": "Sala de juegos",
+      "en": "Games room",
+      "pt": "Sala de jogos"
      },
      "descripcion": {
-      "es": "Cuenta con mesa de pool, ping pong, metegol, jenga gigante, generala gigante, cartas y juegos de mesa varios. La mesa de pool es de uso exclusivo para mayores de 16 años. Ubicado dentro de nuestro Health & Spa."
+      "es": "Cuenta con mesa de pool, ping pong, metegol, jenga gigante, generala gigante, cartas y juegos de mesa varios. La mesa de pool es de uso exclusivo para mayores de 16 años. Ubicado dentro de nuestro Health & Spa.",
+      "en": "It features a pool table, ping pong, foosball, giant Jenga, giant Yahtzee, cards, and various board games. The pool table is for the exclusive use of those 16 years and older. Located inside our Health & Spa.",
+      "pt": "O espaço conta com mesa de bilhar, pingue-pongue, pebolim, Jenga gigante, Yahtzee gigante, cartas e diversos jogos de tabuleiro. A mesa de bilhar é de uso exclusivo de pessoas com 16 anos ou mais. Localizada dentro do nosso Spa e Centro de Bem-Estar."
      },
      "horario": {
-      "es": "Lun a vie 7:00 a 22:00 hs · Sáb 8:00 a 22:00 hs · Dom y feriados 8:00 a 20:00 hs"
+      "es": "Lun a vie 7:00 a 22:00 hs · Sáb 8:00 a 22:00 hs · Dom y feriados 8:00 a 20:00 hs",
+      "en": "Mon to Fri 7:00 to 22:00 · Sat 8:00 to 22:00 · Sun and holidays 8:00 to 20:00",
+      "pt": "Segunda a sexta, das 7h às 22h · Sábado, das 8h às 22h · Domingo e feriados, das 8h às 20h"
      },
      "aviso": {
       "es": "Menores de 16 años: hasta las 17 hs"
@@ -393,43 +533,63 @@
     {
      "id": "cancha-multideporte",
      "nombre": {
-      "es": "Cancha Multideporte"
+      "es": "Cancha Multideporte",
+      "en": "Multi-sport court",
+      "pt": "quadra poliesportiva"
      },
      "descripcion": {
-      "es": "Un espacio al aire libre pensado para disfrutar del deporte y la actividad física. Cuenta con arcos de fútbol y aro de básquet, pero su superficie de pasto sintético permite practicar distintas disciplinas.\nSu uso es libre para huéspedes, socios Health & Spa y clientes de Día de Spa.\n\nPonemos a disposición pelotas de fútbol y básquet sin cargo y, para grupos numerosos, es posible reservar un turno. Además, la cancha cuenta con iluminación nocturna, por lo que puede disfrutarse tanto durante el día como por la noche."
+      "es": "Un espacio al aire libre pensado para disfrutar del deporte y la actividad física. Cuenta con arcos de fútbol y aro de básquet, pero su superficie de pasto sintético permite practicar distintas disciplinas.\nSu uso es libre para huéspedes, socios Health & Spa y clientes de Día de Spa.\n\nPonemos a disposición pelotas de fútbol y básquet sin cargo y, para grupos numerosos, es posible reservar un turno. Además, la cancha cuenta con iluminación nocturna, por lo que puede disfrutarse tanto durante el día como por la noche.",
+      "en": "An outdoor space designed for enjoying sports and physical activity. It features soccer goals and a basketball hoop, but its synthetic turf surface allows for various sports.\nIts use is free for hotel guests, Health & Spa members, and Spa Day clients.\n\nWe provide soccer and basketballs free of charge, and for large groups, it's possible to reserve a time slot. The court is also illuminated, so it can be enjoyed both day and night.",
+      "pt": "Um espaço ao ar livre projetado para a prática de esportes e atividades físicas. Possui traves de futebol e uma cesta de basquete, mas sua superfície de grama sintética permite a prática de vários esportes.\nO uso é gratuito para hóspedes do hotel, membros do Health & Spa e clientes do Spa Day.\nOferecemos futebol e basquete gratuitamente e, para grupos grandes, é possível reservar um horário. A quadra também é iluminada, para que possa ser aproveitada tanto de dia quanto de noite."
      },
      "horario": {
-      "es": "Lun a vie 7:00 a 22:00 hs · Sáb 8:00 a 22:00 hs · Dom y feriados 8:00 a 20:00 hs · Para acceder fuera del horario del spa, cordineló previamente con el personal de nuestro Health & Spa."
+      "es": "Lun a vie 7:00 a 22:00 hs · Sáb 8:00 a 22:00 hs · Dom y feriados 8:00 a 20:00 hs · Para acceder fuera del horario del spa, cordineló previamente con el personal de nuestro Health & Spa.",
+      "en": "Mon to Fri 7:00 to 22:00 · Sat 8:00 to 22:00 · Sun and holidays 8:00 to 20:00 · To access outside of spa hours, please coordinate in advance with our Health & Spa staff.",
+      "pt": "De segunda a sexta, das 7h às 22h · Sábado, das 8h às 22h · Domingo e feriados, das 8h às 20h · Para acesso fora do horário de funcionamento do spa, por favor, entre em contato com nossa equipe de Saúde e Bem-Estar com antecedência."
      }
     },
     {
      "id": "clases-aerobicas",
      "nombre": {
-      "es": "Clases aeróbicas para adultos"
+      "es": "Clases aeróbicas para adultos",
+      "en": "Aerobic classes for adults",
+      "pt": "Aulas de aeróbica para adultos"
      },
      "descripcion": {
-      "es": "Disfrutá de nuestras clases de stretching en fines de semana seleccionados. Nuestros profesores ofrecen sesiones de estiramiento y, en temporada de verano, gimnasia acuática. Actividades pensadas tanto para adultos como para compartir en familia."
+      "es": "Disfrutá de nuestras clases de stretching en fines de semana seleccionados. Nuestros profesores ofrecen sesiones de estiramiento y, en temporada de verano, gimnasia acuática. Actividades pensadas tanto para adultos como para compartir en familia.",
+      "en": "Enjoy our stretching classes on selected weekends. Our instructors offer stretching sessions and, during the summer season, water aerobics. Activities designed for both adults and families.",
+      "pt": "Desfrute de nossas aulas de alongamento em fins de semana selecionados. Nossos instrutores oferecem sessões de alongamento e, durante o verão, hidroginástica. Atividades pensadas para adultos e famílias."
      }
     },
     {
      "id": "link-center",
      "nombre": {
-      "es": "Espacio de trabajo"
+      "es": "Espacio de trabajo",
+      "en": "Workspace",
+      "pt": "Espaço de trabalho"
      },
      "descripcion": {
-      "es": "Ubicado en nuestro lobby principal, cuenta con estaciones de trabajo e impresora."
+      "es": "Ubicado en nuestro lobby principal, cuenta con estaciones de trabajo e impresora.",
+      "en": "Located in our main lobby, it features workstations and a printer.",
+      "pt": "Localizada no nosso saguão principal, ela dispõe de estações de trabalho e uma impressora."
      }
     },
     {
      "id": "salas-reuniones",
      "nombre": {
-      "es": "Salas de reuniones"
+      "es": "Salas de reuniones",
+      "en": "Meeting rooms",
+      "pt": "Salas de reuniões"
      },
      "descripcion": {
-      "es": "Dos salas para hasta 15 personas. Solicítelas en el front desk o llamando a Guest Service. Sujetas a disponibilidad y con costo adicional."
+      "es": "Dos salas para hasta 15 personas. Solicítelas en el front desk o llamando a Guest Service. Sujetas a disponibilidad y con costo adicional.",
+      "en": "Two rooms for up to 15 people. Request them at the front desk or by calling Guest Service. Subject to availability and at an additional cost.",
+      "pt": "Dois quartos com capacidade para até 15 pessoas. Solicite-os na recepção ou ligando para o Serviço de Atendimento ao Hóspede. Sujeito à disponibilidade e a um custo adicional."
      },
      "horario": {
-      "es": "De 9:00 a 18:00 hs"
+      "es": "De 9:00 a 18:00 hs",
+      "en": "From 9:00 to 18:00",
+      "pt": "Das 9:00 às 18:00"
      },
      "dato": "Marque 0"
     }
@@ -439,107 +599,143 @@
    "id": "conectividad",
    "nombre": {
     "es": "Internet y teléfono",
-    "en": "Internet & phone",
+    "en": "Internet and telephone",
     "pt": "Internet e telefone"
    },
-   "nota": {},
+   "nota": {
+    "es": "Cómo conectarse a internet y utilizar el servicio de llamadas desde su habitación.",
+    "en": "How to connect to the internet and use the call service from your room.",
+    "pt": "Como conectar-se à internet e usar o serviço de chamadas do seu quarto."
+   },
    "foto": "conectividad.jpg",
    "items": [
     {
      "id": "wifi",
      "nombre": {
-      "es": "Wi-Fi"
+      "es": "Wi-Fi",
+      "en": "Wi-Fi",
+      "pt": "Wi-fi"
      },
      "descripcion": {
-      "es": "1. Conéctese a la red **Sheraton Pilar**.\n2. Espere a que se abra el navegador. De lo contrario, abralo manulamente y será direccionado al portal del hotel.\n3. Ingrese su número de habitación y apellido (como figura en la reserva).\n4. Acepte los términos y condiciones, y presione INGRESAR."
+      "es": "1. Conéctese a la red **Sheraton Pilar**.\n2. Espere a que se abra el navegador. De lo contrario, abralo manulamente y será direccionado al portal del hotel.\n3. Ingrese su número de habitación y apellido (como figura en la reserva).\n4. Acepte los términos y condiciones, y presione INGRESAR.",
+      "en": "1. Connect to the **Sheraton Pilar** network.\n\n2. Wait for your browser to open. If it doesn't, open it manually and you will be redirected to the hotel portal.\n\n3. Enter your room number and last name (as shown on your reservation).\n\n4. Accept the terms and conditions, and click LOGIN.",
+      "pt": "1. Conecte-se à rede do **Sheraton Pilar**.\n\n2. Aguarde a abertura do seu navegador. Caso contrário, abra-o manualmente e você será redirecionado para o portal do hotel.\n\n3. Digite o número do seu quarto e o seu sobrenome (conforme consta na sua reserva).\n\n4. Aceite os termos e condições e clique em ENTRAR."
      },
      "dato": "Sheraton Pilar"
     },
     {
      "id": "internet-cable",
      "nombre": {
-      "es": "Internet por cable"
+      "es": "Internet por cable",
+      "en": "Wired internet",
+      "pt": "Internet com fio"
      },
      "descripcion": {
-      "es": "Conecte su cable LAN al puerto del escritorio de la habitación y siga los mismos pasos que para el Wi-Fi."
+      "es": "Conecte su cable LAN al puerto del escritorio de la habitación y siga los mismos pasos que para el Wi-Fi.",
+      "en": "Connect your LAN cable to the desktop port in the room and follow the same steps as for Wi-Fi.",
+      "pt": "Conecte o cabo de rede (LAN) à porta do computador no cômodo e siga os mesmos passos que para o Wi-Fi."
      }
     },
     {
      "id": "llamadas",
      "nombre": {
-      "es": "Información Telefónica"
+      "es": "Información Telefónica",
+      "en": "Telephone Information",
+      "pt": "Informações por telefone"
      },
      "descripcion": {
-      "es": "Ponemos a su disposición el servicio de llamadas telefónicas nacionales e internacionales. A continuación, se detallan las tarifas vigentes según el tipo de llamada y el destino."
+      "es": "Ponemos a su disposición el servicio de llamadas telefónicas nacionales e internacionales. A continuación, se detallan las tarifas vigentes según el tipo de llamada y el destino.",
+      "en": "We offer national and international telephone calling services. Below are the current rates according to the type of call and destination.",
+      "pt": "Oferecemos serviços de chamadas telefônicas nacionais e internacionais. Abaixo estão as tarifas atuais de acordo com o tipo de chamada e destino."
      }
     },
     {
      "id": "tel-local",
      "nombre": {
-      "es": "Llamadas locales"
+      "es": "Llamadas locales",
+      "en": "Local calls",
+      "pt": "chamadas locais"
      },
      "dato": "AR$ 50 / min"
     },
     {
      "id": "tel-cel",
      "nombre": {
-      "es": "Celulares locales"
+      "es": "Celulares locales",
+      "en": "Local cell phones",
+      "pt": "Telefones celulares locais"
      },
      "dato": "AR$ 100 / min"
     },
     {
      "id": "tel-nac",
      "nombre": {
-      "es": "Llamadas a Argentina"
+      "es": "Llamadas a Argentina",
+      "en": "Calls to Argentina",
+      "pt": "Ligações para a Argentina"
      },
      "dato": "AR$ 150 / min"
     },
     {
      "id": "tel-america",
      "nombre": {
-      "es": "Llamadas a América (incl. EE.UU. y Canadá)"
+      "es": "Llamadas a América (incl. EE.UU. y Canadá)",
+      "en": "Calls to America (incl. USA and Canada)",
+      "pt": "Chamadas para a América (incluindo EUA e Canadá)"
      },
      "dato": "AR$ 300 / min"
     },
     {
      "id": "tel-mundo",
      "nombre": {
-      "es": "Llamadas al resto del mundo"
+      "es": "Llamadas al resto del mundo",
+      "en": "Calls to the rest of the world",
+      "pt": "Apelos ao resto do mundo"
      },
      "dato": "AR$ 400 / min"
     },
     {
      "id": "tel-0800",
      "nombre": {
-      "es": "0800 / 0822 / 0810"
+      "es": "0800 / 0822 / 0810",
+      "en": "0800 / 0822 / 0810",
+      "pt": "0800 / 0822 / 0810"
      },
      "dato": "AR$ 200 / llamada"
     },
     {
      "id": "tel-1800",
      "nombre": {
-      "es": "1-800"
+      "es": "1-800",
+      "en": "1-800",
+      "pt": "1-800"
      },
      "dato": "AR$ 300 / min"
     },
     {
      "id": "tel-0810",
      "nombre": {
-      "es": "0-810"
+      "es": "0-810",
+      "en": "0-810",
+      "pt": "0-810"
      },
      "dato": "AR$ 200 / llamada"
     },
     {
      "id": "tel-0600",
      "nombre": {
-      "es": "0-600"
+      "es": "0-600",
+      "en": "0-600",
+      "pt": "0-600"
      },
      "dato": "AR$ 200 / hora"
     },
     {
      "id": "tel-0610",
      "nombre": {
-      "es": "0-610"
+      "es": "0-610",
+      "en": "0-610",
+      "pt": "0-610"
      },
      "dato": "AR$ 200 / hora"
     }
@@ -549,317 +745,409 @@
    "id": "tv",
    "nombre": {
     "es": "Canales de TV",
-    "en": "TV channels",
+    "en": "TV Channels",
     "pt": "Canais de TV"
    },
-   "nota": {},
+   "nota": {
+    "es": "Consulte la guía de canales disponibles y encuentre su programación favorita.",
+    "en": "Consult the guide to available channels and find your favorite programming.",
+    "pt": "Consulte o guia de canais disponíveis e encontre sua programação favorita."
+   },
    "foto": "tv.jpg",
    "items": [
     {
      "id": "tv-2",
      "nombre": {
-      "es": "Bloomberg"
+      "es": "Bloomberg",
+      "en": "Bloomberg",
+      "pt": "Bloomberg"
      },
      "dato": "2"
     },
     {
      "id": "tv-3",
      "nombre": {
-      "es": "CNN Internacional"
+      "es": "CNN Internacional",
+      "en": "CNN International",
+      "pt": "CNN Internacional"
      },
      "dato": "3"
     },
     {
      "id": "tv-4",
      "nombre": {
-      "es": "CNN en Español"
+      "es": "CNN en Español",
+      "en": "CNN en Español",
+      "pt": "CNN em Espanhol"
      },
      "dato": "4"
     },
     {
      "id": "tv-5",
      "nombre": {
-      "es": "BBC"
+      "es": "BBC",
+      "en": "BBC",
+      "pt": "BBC"
      },
      "dato": "5"
     },
     {
      "id": "tv-6",
      "nombre": {
-      "es": "DeporTV"
+      "es": "DeporTV",
+      "en": "DeporTV",
+      "pt": "DeporTV"
      },
      "dato": "6"
     },
     {
      "id": "tv-7",
      "nombre": {
-      "es": "The Golf Channel"
+      "es": "The Golf Channel",
+      "en": "The Golf Channel",
+      "pt": "O canal de golfe"
      },
      "dato": "7"
     },
     {
      "id": "tv-8",
      "nombre": {
-      "es": "D-Sport"
+      "es": "D-Sport",
+      "en": "D-Sport",
+      "pt": "D-Sport"
      },
      "dato": "8"
     },
     {
      "id": "tv-9",
      "nombre": {
-      "es": "ESPN"
+      "es": "ESPN",
+      "en": "ESPN",
+      "pt": "ESPN"
      },
      "dato": "9"
     },
     {
      "id": "tv-10",
      "nombre": {
-      "es": "ESPN Premium"
+      "es": "ESPN Premium",
+      "en": "ESPN Premium",
+      "pt": "ESPN Premium"
      },
      "dato": "10"
     },
     {
      "id": "tv-11",
      "nombre": {
-      "es": "TNT Sports"
+      "es": "TNT Sports",
+      "en": "TNT Sports",
+      "pt": "TNT Sports"
      },
      "dato": "11"
     },
     {
      "id": "tv-12",
      "nombre": {
-      "es": "FOX Sports"
+      "es": "FOX Sports",
+      "en": "FOX Sports",
+      "pt": "FOX Sports"
      },
      "dato": "12"
     },
     {
      "id": "tv-13",
      "nombre": {
-      "es": "TyC Sports"
+      "es": "TyC Sports",
+      "en": "TyC Sports",
+      "pt": "TyC Sports"
      },
      "dato": "13"
     },
     {
      "id": "tv-14",
      "nombre": {
-      "es": "TN"
+      "es": "TN",
+      "en": "TN",
+      "pt": "TN"
      },
      "dato": "14"
     },
     {
      "id": "tv-15",
      "nombre": {
-      "es": "América"
+      "es": "América",
+      "en": "America",
+      "pt": "América"
      },
      "dato": "15"
     },
     {
      "id": "tv-16",
      "nombre": {
-      "es": "Televisión Pública"
+      "es": "Televisión Pública",
+      "en": "Public Television",
+      "pt": "Televisão Pública"
      },
      "dato": "16"
     },
     {
      "id": "tv-17",
      "nombre": {
-      "es": "Telefe"
+      "es": "Telefe",
+      "en": "Telefe",
+      "pt": "Telefe"
      },
      "dato": "17"
     },
     {
      "id": "tv-18",
      "nombre": {
-      "es": "Canal Trece"
+      "es": "Canal Trece",
+      "en": "Channel Thirteen",
+      "pt": "Canal Treze"
      },
      "dato": "18"
     },
     {
      "id": "tv-19",
      "nombre": {
-      "es": "Canal 9"
+      "es": "Canal 9",
+      "en": "Channel 9",
+      "pt": "Canal 9"
      },
      "dato": "19"
     },
     {
      "id": "tv-20",
      "nombre": {
-      "es": "Comedy Central"
+      "es": "Comedy Central",
+      "en": "Comedy Central",
+      "pt": "Comedy Central"
      },
      "dato": "20"
     },
     {
      "id": "tv-21",
      "nombre": {
-      "es": "TNT"
+      "es": "TNT",
+      "en": "TNT",
+      "pt": "TNT"
      },
      "dato": "21"
     },
     {
      "id": "tv-22",
      "nombre": {
-      "es": "A&E"
+      "es": "A&E",
+      "en": "A&E",
+      "pt": "Pronto-Socorro"
      },
      "dato": "22"
     },
     {
      "id": "tv-23",
      "nombre": {
-      "es": "Star Channel"
+      "es": "Star Channel",
+      "en": "Star Channel",
+      "pt": "Canal Estrela"
      },
      "dato": "23"
     },
     {
      "id": "tv-24",
      "nombre": {
-      "es": "Sony Channel"
+      "es": "Sony Channel",
+      "en": "Sony Channel",
+      "pt": "Canal Sony"
      },
      "dato": "24"
     },
     {
      "id": "tv-25",
      "nombre": {
-      "es": "MTV"
+      "es": "MTV",
+      "en": "MTV",
+      "pt": "MTV"
      },
      "dato": "25"
     },
     {
      "id": "tv-26",
      "nombre": {
-      "es": "E!"
+      "es": "E!",
+      "en": "AND!",
+      "pt": "E!"
      },
      "dato": "26"
     },
     {
      "id": "tv-27",
      "nombre": {
-      "es": "Space"
+      "es": "Space",
+      "en": "Space",
+      "pt": "Espaço"
      },
      "dato": "27"
     },
     {
      "id": "tv-28",
      "nombre": {
-      "es": "AXN"
+      "es": "AXN",
+      "en": "AXN",
+      "pt": "AXN"
      },
      "dato": "28"
     },
     {
      "id": "tv-29",
      "nombre": {
-      "es": "Warner Channel"
+      "es": "Warner Channel",
+      "en": "Warner Channel",
+      "pt": "Canal Warner"
      },
      "dato": "29"
     },
     {
      "id": "tv-30",
      "nombre": {
-      "es": "TLC"
+      "es": "TLC",
+      "en": "TLC",
+      "pt": "TLC"
      },
      "dato": "30"
     },
     {
      "id": "tv-31",
      "nombre": {
-      "es": "Discovery Channel"
+      "es": "Discovery Channel",
+      "en": "Discovery Channel",
+      "pt": "Discovery Channel"
      },
      "dato": "31"
     },
     {
      "id": "tv-32",
      "nombre": {
-      "es": "History Channel"
+      "es": "History Channel",
+      "en": "History Channel",
+      "pt": "Canal de História"
      },
      "dato": "32"
     },
     {
      "id": "tv-33",
      "nombre": {
-      "es": "Animal Planet"
+      "es": "Animal Planet",
+      "en": "Animal Planet",
+      "pt": "Planeta Animal"
      },
      "dato": "33"
     },
     {
      "id": "tv-34",
      "nombre": {
-      "es": "Cartoonito"
+      "es": "Cartoonito",
+      "en": "Cartoon",
+      "pt": "Desenho animado"
      },
      "dato": "34"
     },
     {
      "id": "tv-35",
      "nombre": {
-      "es": "Cartoon Network"
+      "es": "Cartoon Network",
+      "en": "Cartoon Network",
+      "pt": "Cartoon Network"
      },
      "dato": "35"
     },
     {
      "id": "tv-36",
      "nombre": {
-      "es": "Discovery Kids"
+      "es": "Discovery Kids",
+      "en": "Discovery Kids",
+      "pt": "Discovery Kids"
      },
      "dato": "36"
     },
     {
      "id": "tv-37",
      "nombre": {
-      "es": "Caracol (Colombia)"
+      "es": "Caracol (Colombia)",
+      "en": "Caracol (Colombia)",
+      "pt": "Caracol (Colômbia)"
      },
      "dato": "37"
     },
     {
      "id": "tv-38",
      "nombre": {
-      "es": "Rai (Italia)"
+      "es": "Rai (Italia)",
+      "en": "Rai (Italy)",
+      "pt": "Rai (Itália)"
      },
      "dato": "38"
     },
     {
      "id": "tv-39",
      "nombre": {
-      "es": "DW (Alemania)"
+      "es": "DW (Alemania)",
+      "en": "DW (Germany)",
+      "pt": "DW (Alemanha)"
      },
      "dato": "39"
     },
     {
      "id": "tv-40",
      "nombre": {
-      "es": "Canal24 (Chile)"
+      "es": "Canal24 (Chile)",
+      "en": "Canal24 (Chile)",
+      "pt": "Canal24 (Chile)"
      },
      "dato": "40"
     },
     {
      "id": "tv-41",
      "nombre": {
-      "es": "D-News (Latinoamérica)"
+      "es": "D-News (Latinoamérica)",
+      "en": "D-News (Latin America)",
+      "pt": "D-News (América Latina)"
      },
      "dato": "41"
     },
     {
      "id": "tv-42",
      "nombre": {
-      "es": "NHK (Japón)"
+      "es": "NHK (Japón)",
+      "en": "NHK (Japan)",
+      "pt": "NHK (Japão)"
      },
      "dato": "42"
     },
     {
      "id": "tv-43",
      "nombre": {
-      "es": "O Globo (Brasil)"
+      "es": "O Globo (Brasil)",
+      "en": "O Globo (Brazil)",
+      "pt": "O Globo (Brasil)"
      },
      "dato": "43"
     },
     {
      "id": "tv-44",
      "nombre": {
-      "es": "La Nación+"
+      "es": "La Nación+",
+      "en": "The Nation+",
+      "pt": "A Nação+"
      },
      "dato": "44"
     },
     {
      "id": "tv-46",
      "nombre": {
-      "es": "Sheraton Pilar"
+      "es": "Sheraton Pilar",
+      "en": "Sheraton Pilar",
+      "pt": "Sheraton Pilar"
      },
      "dato": "46"
     }
@@ -870,27 +1158,39 @@
    "nombre": {
     "es": "Membresías",
     "en": "Memberships",
-    "pt": "Associações"
+    "pt": "Adesões"
    },
-   "nota": {},
+   "nota": {
+    "es": "Conozca Marriott Bonvoy™ y nuestra membresía Health & Spa, con sus beneficios y formas de sumarse.",
+    "en": "Discover Marriott Bonvoy™ and our Health & Spa membership, with its benefits and ways to join.",
+    "pt": "Descubra o Marriott Bonvoy™ e nossa associação Health & Spa, com seus benefícios e formas de adesão."
+   },
    "foto": "membresias.jpg",
    "items": [
     {
      "id": "bonvoy",
      "nombre": {
-      "es": "Marriott Bonvoy™"
+      "es": "Marriott Bonvoy™",
+      "en": "Marriott Bonvoy™",
+      "pt": "Marriott Bonvoy™"
      },
      "descripcion": {
-      "es": "Marriott Bonvoy™, es el programa de recompensas de viaje más rico\ndel mundo. Con más hoteles y experiencias en más destinos que\nningún otro, permite a todos sus miembros seguir viajando con pasión y propósito.\nMarriott Bonvoy™ cree que viajar enriquece y nutre al mundo. Abre la\nmente, amplía fronteras y crea recuerdos.\n¿Aún no es socio de Marriott Bonvoy? La membresía es gratuita.\nSolicite ayuda en el Front Desk para registrarse."
+      "es": "Marriott Bonvoy™, es el programa de recompensas de viaje más rico\ndel mundo. Con más hoteles y experiencias en más destinos que\nningún otro, permite a todos sus miembros seguir viajando con pasión y propósito.\nMarriott Bonvoy™ cree que viajar enriquece y nutre al mundo. Abre la\nmente, amplía fronteras y crea recuerdos.\n¿Aún no es socio de Marriott Bonvoy? La membresía es gratuita.\nSolicite ayuda en el Front Desk para registrarse.",
+      "en": "Marriott Bonvoy™ is the world's richest travel rewards program.\nWith more hotels and experiences in more destinations than any other, it empowers all its members to continue traveling with passion and purpose.\nMarriott Bonvoy™ believes that travel enriches and nourishes the world. It opens minds, expands horizons, and creates memories.\nNot yet a Marriott Bonvoy member? Membership is free.\nAsk the Front Desk for assistance with registration.",
+      "pt": "O Marriott Bonvoy™ é o programa de recompensas de viagens mais completo do mundo.\nCom mais hotéis e experiências em mais destinos do que qualquer outro, ele permite que todos os seus membros continuem viajando com paixão e propósito.\nO Marriott Bonvoy™ acredita que viajar enriquece e nutre o mundo. Abre mentes, expande horizontes e cria memórias.\n\nAinda não é membro do Marriott Bonvoy? A adesão é gratuita.\n\nPeça ajuda na recepção para se cadastrar."
      }
     },
     {
      "id": "membresia-spa",
      "nombre": {
-      "es": "Membresía Sheraton Pilar – Health & Spa"
+      "es": "Membresía Sheraton Pilar – Health & Spa",
+      "en": "Sheraton Pilar Membership – Health & Spa",
+      "pt": "Associação Sheraton Pilar – Saúde e Spa"
      },
      "descripcion": {
-      "es": "Acceso ilimitado a todas las instalaciones del Health & Spa: piscinas, hidromasaje, ice bath, saunas, baños de vapor, salas de relax, Sheraton Fitness, sala de juegos y vestuarios. Servicio de masajes y tratamientos faciales con cargo adicional.\n**Beneficios:** toallas, batas y lockers · Wi-Fi · estacionamiento.\n**Descuentos:** 15% en masajes · 10% en Las Vasijas, Don Giovanni y Lobby Bar · 10% en alojamiento · 10% en peluquería · 20% en lavandería.\nMás información en el Health & Spa."
+      "es": "Acceso ilimitado a todas las instalaciones del Health & Spa: piscinas, hidromasaje, ice bath, saunas, baños de vapor, salas de relax, Sheraton Fitness, sala de juegos y vestuarios. Servicio de masajes y tratamientos faciales con cargo adicional.\n**Beneficios:** toallas, batas y lockers · Wi-Fi · estacionamiento.\n**Descuentos:** 15% en masajes · 10% en Las Vasijas, Don Giovanni y Lobby Bar · 10% en alojamiento · 10% en peluquería · 20% en lavandería.\nMás información en el Health & Spa.",
+      "en": "Unlimited access to all Health & Spa facilities: pools, whirlpool, ice bath, saunas, steam rooms, relaxation lounges, Sheraton Fitness, game room, and changing rooms. Massage and facial treatments are available for an additional fee.\n\n**Benefits:** Towels, bathrobes, and lockers; Wi-Fi; parking.\n\n**Discounts:** 15% off massages; 10% off at Las Vasijas, Don Giovanni, and the Lobby Bar; 10% off accommodations; 10% off hair salon services; 20% off laundry services.\n\nMore information at the Health & Spa.",
+      "pt": "Acesso ilimitado a todas as instalações do Health & Spa: piscinas, hidromassagem, banho de gelo, saunas, banhos de vapor, salas de relaxamento, Sheraton Fitness, sala de jogos e vestiários. Massagens e tratamentos faciais estão disponíveis mediante taxa adicional.\n\n**Benefícios:** Toalhas, roupões e armários; Wi-Fi; estacionamento.\n\n**Descontos:** 15% de desconto em massagens; 10% de desconto no Las Vasijas, Don Giovanni e no Lobby Bar; 10% de desconto em acomodações; 10% de desconto em serviços de cabeleireiro; 20% de desconto em serviços de lavanderia.\n\nMais informações no Health & Spa."
      }
     }
    ]
@@ -899,49 +1199,67 @@
    "id": "seguridad",
    "nombre": {
     "es": "Procedimientos de seguridad",
-    "en": "Safety",
-    "pt": "Segurança"
+    "en": "Security procedures",
+    "pt": "Procedimentos de segurança"
    },
    "nota": {
-    "es": "Ante una emergencia, marque 0 (Guest Service Center)."
+    "es": "Recomendaciones para su seguridad e indicaciones sobre cómo actuar ante una emergencia.",
+    "en": "Recommendations for your safety and instructions on how to act in an emergency.",
+    "pt": "Recomendações para sua segurança e instruções sobre como agir em caso de emergência."
    },
    "foto": "seguridad.jpg",
    "items": [
     {
      "id": "al-llegar",
      "nombre": {
-      "es": "Al llegar"
+      "es": "Al llegar",
+      "en": "Upon arrival",
+      "pt": "Ao chegar"
      },
      "descripcion": {
-      "es": "Le recomendamos que tome algunas medidas de precaución al llegar:\n• Ubique las salidas de emergencia.\n• Revise el mapa detrás de la puerta de su habitación.\n• Ubique los matafuegos y alarmas de incendio más cercanos."
+      "es": "Le recomendamos que tome algunas medidas de precaución al llegar:\n• Ubique las salidas de emergencia.\n• Revise el mapa detrás de la puerta de su habitación.\n• Ubique los matafuegos y alarmas de incendio más cercanos.",
+      "en": "We recommend you take the following precautions upon arrival:\n\n• Locate the emergency exits.\n\n• Check the map behind your room door.\n\n• Locate the nearest fire extinguishers and fire alarms.",
+      "pt": "Recomendamos que tome as seguintes precauções ao chegar:\n\n• Localize as saídas de emergência.\n\n• Verifique o mapa atrás da porta do seu quarto.\n\n• Localize os extintores e alarmes de incêndio mais próximos."
      }
     },
     {
      "id": "incendio",
      "nombre": {
-      "es": "Si suena la alarma de incendio"
+      "es": "Si suena la alarma de incendio",
+      "en": "If the fire alarm sounds",
+      "pt": "Se o alarme de incêndio soar"
      },
      "descripcion": {
-      "es": "El hotel cuenta con aspersores y detectores de humo en habitaciones y pasillos.\n• Lleve su llave.\n• Antes de abrirla, fíjese si entra calor o humo por la puerta.\n• Si el pasillo está despejado, salga por la escalera más cercana.\n• **No use los ascensores.**"
+      "es": "El hotel cuenta con aspersores y detectores de humo en habitaciones y pasillos.\n• Lleve su llave.\n• Antes de abrirla, fíjese si entra calor o humo por la puerta.\n• Si el pasillo está despejado, salga por la escalera más cercana.\n• **No use los ascensores.**",
+      "en": "The hotel has sprinklers and smoke detectors in rooms and hallways.\n\n• Bring your key.\n\n• Before opening the door, check for heat or smoke.\n\n• If the hallway is clear, exit via the nearest staircase.\n\n• **Do not use the elevators.**",
+      "pt": "O hotel possui sprinklers e detectores de fumaça nos quartos e corredores.\n\n• Traga sua chave.\n\n• Antes de abrir a porta, verifique se há calor ou fumaça.\n\n• Se o corredor estiver livre, saia pela escada mais próxima.\n\n• **Não utilize os elevadores.**"
      }
     },
     {
      "id": "puerta-caliente",
      "nombre": {
-      "es": "Si la puerta está caliente o no puede salir"
+      "es": "Si la puerta está caliente o no puede salir",
+      "en": "If the door is hot or you can't get out",
+      "pt": "Se a porta estiver quente ou você não conseguir sair"
      },
      "descripcion": {
-      "es": "• Coloque toallas mojadas en la parte inferior de la puerta.\n• Contactesé con Guest Service e indique su nombre y número de habitación.\n• Apague el aire acondicionado o calefacción.\n• Agáchese para no inhalar humo."
+      "es": "• Coloque toallas mojadas en la parte inferior de la puerta.\n• Contactesé con Guest Service e indique su nombre y número de habitación.\n• Apague el aire acondicionado o calefacción.\n• Agáchese para no inhalar humo.",
+      "en": "• Place wet towels at the bottom of the door.\n\n• Contact Guest Services and provide your name and room number.\n\n• Turn off the air conditioning or heating.\n\n• Crouch down to avoid inhaling smoke.",
+      "pt": "• Coloque toalhas molhadas na parte inferior da porta.\n\n• Entre em contato com o Serviço de Atendimento ao Hóspede e informe seu nome e número do quarto.\n\n• Desligue o ar-condicionado ou o aquecimento.\n\n• Abaixe-se para evitar inalar fumaça."
      },
      "dato": "Marque 0"
     },
     {
      "id": "consejos",
      "nombre": {
-      "es": "Consejos para la seguridad de nuestros huéspedes"
+      "es": "Consejos para la seguridad de nuestros huéspedes",
+      "en": "Tips for the safety of our guests",
+      "pt": "Dicas para a segurança dos nossos hóspedes"
      },
      "descripcion": {
-      "es": "• Cierre puertas y ventanas con todos los dispositivos de bloqueo, esté o no en la habitación (los ventanales abren hasta 10 cm).\n• Si alguien del personal llega sin que lo espere, pídale que se identifique. No acepte entregas que no pidió.\n• Use la mirilla para identificar a los visitantes.\n• Lleve siempre la llave de su habitación.\n• Si ve algo sospechoso, avísenos de inmediato."
+      "es": "• Cierre puertas y ventanas con todos los dispositivos de bloqueo, esté o no en la habitación (los ventanales abren hasta 10 cm).\n• Si alguien del personal llega sin que lo espere, pídale que se identifique. No acepte entregas que no pidió.\n• Use la mirilla para identificar a los visitantes.\n• Lleve siempre la llave de su habitación.\n• Si ve algo sospechoso, avísenos de inmediato.",
+      "en": "• Lock all doors and windows with all locking devices, whether you are in the room or not (the French doors open up to 10 cm).\n\n• If a staff member arrives unexpectedly, ask them to identify themselves. Do not accept deliveries you did not order.\n\n• Use the peephole to check on visitors.\n\n• Always carry your room key.\n\n• If you see anything suspicious, please notify us immediately.",
+      "pt": "• Tranque todas as portas e janelas com todos os dispositivos de segurança, esteja você no quarto ou não (as portas francesas abrem até 10 cm).\n\n• Se um funcionário chegar inesperadamente, peça que ele se identifique. Não aceite entregas que você não solicitou.\n\n• Use a olho mágico para verificar se há visitantes.\n\n• Sempre carregue a chave do seu quarto.\n\n• Se você observar algo suspeito, por favor, nos avise imediatamente."
      }
     }
    ]
@@ -951,319 +1269,415 @@
    "nombre": {
     "es": "Área local",
     "en": "Local area",
-    "pt": "Região"
+    "pt": "Área local"
    },
    "nota": {
-    "es": "Consulte en el front desk para obtener información adicional."
+    "es": "Explore actividades, paseos, restaurantes y servicios cercanos, con sus distancias desde el hotel.",
+    "en": "Explore nearby activities, tours, restaurants and services, along with their distances from the hotel.",
+    "pt": "Explore as atividades, passeios, restaurantes e serviços nas proximidades, bem como a distância de cada um até o hotel."
    },
    "foto": "area-local.jpg",
    "items": [
     {
      "id": "ubicacion",
      "nombre": {
-      "es": "Actividades"
+      "es": "Actividades",
+      "en": "Activities",
+      "pt": "Atividades"
      },
      "descripcion": {
-      "es": "Opciones de entretenimiento, deporte y aventura para disfrutar en familia o con amigos cerca del hotel."
+      "es": "Opciones de entretenimiento, deporte y aventura para disfrutar en familia o con amigos cerca del hotel.",
+      "en": "Entertainment, sports and adventure options to enjoy with family or friends near the hotel.",
+      "pt": "Opções de entretenimento, esportes e aventura para aproveitar com a família ou amigos perto do hotel."
      }
     },
     {
      "id": "brasov",
      "nombre": {
-      "es": "Brasov Grill & Bowl"
+      "es": "Brasov Grill & Bowl",
+      "en": "Brasov Grill & Bowl",
+      "pt": "Brasov Grill & Bowl"
      },
      "dato": "150 m"
     },
     {
      "id": "rush",
      "nombre": {
-      "es": "Rush – Parque de camas elásticas"
+      "es": "Rush – Parque de camas elásticas",
+      "en": "Rush – Trampoline Park",
+      "pt": "Rush – Parque de Trampolins"
      },
      "dato": "150 m"
     },
     {
      "id": "multiplex",
      "nombre": {
-      "es": "Cine Multiplex"
+      "es": "Cine Multiplex",
+      "en": "Multiplex Cinema",
+      "pt": "Cinema Multiplex"
      },
      "dato": "700 m"
     },
     {
      "id": "cinepolis",
      "nombre": {
-      "es": "Cinépolis Pilar"
+      "es": "Cinépolis Pilar",
+      "en": "Cinépolis Pilar",
+      "pt": "Cinépolis Pilar"
      },
      "dato": "800 m"
     },
     {
      "id": "escape-room",
      "nombre": {
-      "es": "Escape Room Pilar"
+      "es": "Escape Room Pilar",
+      "en": "Escape Room Pilar",
+      "pt": "Escape Room Pilar"
      },
      "dato": "800 m"
     },
     {
      "id": "club-escape",
      "nombre": {
-      "es": "Club del Escape Pilar"
+      "es": "Club del Escape Pilar",
+      "en": "Pilar Escape Club",
+      "pt": "Clube de Fuga Pilar"
      },
      "dato": "950 m"
     },
     {
      "id": "bingo",
      "nombre": {
-      "es": "Bingo Oasis"
+      "es": "Bingo Oasis",
+      "en": "Bingo Oasis",
+      "pt": "Oásis do Bingo"
      },
      "dato": "1,1 km"
     },
     {
      "id": "pilar-paddle",
      "nombre": {
-      "es": "Pilar Paddle Center"
+      "es": "Pilar Paddle Center",
+      "en": "Pilar Paddle Center",
+      "pt": "Centro de Remo Pilar"
      },
      "dato": "1,2 km"
     },
     {
      "id": "neverland",
      "nombre": {
-      "es": "Neverland"
+      "es": "Neverland",
+      "en": "Neverland",
+      "pt": "Terra do Nunca"
      },
      "dato": "1,6 km"
     },
     {
      "id": "sharewood",
      "nombre": {
-      "es": "Sharewood Pilar"
+      "es": "Sharewood Pilar",
+      "en": "Sharewood Pilar",
+      "pt": "Pilar Sharewood"
      },
      "dato": "1,6 km"
     },
     {
      "id": "yarda",
      "nombre": {
-      "es": "Yarda 51: Indoor Golf"
+      "es": "Yarda 51: Indoor Golf",
+      "en": "Yard 51: Indoor Golf",
+      "pt": "Quintal 51: Golfe Indoor"
      },
      "dato": "2,1 km"
     },
     {
      "id": "teatro",
      "nombre": {
-      "es": "Teatro Gran Pilar"
+      "es": "Teatro Gran Pilar",
+      "en": "Gran Pilar Theatre",
+      "pt": "Teatro Gran Pilar"
      },
      "dato": "5,5 km"
     },
     {
      "id": "temaiken",
      "nombre": {
-      "es": "Bioparque Temaikén"
+      "es": "Bioparque Temaikén",
+      "en": "Temaikén Biopark",
+      "pt": "Bioparque Temaikén"
      },
      "dato": "12 km"
     },
     {
      "id": "compras",
      "nombre": {
-      "es": "Paseos y Compras"
+      "es": "Paseos y Compras",
+      "en": "Walks and Shopping",
+      "pt": "Passeios e compras"
      },
      "descripcion": {
-      "es": "Centros comerciales y paseos para descubrir, recorrer y disfrutar durante tu estadía."
+      "es": "Centros comerciales y paseos para descubrir, recorrer y disfrutar durante tu estadía.",
+      "en": "Shopping centers and promenades to discover, explore and enjoy during your stay.",
+      "pt": "Centros comerciais e calçadões para descobrir, explorar e desfrutar durante a sua estadia."
      }
     },
     {
      "id": "palmas",
      "nombre": {
-      "es": "Palmas de Pilar Shopping"
+      "es": "Palmas de Pilar Shopping",
+      "en": "Palmas de Pilar Shopping",
+      "pt": "Palmas de Pilar Shopping"
      },
      "dato": "450 m"
     },
     {
      "id": "pilar-walk",
      "nombre": {
-      "es": "Pilar Walk"
+      "es": "Pilar Walk",
+      "en": "Pilar Walk",
+      "pt": "Passeio Pilar"
      },
      "dato": "950 m"
     },
     {
      "id": "champagnat",
      "nombre": {
-      "es": "Paseo Champagnat"
+      "es": "Paseo Champagnat",
+      "en": "Champagnat Promenade",
+      "pt": "Passeio Champagnat"
      },
      "dato": "5 km"
     },
     {
      "id": "paseo-pilar",
      "nombre": {
-      "es": "Paseo Pilar"
+      "es": "Paseo Pilar",
+      "en": "Pilar Promenade",
+      "pt": "Passeio Pilar"
      },
      "dato": "5,9 km"
     },
     {
      "id": "tortugas",
      "nombre": {
-      "es": "Tortugas Open Mall (TOM)"
+      "es": "Tortugas Open Mall (TOM)",
+      "en": "Tortugas Open Mall (TOM)",
+      "pt": "Tortugas Open Mall (TOM)"
      },
      "dato": "13,6 km"
     },
     {
      "id": "propuestas-gastronomicas",
      "nombre": {
-      "es": "Propuestas gastronómicas"
+      "es": "Propuestas gastronómicas",
+      "en": "Gastronomic proposals",
+      "pt": "Propostas gastronômicas"
      },
      "descripcion": {
-      "es": "Descubrí los sabores de la zona con opciones para cada gusto y ocasión."
+      "es": "Descubrí los sabores de la zona con opciones para cada gusto y ocasión.",
+      "en": "Discover the flavors of the area with options for every taste and occasion.",
+      "pt": "Descubra os sabores da região com opções para todos os gostos e ocasiões."
      }
     },
     {
      "id": "yokos",
      "nombre": {
-      "es": "Yokos Bureau"
+      "es": "Yokos Bureau",
+      "en": "Yoko's Bureau",
+      "pt": "Escritório de Yoko"
      },
      "dato": "500 m"
     },
     {
      "id": "birra-bar",
      "nombre": {
-      "es": "La Birra Bar"
+      "es": "La Birra Bar",
+      "en": "The Birra Bar",
+      "pt": "O Bar Birra"
      },
      "dato": "750 m"
     },
     {
      "id": "mooi",
      "nombre": {
-      "es": "Mooi"
+      "es": "Mooi",
+      "en": "Mooi",
+      "pt": "Bonito"
      },
      "dato": "850 m"
     },
     {
      "id": "club-milanesa",
      "nombre": {
-      "es": "El Club de la Milanesa"
+      "es": "El Club de la Milanesa",
+      "en": "The Milanesa Club",
+      "pt": "O Clube Milanesa"
      },
      "dato": "1 km"
     },
     {
      "id": "food-truck-store",
      "nombre": {
-      "es": "The Food Truck Store"
+      "es": "The Food Truck Store",
+      "en": "The Food Truck Store",
+      "pt": "A Loja de Food Trucks"
      },
      "dato": "1,5 km"
     },
     {
      "id": "rock-fellers",
      "nombre": {
-      "es": "Rock & Feller’s"
+      "es": "Rock & Feller’s",
+      "en": "Rock & Feller’s",
+      "pt": "Rock & Feller’s"
      },
      "dato": "2,5 km"
     },
     {
      "id": "tutto-tano",
      "nombre": {
-      "es": "Tutto Tano"
+      "es": "Tutto Tano",
+      "en": "Tutto Tano",
+      "pt": "Tudo"
      },
      "dato": "2,5 km"
     },
     {
      "id": "cabrera",
      "nombre": {
-      "es": "La Cabrera"
+      "es": "La Cabrera",
+      "en": "The Cabrera",
+      "pt": "O Cabrera"
      },
      "dato": "2,7 km"
     },
     {
      "id": "fabric-sushi",
      "nombre": {
-      "es": "Fabric Sushi"
+      "es": "Fabric Sushi",
+      "en": "Fabric Sushi",
+      "pt": "Sushi de tecido"
      },
      "dato": "2,7 km"
     },
     {
      "id": "kansas",
      "nombre": {
-      "es": "Kansas"
+      "es": "Kansas",
+      "en": "Kansas",
+      "pt": "Kansas"
      },
      "dato": "6,4 km"
     },
     {
      "id": "lima",
      "nombre": {
-      "es": "Lima Estilo Nikkei"
+      "es": "Lima Estilo Nikkei",
+      "en": "Lima Nikkei Style",
+      "pt": "Estilo Nikkei de Lima"
      },
      "dato": "8 km"
     },
     {
      "id": "otras-atracciones",
      "nombre": {
-      "es": "Otras atracciones y servicios cercanos"
+      "es": "Otras atracciones y servicios cercanos",
+      "en": "Other nearby attractions and services",
+      "pt": "Outras atrações e serviços nas proximidades"
      },
      "descripcion": {
-      "es": "Lugares para descubrir, instituciones de salud y educación, polos empresariales y conexiones para tu viaje."
+      "es": "Lugares para descubrir, instituciones de salud y educación, polos empresariales y conexiones para tu viaje.",
+      "en": "Places to discover, health and education institutions, business hubs and connections for your trip.",
+      "pt": "Lugares para descobrir, instituições de saúde e educação, centros de negócios e conexões para sua viagem."
      }
     },
     {
      "id": "parque-austral",
      "nombre": {
-      "es": "Parque Austral — polo empresarial y tecnológico"
+      "es": "Parque Austral — polo empresarial y tecnológico",
+      "en": "Parque Austral — business and technology hub",
+      "pt": "Parque Austral — centro de negócios e tecnologia"
      },
      "dato": "1,2 km"
     },
     {
      "id": "iae",
      "nombre": {
-      "es": "IAE Business School"
+      "es": "IAE Business School",
+      "en": "IAE Business School",
+      "pt": "Escola de Negócios IAE"
      },
      "dato": "1,5 km"
     },
     {
      "id": "austral",
      "nombre": {
-      "es": "Hospital Universitario Austral"
+      "es": "Hospital Universitario Austral",
+      "en": "Austral University Hospital",
+      "pt": "Hospital Universitário Australiano"
      },
      "dato": "2,4 km"
     },
     {
      "id": "centro-historico",
      "nombre": {
-      "es": "Centro histórico de Pilar"
+      "es": "Centro histórico de Pilar",
+      "en": "Historic center of Pilar",
+      "pt": "Centro histórico de Pilar"
      },
      "dato": "5 km"
     },
     {
      "id": "iglesia",
      "nombre": {
-      "es": "Iglesia Nuestra Señora del Pilar"
+      "es": "Iglesia Nuestra Señora del Pilar",
+      "en": "Church of Our Lady of the Pillar",
+      "pt": "Igreja de Nossa Senhora do Pilar"
      },
      "dato": "6 km"
     },
     {
      "id": "reserva-natural",
      "nombre": {
-      "es": "Reserva Natural del Pilar"
+      "es": "Reserva Natural del Pilar",
+      "en": "Pilar Nature Reserve",
+      "pt": "Reserva Natural de Pilar"
      },
      "dato": "7,3 km"
     },
     {
      "id": "parque-industrial-pilar",
      "nombre": {
-      "es": "Parque Industrial de Pilar"
+      "es": "Parque Industrial de Pilar",
+      "en": "Pilar Industrial Park",
+      "pt": "Parque Industrial Pilar"
      },
      "dato": "13,1 km"
     },
     {
      "id": "delta-tigre",
      "nombre": {
-      "es": "Delta del Tigre"
+      "es": "Delta del Tigre",
+      "en": "Tiger Delta",
+      "pt": "Delta do Tigre"
      },
      "dato": "37 km"
     },
     {
      "id": "aeroparque",
      "nombre": {
-      "es": "Aeroparque Jorge Newbery (AEP)"
+      "es": "Aeroparque Jorge Newbery (AEP)",
+      "en": "Jorge Newbery Airport (AEP)",
+      "pt": "Aeroporto Jorge Newbery (AEP)"
      },
      "dato": "50 km"
     },
     {
      "id": "ezeiza",
      "nombre": {
-      "es": "Aeropuerto Internacional Ezeiza (EZE)"
+      "es": "Aeropuerto Internacional Ezeiza (EZE)",
+      "en": "Ezeiza International Airport (EZE)",
+      "pt": "Aeroporto Internacional de Ezeiza (EZE)"
      },
      "dato": "70 km"
     }
@@ -1276,16 +1690,24 @@
     "en": "Events",
     "pt": "Eventos"
    },
-   "nota": {},
+   "nota": {
+    "es": "Conozca nuestras propuestas para eventos sociales y corporativos, y los shows exclusivos del hotel.",
+    "en": "Discover our proposals for social and corporate events, and the hotel's exclusive shows.",
+    "pt": "Descubra as nossas propostas para eventos sociais e corporativos, bem como os espetáculos exclusivos do hotel."
+   },
    "foto": "eventos.jpg",
    "items": [
     {
      "id": "ev-sociales",
      "nombre": {
-      "es": "Eventos sociales"
+      "es": "Eventos sociales",
+      "en": "Social events",
+      "pt": "Eventos sociais"
      },
      "descripcion": {
-      "es": "Bodas, fiestas de 15, Bat y Bar Mitzvá, aniversarios y cumpleaños. Nosotros nos ocupamos de todo."
+      "es": "Bodas, fiestas de 15, Bat y Bar Mitzvá, aniversarios y cumpleaños. Nosotros nos ocupamos de todo.",
+      "en": "Weddings, quinceañeras, Bat and Bar Mitzvahs, anniversaries, and birthdays. We take care of everything.",
+      "pt": "Casamentos, festas de quinze anos, bat e bar mitzvah, aniversários e festas de aniversário. Nós cuidamos de tudo."
      },
      "whatsapp": "5491140967395",
      "mail": "eventos@pilar.sheraton.com.ar"
@@ -1293,20 +1715,28 @@
     {
      "id": "ev-corporativos",
      "nombre": {
-      "es": "Eventos corporativos"
+      "es": "Eventos corporativos",
+      "en": "Corporate events",
+      "pt": "Eventos corporativos"
      },
      "descripcion": {
-      "es": "Reuniones, convenciones, almuerzos, team building, congresos y exposiciones."
+      "es": "Reuniones, convenciones, almuerzos, team building, congresos y exposiciones.",
+      "en": "Meetings, conventions, lunches, team building, congresses and exhibitions.",
+      "pt": "Reuniões, convenções, almoços, atividades de integração de equipes, congressos e exposições."
      },
      "mail": "ventas@pilar.sheraton.com.ar"
     },
     {
      "id": "ev-exclusivos",
      "nombre": {
-      "es": "Eventos exclusivos"
+      "es": "Eventos exclusivos",
+      "en": "Exclusive events",
+      "pt": "Eventos exclusivos"
      },
      "descripcion": {
-      "es": "Shows íntimos con artistas internacionales en los salones del hotel. Incluyen DJ en vivo, menú de 5 pasos, bebidas sin alcohol, vinos, espumantes y estacionamiento."
+      "es": "Shows íntimos con artistas internacionales en los salones del hotel. Incluyen DJ en vivo, menú de 5 pasos, bebidas sin alcohol, vinos, espumantes y estacionamiento.",
+      "en": "Intimate shows with international artists in the hotel's lounges. Includes live DJ, 5-course menu, soft drinks, wines, sparkling wines, and parking.",
+      "pt": "Espetáculos intimistas com artistas internacionais nos lounges do hotel. Inclui DJ ao vivo, menu de 5 pratos, refrigerantes, vinhos, espumantes e estacionamento."
      },
      "aviso": {
       "es": "Consulte por el próximo evento"
