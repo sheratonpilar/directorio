@@ -18,7 +18,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-10-15T23:29:24.058Z"
+  "actualizado": "2026-10-15T23:47:31.081Z"
  },
  "secciones": [
   {
@@ -47,7 +47,11 @@
       "en": "For any requests or inquiries during your stay.",
       "pt": "Para quaisquer pedidos ou dúvidas durante a sua estadia."
      },
-     "dato": "Marque 0"
+     "dato": {
+      "es": "Marque 0",
+      "en": "Dial 0",
+      "pt": "Disque 0"
+     }
     },
     {
      "id": "checkin",
@@ -85,60 +89,71 @@
      "nombre": {
       "es": "Limpieza de la habitación",
       "en": "Room cleaning",
-      "pt": "Limpeza de quartos"
+      "pt": "Atendimento ao hóspede"
      },
      "descripcion": {
       "es": "Si necesita un horario especial, contacte al Departamento de Ama de Llaves. Si prefiere que su habitación no sea acondicionada, simplemente deje puesto el cartel de \"No molestar\".",
       "en": "If you require a special schedule, please contact the Housekeeping Department. If you prefer your room not to be cleaned, simply leave the \"Do Not Disturb\" sign up.",
-      "pt": "Caso necessite de um horário especial, entre em contato com o Departamento de Limpeza. Se preferir que o quarto não seja arrumado, deixe a placa ‘Não perturbe’ na parte externa da porta."
+      "pt": "Para quaisquer pedidos ou dúvidas durante a sua estadia."
      },
      "horario": {
       "es": "Todos los días de 9:00 a 16:30 h",
-      "en": "Every day from 9:00 a.m. to 4:30 p.m.",
-      "pt": "Todos os dias, das 9h às 16h30."
+      "en": "Every day from 9:00 a.m. to 4:30 p.m."
      },
-     "dato": "Marque 0"
+     "dato": {
+      "es": "Marque 0",
+      "en": "Dial 0",
+      "pt": "Disque 0"
+     }
     },
     {
      "id": "apertura",
      "nombre": {
       "es": "Servicio de apertura",
       "en": "Turndown service.",
-      "pt": "Serviço de preparação do quarto para a noite."
+      "pt": "Atendimento ao hóspede"
      },
      "descripcion": {
       "es": "Si desea que acondicionemos su habitación por la tarde, comuníquese con nuestro departamento de Ama de Llaves. Para garantizar su privacidad, lo ofrecemos solo a pedido.",
       "en": "If you would like us to prepare your room in the afternoon, please contact our Housekeeping Department. To ensure your privacy, this service is offered only upon request.",
-      "pt": "Caso deseje que preparemos seu quarto à tarde, entre em contato com nosso Departamento de Limpeza. Para garantir sua privacidade, este serviço é oferecido somente mediante solicitação."
+      "pt": "Para quaisquer pedidos ou dúvidas durante a sua estadia."
      },
      "horario": {
       "es": "Todos los días de 17:00 a 21:00 h",
-      "en": "Every day from 5:00 p.m. to 9:00 p.m.",
-      "pt": "Todos os dias, das 17h às 21h."
+      "en": "Every day from 5:00 p.m. to 9:00 p.m."
      },
-     "dato": "Marque 0"
+     "dato": {
+      "es": "Marque 0",
+      "en": "Dial 0",
+      "pt": "Disque 0"
+     }
     },
     {
      "id": "lavanderia",
      "nombre": {
       "es": "Lavandería",
       "en": "Laundry",
-      "pt": "Lavanderia"
+      "pt": "Atendimento ao hóspede"
      },
      "descripcion": {
       "es": "Si desea lavar ropa, en su armario encontrará una bolsa y una planilla con toda la información. Coloque las prendas en la bolsa junto con la planilla y marque 0 para coordinar el retiro.",
       "en": "Si desea lavar ropa, en su armario encontrará una bolsa y una planilla con toda la información. Coloque las prendas en la bolsa junto con la planilla y marque 0 para coordinar el retiro.",
-      "pt": "Se desejar que suas roupas sejam lavadas, você encontrará uma sacola e um formulário com todas as informações necessárias em seu armário. Coloque as roupas na sacola junto com o formulário e marque 0 para agendar a coleta."
+      "pt": "Para quaisquer pedidos ou dúvidas durante a sua estadia."
      },
      "horario": {
       "es": "Todos los días de 7:00 a 17:00 h",
-      "en": "Every day from 7:00 a.m. to 5:00 p.m.",
-      "pt": "Todos os dias, das 7h às 17h."
+      "en": "Every day from 7:00 a.m. to 5:00 p.m."
      },
-     "dato": "Marque 0",
+     "dato": {
+      "es": "Marque 0",
+      "en": "Dial 0",
+      "pt": "Disque 0"
+     },
      "link": "https://sheraton-pilar.com.ar/lavanderia.jpg",
      "link_texto": {
-      "es": "Tarifas"
+      "es": "Tarifas",
+      "en": "Rates",
+      "pt": "Tarifas"
      }
     },
     {
@@ -146,14 +161,18 @@
      "nombre": {
       "es": "Amenities adicionales",
       "en": "Additional amenities",
-      "pt": "Comodidades adicionais"
+      "pt": "Atendimento ao hóspede"
      },
      "descripcion": {
       "es": "¿Olvidó algo? Tenemos kit dental, kit de afeitar y otros artículos de viaje. Pídalos acercándose o comunicándose con el front desk.",
       "en": "Did you forget something? We have dental kits, shaving kits, and other travel items. Please ask for them by coming to the front desk or contacting us.",
-      "pt": "Você esqueceu de algo? Temos kits dentais, kits de barbear e outros itens de viagem. Solicite-os na recepção ou entre em contato conosco."
+      "pt": "Para quaisquer pedidos ou dúvidas durante a sua estadia."
      },
-     "dato": "Marque 0"
+     "dato": {
+      "es": "Marque 0",
+      "en": "Dial 0",
+      "pt": "Disque 0"
+     }
     },
     {
      "id": "caja-fuerte",
@@ -219,10 +238,16 @@
       "en": "Every day from 6:00 a.m. to 00:00 a.m.",
       "pt": "Todos os dias, das 6:00 às 00h horas."
      },
-     "dato": "Marque 2840",
+     "dato": {
+      "es": "Marque 2840",
+      "en": "Dial 2840",
+      "pt": "Disque 2840"
+     },
      "link": "https://sheratonpilar.github.io/menu/carta/room-service/",
      "link_texto": {
-      "es": "Ver menú"
+      "es": "Ver menú",
+      "en": "See menu",
+      "pt": "Ver cardápio"
      }
     },
     {
@@ -230,22 +255,24 @@
      "nombre": {
       "es": "Don Giovanni Ristorante",
       "en": "Don Giovanni Ristorante",
-      "pt": "Don Giovanni Ristorante"
+      "pt": "Serviço de quarto"
      },
      "descripcion": {
       "es": "Cocina mediterránea de autor en un ambiente elegante.",
       "en": "Signature Mediterranean cuisine in an elegant setting.",
-      "pt": "Cozinha mediterrânea autoral em um ambiente elegante."
+      "pt": "Uma ampla seleção de pratos e bebidas para desfrutar no conforto do seu quarto."
      },
      "horario": {
       "es": "Vie y sáb de 20:00 a 00:00 h",
       "en": "Fri and Sat from 8:00 PM to 12:00 AM",
-      "pt": "Sexta e sábado, das 20h às 00h."
+      "pt": "Todos os dias, das 6:00 às 00h horas."
      },
      "whatsapp": "5491131353023",
      "link": "https://sheratonpilar.github.io/menu/carta/don-giovanni/",
      "link_texto": {
-      "es": "Ver menú"
+      "es": "Ver menú",
+      "en": "See menu",
+      "pt": "Ver cardápio"
      }
     },
     {
@@ -253,22 +280,24 @@
      "nombre": {
       "es": "Las Vasijas Restaurante",
       "en": "Las Vasijas Restaurante",
-      "pt": "Las Vasijas Restaurante"
+      "pt": "Serviço de quarto"
      },
      "descripcion": {
       "es": "Buffet internacional con vista a los jardines. Amplia variedad de entradas, platos principales y postres.",
       "en": "International buffet overlooking the gardens. Wide variety of appetizers, main courses, and desserts.",
-      "pt": "Buffet internacional com vista para os jardins. Grande variedade de entradas, pratos principais e sobremesas."
+      "pt": "Uma ampla seleção de pratos e bebidas para desfrutar no conforto do seu quarto."
      },
      "horario": {
       "es": "Almuerzo sáb y dom 13:00 a 15:30 h · Cena vie y sáb 20:00 a 00:00 h · Apertura durante la semana sujeta a disponibilidad. Consulte previamente.",
       "en": "Lunch Sat and Sun 1:00 p.m. to 3:30 p.m. · Dinner Fri and Sat 8:00 p.m. to 00:00 a.m. · Weekday opening is subject to availability. Please check with us in advance.",
-      "pt": "Almoço: sábado e domingo, das 13h às 15h30 · Jantar: sexta e sábado, das 20h à meia-noite · O funcionamento durante a semana está sujeito à disponibilidade. Consulte-nos com antecedência."
+      "pt": "Todos os dias, das 6:00 às 00h horas."
      },
      "whatsapp": "5491131353022",
      "link": "https://sheratonpilar.github.io/menu/carta/las-vasijas/",
      "link_texto": {
-      "es": "Ver menú"
+      "es": "Ver menú",
+      "en": "See menu",
+      "pt": "Ver cardápio"
      }
     },
     {
@@ -276,21 +305,23 @@
      "nombre": {
       "es": "Lobby Bar",
       "en": "Lobby Bar",
-      "pt": "Lobby Bar"
+      "pt": "Serviço de quarto"
      },
      "descripcion": {
       "es": "Cafetería, pastelería, sándwiches, ensaladas, platos principales y cocktails. Sin reserva previa.",
       "en": "Coffee, pastries, sandwiches, salads, main courses, and cocktails. No reservation required.",
-      "pt": "Cafeteria, doces, sanduíches, saladas, pratos principais e coquetéis. Não é necessário fazer reserva."
+      "pt": "Uma ampla seleção de pratos e bebidas para desfrutar no conforto do seu quarto."
      },
      "horario": {
       "es": "Dom a jue 8:00 a 00:00 h · Vie y sáb 8:00 a 2:00 h",
       "en": "Sun to Thu 8:00 a.m. to 12:00 a.m. · Fri and Sat 8:00 a.m. to 2:00 a.m.",
-      "pt": "De domingo a quinta, das 8h às 0h · Sexta e sábado, das 8h às 2h."
+      "pt": "Todos os dias, das 6:00 às 00h horas."
      },
      "link": "https://sheratonpilar.github.io/menu/carta/lobby-bar/",
      "link_texto": {
-      "es": "Ver menú"
+      "es": "Ver menú",
+      "en": "See menu",
+      "pt": "Ver cardápio"
      }
     },
     {
@@ -452,7 +483,9 @@
      "whatsapp": "5491131353014",
      "link": "https://sheraton-pilar.com.ar/masajes.pdf",
      "link_texto": {
-      "es": "precios"
+      "es": "Precios",
+      "en": "Prices",
+      "pt": "Preços"
      }
     },
     {
@@ -473,19 +506,23 @@
      "nombre": {
       "es": "Peluquería",
       "en": "Hair salon",
-      "pt": "Salão de cabeleireiro"
+      "pt": "Serviço de quarto"
      },
      "descripcion": {
       "es": "Planta baja, al lado del Health & Spa. Reservas por WhatsApp o marcando su interno desde cualquier teléfono del hotel.",
       "en": "Ground floor, next to the Health & Spa. Reservations via WhatsApp or by dialing their extension from any hotel phone.",
-      "pt": "Piso térreo, ao lado do Health & Spa. Reservas via WhatsApp ou ligando para o ramal correspondente de qualquer telefone do hotel."
+      "pt": "Uma ampla seleção de pratos e bebidas para desfrutar no conforto do seu quarto."
      },
      "horario": {
       "es": "Mar a sáb 9:30 a 20:00 h",
       "en": "Tue to Sat 9:30 a.m. to 8:00 p.m.",
-      "pt": "De terça a sábado, das 9h30 às 20h."
+      "pt": "Todos os dias, das 6:00 às 00h horas."
      },
-     "dato": "Marque 2890",
+     "dato": {
+      "es": "Marque 2890",
+      "en": "Dial 2890",
+      "pt": "Disque 2890"
+     },
      "whatsapp": "5491150074296"
     }
    ]
@@ -523,7 +560,9 @@
      },
      "link": "https://sheraton-pilar.com.ar/sheratoons.pdf",
      "link_texto": {
-      "es": "Cronograma de actividades"
+      "es": "Cronograma de actividades",
+      "en": "Activity schedule",
+      "pt": "Programação de atividades"
      }
     },
     {
@@ -611,19 +650,22 @@
      "nombre": {
       "es": "Salas de reuniones",
       "en": "Meeting rooms",
-      "pt": "Salas de reuniões"
+      "pt": "Atendimento ao hóspede"
      },
      "descripcion": {
       "es": "Dos salas para hasta 15 personas. Solicítelas en el front desk o llamando a Guest Service. Sujetas a disponibilidad y con costo adicional.",
       "en": "Two rooms for up to 15 people. Request them at the front desk or by calling Guest Service. Subject to availability and at an additional cost.",
-      "pt": "Duas salas de reuniões com capacidade para até 15 pessoas. Solicite-os na recepção ou ligando para o Serviço de Atendimento ao Hóspede. Sujeito à disponibilidade e a um custo adicional."
+      "pt": "Para quaisquer pedidos ou dúvidas durante a sua estadia."
      },
      "horario": {
       "es": "De 9:00 a 18:00 h",
-      "en": "From 9:00 a.m. to 6:00 p.m.",
-      "pt": "Das 9h às 18h."
+      "en": "From 9:00 a.m. to 6:00 p.m."
      },
-     "dato": "Marque 0"
+     "dato": {
+      "es": "Marque 0",
+      "en": "Dial 0",
+      "pt": "Disque 0"
+     }
     }
    ]
   },
@@ -653,7 +695,11 @@
       "en": "1. Connect to the **Sheraton Pilar** network.\n\n2. Wait for your browser to open. If it doesn't, open it manually and you will be redirected to the hotel portal.\n\n3. Enter your room number and last name (as shown on your reservation).\n\n4. Accept the terms and conditions, and click INGRESAR.",
       "pt": "1. Conecte-se à rede **Sheraton Pilar**.\n\n2. Aguarde a abertura do seu navegador. Caso contrário, abra-o manualmente e você será redirecionado para o portal do hotel.\n\n3. Digite o número do seu quarto e o seu sobrenome (conforme consta na sua reserva).\n\n4. Aceite os termos e condições e clique em INGRESAR."
      },
-     "dato": "Sheraton Pilar"
+     "dato": {
+      "es": "Sheraton Pilar",
+      "en": "Sheraton Pilar",
+      "pt": "Sheraton Pilar"
+     }
     },
     {
      "id": "internet-cable",
@@ -686,72 +732,104 @@
      "nombre": {
       "es": "Llamadas locales",
       "en": "Local calls",
-      "pt": "chamadas locais"
+      "pt": "AR$ 50 / min"
      },
-     "dato": "AR$ 50 / min"
+     "dato": {
+      "es": "AR$ 50 / min",
+      "en": "AR$ 50 / min",
+      "pt": "AR$ 50 / min"
+     }
     },
     {
      "id": "tel-cel",
      "nombre": {
       "es": "Celulares locales",
       "en": "Calls to local mobile numbers.",
-      "pt": "Chamadas para celulares locais"
+      "pt": "AR$ 100 / min"
      },
-     "dato": "AR$ 100 / min"
+     "dato": {
+      "es": "AR$ 100 / min",
+      "en": "AR$ 100 / min",
+      "pt": "AR$ 100 / min"
+     }
     },
     {
      "id": "tel-nac",
      "nombre": {
       "es": "Llamadas a Argentina",
       "en": "Calls to Argentina",
-      "pt": "Ligações para a Argentina"
+      "pt": "AR$ 150 / min"
      },
-     "dato": "AR$ 150 / min"
+     "dato": {
+      "es": "AR$ 150 / min",
+      "en": "AR$ 150 / min",
+      "pt": "AR$ 150 / min"
+     }
     },
     {
      "id": "tel-america",
      "nombre": {
       "es": "Llamadas a América (incl. EE.UU. y Canadá)",
       "en": "Calls to America (incl. USA and Canada)",
-      "pt": "Chamadas para a América (incluindo EUA e Canadá)"
+      "pt": "AR$ 300 / min"
      },
-     "dato": "AR$ 300 / min"
+     "dato": {
+      "es": "AR$ 300 / min",
+      "en": "AR$ 300 / min",
+      "pt": "AR$ 300 / min"
+     }
     },
     {
      "id": "tel-mundo",
      "nombre": {
       "es": "Llamadas al resto del mundo",
       "en": "Calls to the rest of the world",
-      "pt": "Apelos ao resto do mundo"
+      "pt": "AR$ 400 / min"
      },
-     "dato": "AR$ 400 / min"
+     "dato": {
+      "es": "AR$ 400 / min",
+      "en": "AR$ 400 / min",
+      "pt": "AR$ 400 / min"
+     }
     },
     {
      "id": "tel-0800",
      "nombre": {
       "es": "0800 / 0822 / 0810",
       "en": "0800 / 0822 / 0810",
-      "pt": "0800 / 0822 / 0810"
+      "pt": "AR$ 200 / llamada"
      },
-     "dato": "AR$ 200 / llamada"
+     "dato": {
+      "es": "AR$ 200 / llamada",
+      "en": "AR$ 200 / call",
+      "pt": "AR$ 200 / chamada"
+     }
     },
     {
      "id": "tel-1800",
      "nombre": {
       "es": "1-800",
       "en": "1-800",
-      "pt": "1-800"
+      "pt": "AR$ 300 / min"
      },
-     "dato": "AR$ 300 / min"
+     "dato": {
+      "es": "AR$ 300 / min",
+      "en": "AR$ 300 / min",
+      "pt": "AR$ 300 / min"
+     }
     },
     {
      "id": "tel-0810",
      "nombre": {
       "es": "0-810",
       "en": "0-810",
-      "pt": "0-810"
+      "pt": "AR$ 200 / llamada"
      },
-     "dato": "AR$ 200 / llamada"
+     "dato": {
+      "es": "AR$ 200 / llamada",
+      "en": "AR$ 200 / call",
+      "pt": "AR$ 200 / chamada"
+     }
     },
     {
      "id": "tel-0600",
@@ -760,16 +838,24 @@
       "en": "0-600",
       "pt": "0-600"
      },
-     "dato": "AR$ 200 / hora"
+     "dato": {
+      "es": "AR$ 200 / hora",
+      "en": "AR$ 200 / hour",
+      "pt": "AR$ 200 / hora"
+     }
     },
     {
      "id": "tel-0610",
      "nombre": {
       "es": "0-610",
       "en": "0-610",
-      "pt": "0-610"
+      "pt": "0-600"
      },
-     "dato": "AR$ 200 / hora"
+     "dato": {
+      "es": "AR$ 200 / hora",
+      "en": "AR$ 200 / hour",
+      "pt": "AR$ 200 / hora"
+     }
     }
    ]
   },
@@ -794,7 +880,11 @@
       "en": "Bloomberg",
       "pt": "Bloomberg"
      },
-     "dato": "2"
+     "dato": {
+      "es": "2",
+      "en": "2",
+      "pt": "2"
+     }
     },
     {
      "id": "tv-3",
@@ -803,7 +893,11 @@
       "en": "CNN Internacional",
       "pt": "CNN Internacional"
      },
-     "dato": "3"
+     "dato": {
+      "es": "3",
+      "en": "3",
+      "pt": "3"
+     }
     },
     {
      "id": "tv-4",
@@ -812,7 +906,11 @@
       "en": "CNN en Español",
       "pt": "CNN en Español"
      },
-     "dato": "4"
+     "dato": {
+      "es": "4",
+      "en": "4",
+      "pt": "4"
+     }
     },
     {
      "id": "tv-5",
@@ -821,7 +919,11 @@
       "en": "BBC",
       "pt": "BBC"
      },
-     "dato": "5"
+     "dato": {
+      "es": "5",
+      "en": "5",
+      "pt": "5"
+     }
     },
     {
      "id": "tv-6",
@@ -830,7 +932,11 @@
       "en": "DeporTV",
       "pt": "DeporTV"
      },
-     "dato": "6"
+     "dato": {
+      "es": "6",
+      "en": "6",
+      "pt": "6"
+     }
     },
     {
      "id": "tv-7",
@@ -839,7 +945,11 @@
       "en": "The Golf Channel",
       "pt": "The Golf Channel"
      },
-     "dato": "7"
+     "dato": {
+      "es": "7",
+      "en": "7",
+      "pt": "7"
+     }
     },
     {
      "id": "tv-8",
@@ -848,7 +958,11 @@
       "en": "D-Sport",
       "pt": "D-Sport"
      },
-     "dato": "8"
+     "dato": {
+      "es": "8",
+      "en": "8",
+      "pt": "8"
+     }
     },
     {
      "id": "tv-9",
@@ -857,7 +971,11 @@
       "en": "ESPN",
       "pt": "ESPN"
      },
-     "dato": "9"
+     "dato": {
+      "es": "9",
+      "en": "9",
+      "pt": "9"
+     }
     },
     {
      "id": "tv-10",
@@ -866,7 +984,11 @@
       "en": "ESPN Premium",
       "pt": "ESPN Premium"
      },
-     "dato": "10"
+     "dato": {
+      "es": "10",
+      "en": "10",
+      "pt": "10"
+     }
     },
     {
      "id": "tv-11",
@@ -875,7 +997,11 @@
       "en": "TNT Sports",
       "pt": "TNT Sports"
      },
-     "dato": "11"
+     "dato": {
+      "es": "11",
+      "en": "11",
+      "pt": "11"
+     }
     },
     {
      "id": "tv-12",
@@ -884,7 +1010,11 @@
       "en": "FOX Sports",
       "pt": "FOX Sports"
      },
-     "dato": "12"
+     "dato": {
+      "es": "12",
+      "en": "12",
+      "pt": "12"
+     }
     },
     {
      "id": "tv-13",
@@ -893,7 +1023,11 @@
       "en": "TyC Sports",
       "pt": "TyC Sports"
      },
-     "dato": "13"
+     "dato": {
+      "es": "13",
+      "en": "13",
+      "pt": "13"
+     }
     },
     {
      "id": "tv-14",
@@ -902,7 +1036,11 @@
       "en": "TN",
       "pt": "TN"
      },
-     "dato": "14"
+     "dato": {
+      "es": "14",
+      "en": "14",
+      "pt": "14"
+     }
     },
     {
      "id": "tv-15",
@@ -911,7 +1049,11 @@
       "en": "América",
       "pt": "América"
      },
-     "dato": "15"
+     "dato": {
+      "es": "15",
+      "en": "15",
+      "pt": "15"
+     }
     },
     {
      "id": "tv-16",
@@ -920,7 +1062,11 @@
       "en": "Televisión Pública",
       "pt": "Televisión Pública"
      },
-     "dato": "16"
+     "dato": {
+      "es": "16",
+      "en": "16",
+      "pt": "16"
+     }
     },
     {
      "id": "tv-17",
@@ -929,7 +1075,11 @@
       "en": "Telefe",
       "pt": "Telefe"
      },
-     "dato": "17"
+     "dato": {
+      "es": "17",
+      "en": "17",
+      "pt": "17"
+     }
     },
     {
      "id": "tv-18",
@@ -938,7 +1088,11 @@
       "en": "Canal Trece",
       "pt": "Canal Trece"
      },
-     "dato": "18"
+     "dato": {
+      "es": "18",
+      "en": "18",
+      "pt": "18"
+     }
     },
     {
      "id": "tv-19",
@@ -947,7 +1101,11 @@
       "en": "Canal 9",
       "pt": "Canal 9"
      },
-     "dato": "19"
+     "dato": {
+      "es": "19",
+      "en": "19",
+      "pt": "19"
+     }
     },
     {
      "id": "tv-20",
@@ -956,7 +1114,11 @@
       "en": "Comedy Central",
       "pt": "Comedy Central"
      },
-     "dato": "20"
+     "dato": {
+      "es": "20",
+      "en": "20",
+      "pt": "20"
+     }
     },
     {
      "id": "tv-21",
@@ -965,7 +1127,11 @@
       "en": "TNT",
       "pt": "TNT"
      },
-     "dato": "21"
+     "dato": {
+      "es": "21",
+      "en": "21",
+      "pt": "21"
+     }
     },
     {
      "id": "tv-22",
@@ -974,7 +1140,11 @@
       "en": "A&E",
       "pt": "A&E"
      },
-     "dato": "22"
+     "dato": {
+      "es": "22",
+      "en": "22",
+      "pt": "22"
+     }
     },
     {
      "id": "tv-23",
@@ -983,7 +1153,11 @@
       "en": "Star Channel",
       "pt": "Star Channel"
      },
-     "dato": "23"
+     "dato": {
+      "es": "23",
+      "en": "23",
+      "pt": "23"
+     }
     },
     {
      "id": "tv-24",
@@ -992,7 +1166,11 @@
       "en": "Sony Channel",
       "pt": "Sony Channel"
      },
-     "dato": "24"
+     "dato": {
+      "es": "24",
+      "en": "24",
+      "pt": "24"
+     }
     },
     {
      "id": "tv-25",
@@ -1001,7 +1179,11 @@
       "en": "MTV",
       "pt": "MTV"
      },
-     "dato": "25"
+     "dato": {
+      "es": "25",
+      "en": "25",
+      "pt": "25"
+     }
     },
     {
      "id": "tv-26",
@@ -1010,7 +1192,11 @@
       "en": "E!",
       "pt": "E!"
      },
-     "dato": "26"
+     "dato": {
+      "es": "26",
+      "en": "26",
+      "pt": "26"
+     }
     },
     {
      "id": "tv-27",
@@ -1019,7 +1205,11 @@
       "en": "Space",
       "pt": "Space"
      },
-     "dato": "27"
+     "dato": {
+      "es": "27",
+      "en": "27",
+      "pt": "27"
+     }
     },
     {
      "id": "tv-28",
@@ -1028,7 +1218,11 @@
       "en": "AXN",
       "pt": "AXN"
      },
-     "dato": "28"
+     "dato": {
+      "es": "28",
+      "en": "28",
+      "pt": "28"
+     }
     },
     {
      "id": "tv-29",
@@ -1037,7 +1231,11 @@
       "en": "Warner Channel",
       "pt": "Warner Channel"
      },
-     "dato": "29"
+     "dato": {
+      "es": "29",
+      "en": "29",
+      "pt": "29"
+     }
     },
     {
      "id": "tv-30",
@@ -1046,7 +1244,11 @@
       "en": "TLC",
       "pt": "TLC"
      },
-     "dato": "30"
+     "dato": {
+      "es": "30",
+      "en": "30",
+      "pt": "30"
+     }
     },
     {
      "id": "tv-31",
@@ -1055,7 +1257,11 @@
       "en": "Discovery Channel",
       "pt": "Discovery Channel"
      },
-     "dato": "31"
+     "dato": {
+      "es": "31",
+      "en": "31",
+      "pt": "31"
+     }
     },
     {
      "id": "tv-32",
@@ -1064,7 +1270,11 @@
       "en": "History Channel",
       "pt": "History Channel"
      },
-     "dato": "32"
+     "dato": {
+      "es": "32",
+      "en": "32",
+      "pt": "32"
+     }
     },
     {
      "id": "tv-33",
@@ -1073,7 +1283,11 @@
       "en": "Animal Planet",
       "pt": "Animal Planet"
      },
-     "dato": "33"
+     "dato": {
+      "es": "33",
+      "en": "33",
+      "pt": "33"
+     }
     },
     {
      "id": "tv-34",
@@ -1082,7 +1296,11 @@
       "en": "Cartoonito",
       "pt": "Cartoonito"
      },
-     "dato": "34"
+     "dato": {
+      "es": "34",
+      "en": "34",
+      "pt": "34"
+     }
     },
     {
      "id": "tv-35",
@@ -1091,7 +1309,11 @@
       "en": "Cartoon Network",
       "pt": "Cartoon Network"
      },
-     "dato": "35"
+     "dato": {
+      "es": "35",
+      "en": "35",
+      "pt": "35"
+     }
     },
     {
      "id": "tv-36",
@@ -1100,7 +1322,11 @@
       "en": "Discovery Kids",
       "pt": "Discovery Kids"
      },
-     "dato": "36"
+     "dato": {
+      "es": "36",
+      "en": "36",
+      "pt": "36"
+     }
     },
     {
      "id": "tv-37",
@@ -1109,7 +1335,11 @@
       "en": "Caracol (Colombia)",
       "pt": "Caracol (Colombia)"
      },
-     "dato": "37"
+     "dato": {
+      "es": "37",
+      "en": "37",
+      "pt": "37"
+     }
     },
     {
      "id": "tv-38",
@@ -1118,7 +1348,11 @@
       "en": "Rai (Italia)",
       "pt": "Rai (Italia)"
      },
-     "dato": "38"
+     "dato": {
+      "es": "38",
+      "en": "38",
+      "pt": "38"
+     }
     },
     {
      "id": "tv-39",
@@ -1127,7 +1361,11 @@
       "en": "DW (Alemania)",
       "pt": "DW (Alemania)"
      },
-     "dato": "39"
+     "dato": {
+      "es": "39",
+      "en": "39",
+      "pt": "39"
+     }
     },
     {
      "id": "tv-40",
@@ -1136,7 +1374,11 @@
       "en": "Canal24 (Chile)",
       "pt": "Canal24 (Chile)"
      },
-     "dato": "40"
+     "dato": {
+      "es": "40",
+      "en": "40",
+      "pt": "40"
+     }
     },
     {
      "id": "tv-41",
@@ -1145,7 +1387,11 @@
       "en": "D-News (Latinoamérica)",
       "pt": "D-News (Latinoamérica)"
      },
-     "dato": "41"
+     "dato": {
+      "es": "41",
+      "en": "41",
+      "pt": "41"
+     }
     },
     {
      "id": "tv-42",
@@ -1154,7 +1400,11 @@
       "en": "NHK (Japón)",
       "pt": "NHK (Japón)"
      },
-     "dato": "42"
+     "dato": {
+      "es": "42",
+      "en": "42",
+      "pt": "42"
+     }
     },
     {
      "id": "tv-43",
@@ -1163,7 +1413,11 @@
       "en": "O Globo (Brasil)",
       "pt": "O Globo (Brasil)"
      },
-     "dato": "43"
+     "dato": {
+      "es": "43",
+      "en": "43",
+      "pt": "43"
+     }
     },
     {
      "id": "tv-44",
@@ -1172,7 +1426,11 @@
       "en": "La Nación+",
       "pt": "La Nación+"
      },
-     "dato": "44"
+     "dato": {
+      "es": "44",
+      "en": "44",
+      "pt": "44"
+     }
     },
     {
      "id": "tv-46",
@@ -1181,7 +1439,11 @@
       "en": "Sheraton Pilar",
       "pt": "Sheraton Pilar"
      },
-     "dato": "46"
+     "dato": {
+      "es": "46",
+      "en": "46",
+      "pt": "46"
+     }
     }
    ]
   },
@@ -1219,10 +1481,16 @@
       "en": "Brasov Grill & Bowl",
       "pt": "Brasov Grill & Bowl"
      },
-     "dato": "150 m",
+     "dato": {
+      "es": "150 m",
+      "en": "150 m",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Brasov+Grill+%26+Bowl+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1230,12 +1498,18 @@
      "nombre": {
       "es": "Rush – Parque de camas elásticas",
       "en": "Rush – Parque de camas elásticas",
-      "pt": "Rush – Parque de camas elásticas"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "150 m",
+     "dato": {
+      "es": "150 m",
+      "en": "150 m",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Rush+parque+de+camas+elasticas+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1243,12 +1517,18 @@
      "nombre": {
       "es": "Cine Multiplex",
       "en": "Cine Multiplex",
-      "pt": "Cine Multiplex"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "700 m",
+     "dato": {
+      "es": "700 m",
+      "en": "700 m",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Cine+Multiplex+Palmas+del+Pilar",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1256,12 +1536,18 @@
      "nombre": {
       "es": "Cinépolis Pilar",
       "en": "Cinépolis Pilar",
-      "pt": "Cinépolis Pilar"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "800 m",
+     "dato": {
+      "es": "800 m",
+      "en": "800 m",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Cinepolis+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1269,12 +1555,18 @@
      "nombre": {
       "es": "Escape Room Pilar",
       "en": "Escape Room Pilar",
-      "pt": "Escape Room Pilar"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "800 m",
+     "dato": {
+      "es": "800 m",
+      "en": "800 m",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Escape+Room+Pilar+Torres+del+Sol",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1282,12 +1574,18 @@
      "nombre": {
       "es": "Club del Escape Pilar",
       "en": "Club del Escape Pilar",
-      "pt": "Club del Escape Pilar"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "950 m",
+     "dato": {
+      "es": "950 m",
+      "en": "950 m",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Club+del+Escape+Pilar+Cinepolis",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1295,12 +1593,18 @@
      "nombre": {
       "es": "Bingo Oasis",
       "en": "Bingo Oasis",
-      "pt": "Bingo Oasis"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "1,1 km",
+     "dato": {
+      "es": "1,1 km",
+      "en": "1,1 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Bingo+Oasis+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1308,12 +1612,18 @@
      "nombre": {
       "es": "Pilar Paddle Center",
       "en": "Pilar Paddle Center",
-      "pt": "Pilar Paddle Center"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "1,2 km",
+     "dato": {
+      "es": "1,2 km",
+      "en": "1,2 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Pilar+Paddle+Center+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1321,12 +1631,18 @@
      "nombre": {
       "es": "Neverland",
       "en": "Neverland",
-      "pt": "Neverland"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "1,6 km",
+     "dato": {
+      "es": "1,6 km",
+      "en": "1,6 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Neverland+Palmas+del+Pilar",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1334,12 +1650,18 @@
      "nombre": {
       "es": "Sharewood Pilar",
       "en": "Sharewood Pilar",
-      "pt": "Sharewood Pilar"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "1,6 km",
+     "dato": {
+      "es": "1,6 km",
+      "en": "1,6 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Sharewood+Pilar+Darregueira+2010",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1347,12 +1669,18 @@
      "nombre": {
       "es": "Yarda 51: Indoor Golf",
       "en": "Yarda 51: Indoor Golf",
-      "pt": "Yarda 51: Indoor Golf"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "2,1 km",
+     "dato": {
+      "es": "2,1 km",
+      "en": "2,1 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Yarda+51+Indoor+Golf+Pilar",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1360,12 +1688,18 @@
      "nombre": {
       "es": "Teatro Gran Pilar",
       "en": "Teatro Gran Pilar",
-      "pt": "Teatro Gran Pilar"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "5,5 km",
+     "dato": {
+      "es": "5,5 km",
+      "en": "5,5 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Teatro+Gran+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1373,12 +1707,18 @@
      "nombre": {
       "es": "Bioparque Temaikén",
       "en": "Bioparque Temaikén",
-      "pt": "Bioparque Temaikén"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "12 km",
+     "dato": {
+      "es": "12 km",
+      "en": "12 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Bioparque+Temaiken+Escobar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1399,12 +1739,18 @@
      "nombre": {
       "es": "Palmas de Pilar Shopping",
       "en": "Palmas de Pilar Shopping",
-      "pt": "Palmas de Pilar Shopping"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "450 m",
+     "dato": {
+      "es": "450 m",
+      "en": "450 m",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Shopping+Palmas+del+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1412,12 +1758,18 @@
      "nombre": {
       "es": "Pilar Walk",
       "en": "Pilar Walk",
-      "pt": "Pilar Walk"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "950 m",
+     "dato": {
+      "es": "950 m",
+      "en": "950 m",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Pilar+Walk+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1425,12 +1777,18 @@
      "nombre": {
       "es": "Paseo Champagnat",
       "en": "Paseo Champagnat",
-      "pt": "Paseo Champagnat"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "5 km",
+     "dato": {
+      "es": "5 km",
+      "en": "5 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Paseo+Champagnat+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1438,12 +1796,18 @@
      "nombre": {
       "es": "Paseo Pilar",
       "en": "Paseo Pilar",
-      "pt": "Paseo Pilar"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "5,9 km",
+     "dato": {
+      "es": "5,9 km",
+      "en": "5,9 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Paseo+Pilar+shopping+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1451,12 +1815,18 @@
      "nombre": {
       "es": "Tortugas Open Mall (TOM)",
       "en": "Tortugas Open Mall (TOM)",
-      "pt": "Tortugas Open Mall (TOM)"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "13,6 km",
+     "dato": {
+      "es": "13,6 km",
+      "en": "13,6 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Tortugas+Open+Mall+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1477,12 +1847,18 @@
      "nombre": {
       "es": "Yokos Bureau",
       "en": "Yokos Bureau",
-      "pt": "Yokos Bureau"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "500 m",
+     "dato": {
+      "es": "500 m",
+      "en": "500 m",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Yokos+Bureau+Pilar+km+49.5",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1490,12 +1866,18 @@
      "nombre": {
       "es": "La Birra Bar",
       "en": "La Birra Bar",
-      "pt": "La Birra Bar"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "750 m",
+     "dato": {
+      "es": "750 m",
+      "en": "750 m",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=La+Birra+Bar+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1503,12 +1885,18 @@
      "nombre": {
       "es": "Mooi",
       "en": "Mooi",
-      "pt": "Mooi"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "850 m",
+     "dato": {
+      "es": "850 m",
+      "en": "850 m",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Mooi+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1516,12 +1904,18 @@
      "nombre": {
       "es": "El Club de la Milanesa",
       "en": "El Club de la Milanesa",
-      "pt": "El Club de la Milanesa"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "1 km",
+     "dato": {
+      "es": "1 km",
+      "en": "1 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=El+Club+de+la+Milanesa+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1529,12 +1923,18 @@
      "nombre": {
       "es": "The Food Truck Store",
       "en": "The Food Truck Store",
-      "pt": "The Food Truck Store"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "1,5 km",
+     "dato": {
+      "es": "1,5 km",
+      "en": "1,5 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=The+Food+Truck+Store+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1542,12 +1942,18 @@
      "nombre": {
       "es": "Rock & Feller’s",
       "en": "Rock & Feller’s",
-      "pt": "Rock & Feller’s"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "2,5 km",
+     "dato": {
+      "es": "2,5 km",
+      "en": "2,5 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Rock+%26+Fellers+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1555,12 +1961,18 @@
      "nombre": {
       "es": "Tutto Tano",
       "en": "Tutto Tano",
-      "pt": "Tutto Tano"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "2,5 km",
+     "dato": {
+      "es": "2,5 km",
+      "en": "2,5 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Tutto+Tano+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1568,12 +1980,18 @@
      "nombre": {
       "es": "La Cabrera",
       "en": "La Cabrera",
-      "pt": "La Cabrera"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "2,7 km",
+     "dato": {
+      "es": "2,7 km",
+      "en": "2,7 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=La+Cabrera+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1581,12 +1999,18 @@
      "nombre": {
       "es": "Fabric Sushi",
       "en": "Fabric Sushi",
-      "pt": "Fabric Sushi"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "2,7 km",
+     "dato": {
+      "es": "2,7 km",
+      "en": "2,7 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Fabric+Sushi+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1594,12 +2018,18 @@
      "nombre": {
       "es": "Kansas",
       "en": "Kansas",
-      "pt": "Kansas"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "6,4 km",
+     "dato": {
+      "es": "6,4 km",
+      "en": "6,4 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Kansas+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1607,12 +2037,18 @@
      "nombre": {
       "es": "Lima Estilo Nikkei",
       "en": "Lima Estilo Nikkei",
-      "pt": "Lima Estilo Nikkei"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "8 km",
+     "dato": {
+      "es": "8 km",
+      "en": "8 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Lima+Estilo+Nikkei+Pilar+Vila+Center",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1633,12 +2069,18 @@
      "nombre": {
       "es": "Parque Austral — polo empresarial y tecnológico",
       "en": "Parque Austral — business and technology hub",
-      "pt": "Parque Austral — centro de negócios e tecnologia"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "1,2 km",
+     "dato": {
+      "es": "1,2 km",
+      "en": "1,2 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Parque+Austral+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1646,12 +2088,18 @@
      "nombre": {
       "es": "IAE Business School",
       "en": "IAE Business School",
-      "pt": "Escola de Negócios IAE"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "1,5 km",
+     "dato": {
+      "es": "1,5 km",
+      "en": "1,5 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=IAE+Business+School+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1659,12 +2107,18 @@
      "nombre": {
       "es": "Hospital Universitario Austral",
       "en": "Austral University Hospital",
-      "pt": "Hospital Universitário Australiano"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "2,4 km",
+     "dato": {
+      "es": "2,4 km",
+      "en": "2,4 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Hospital+Universitario+Austral+Pilar",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1672,12 +2126,18 @@
      "nombre": {
       "es": "Centro histórico de Pilar",
       "en": "Historic center of Pilar",
-      "pt": "Centro histórico de Pilar"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "5 km",
+     "dato": {
+      "es": "5 km",
+      "en": "5 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Plaza+12+de+Octubre+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1685,12 +2145,18 @@
      "nombre": {
       "es": "Iglesia Nuestra Señora del Pilar",
       "en": "Church of Our Lady of the Pillar",
-      "pt": "Igreja de Nossa Senhora do Pilar"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "6 km",
+     "dato": {
+      "es": "6 km",
+      "en": "6 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Parroquia+Nuestra+Senora+del+Pilar+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1698,12 +2164,18 @@
      "nombre": {
       "es": "Reserva Natural del Pilar",
       "en": "Pilar Nature Reserve",
-      "pt": "Reserva Natural de Pilar"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "7,3 km",
+     "dato": {
+      "es": "7,3 km",
+      "en": "7,3 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Reserva+Natural+del+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1711,12 +2183,18 @@
      "nombre": {
       "es": "Parque Industrial de Pilar",
       "en": "Pilar Industrial Park",
-      "pt": "Parque Industrial Pilar"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "13,1 km",
+     "dato": {
+      "es": "13,1 km",
+      "en": "13,1 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Parque+Industrial+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1724,12 +2202,18 @@
      "nombre": {
       "es": "Delta del Tigre",
       "en": "Tiger Delta",
-      "pt": "Delta do Tigre"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "37 km",
+     "dato": {
+      "es": "37 km",
+      "en": "37 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Delta+del+Tigre+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1737,12 +2221,18 @@
      "nombre": {
       "es": "Aeroparque Jorge Newbery (AEP)",
       "en": "Jorge Newbery Airport (AEP)",
-      "pt": "Aeroporto Jorge Newbery (AEP)"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "50 km",
+     "dato": {
+      "es": "50 km",
+      "en": "50 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Aeroparque+Jorge+Newbery+AEP+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     },
     {
@@ -1750,12 +2240,18 @@
      "nombre": {
       "es": "Aeropuerto Internacional Ezeiza (EZE)",
       "en": "Ezeiza International Airport (EZE)",
-      "pt": "Aeroporto Internacional de Ezeiza (EZE)"
+      "pt": "Brasov Grill & Bowl"
      },
-     "dato": "70 km",
+     "dato": {
+      "es": "70 km",
+      "en": "70 km",
+      "pt": "150 m"
+     },
      "link": "https://www.google.com/maps/search/?api=1&query=Aeropuerto+Internacional+Ministro+Pistarini+Ezeiza+EZE",
      "link_texto": {
-      "es": "Como llegar"
+      "es": "Como llegar",
+      "en": "Directions",
+      "pt": "Como chegar"
      }
     }
    ]
@@ -1805,14 +2301,18 @@
      "nombre": {
       "es": "Si la puerta está caliente o no puede salir",
       "en": "If the door is hot or you can't get out",
-      "pt": "Se a porta estiver quente ou você não conseguir sair"
+      "pt": "Atendimento ao hóspede"
      },
      "descripcion": {
       "es": "• Coloque toallas mojadas en la parte inferior de la puerta.\n• Contáctese con Guest Service e indique su nombre y número de habitación.\n• Apague el aire acondicionado o calefacción.\n• Agáchese para no inhalar humo.",
       "en": "• Place wet towels at the bottom of the door.\n\n• Contact Guest Services and provide your name and room number.\n\n• Turn off the air conditioning or heating.\n\n• Crouch down to avoid inhaling smoke.",
-      "pt": "• Coloque toalhas molhadas na parte inferior da porta.\n\n• Entre em contato com o Serviço de Atendimento ao Hóspede e informe seu nome e número do quarto.\n\n• Desligue o ar-condicionado ou o aquecimento.\n\n• Abaixe-se para evitar inalar fumaça."
+      "pt": "Para quaisquer pedidos ou dúvidas durante a sua estadia."
      },
-     "dato": "Marque 0"
+     "dato": {
+      "es": "Marque 0",
+      "en": "Dial 0",
+      "pt": "Disque 0"
+     }
     },
     {
      "id": "consejos",
