@@ -24,7 +24,7 @@ function norm(s){return String(s).toLowerCase().normalize('NFD').replace(/[\u030
 function simple(i){return !i.descripcion&&!i.horario&&!i.aviso&&!i.whatsapp&&!i.mail&&!i.link&&!i.interno}
 
 function itemHTML(i){
- var h='<article class="item" id="i-'+esc(i.id)+'"><div class="item__head"><h3 class="item__name">'+esc(t(i.nombre))+'</h3>'+(i.dato?'<span class="dato">'+esc(i.dato)+'</span>':'')+'</div>';
+ var h='<article class="item" id="i-'+esc(i.id)+'"><div class="item__head"><h3 class="item__name">'+esc(t(i.nombre))+'</h3>'+(i.dato?'<span class="dato">'+esc(t(i.dato))+'</span>':'')+'</div>';
  if(i.aviso)h+='<span class="aviso">'+esc(t(i.aviso))+'</span>';
  if(i.horario)h+='<div class="horario">'+IC.reloj+'<div>'+t(i.horario).split('·').map(function(x){return'<span>'+esc(x.trim())+'</span>'}).join('')+'</div></div>';
  if(i.descripcion)h+='<p class="item__desc">'+fmt(t(i.descripcion))+'</p>';
@@ -88,7 +88,7 @@ function pintarLista(){
  if(!n){cont.innerHTML='<nav class="cards">'+data.secciones.map(function(s){return cardHTML(s)}).join('')+'</nav>';return}
  var res=data.secciones.map(function(s){
   var all=norm(t(s.nombre)).indexOf(n)>=0;
-  var items=all?s.items:s.items.filter(function(i){return norm([t(i.nombre),t(i.descripcion),t(i.horario),i.dato||''].join(' ')).indexOf(n)>=0});
+  var items=all?s.items:s.items.filter(function(i){return norm([t(i.nombre),t(i.descripcion),t(i.horario),t(i.dato)].join(' ')).indexOf(n)>=0});
   return items.length?{id:s.id,nombre:s.nombre,items:items}:null}).filter(Boolean);
  if(!res.length){cont.innerHTML='<p class="empty">'+esc(UI[lang].sin)+'</p>';return}
  cont.innerHTML='<div class="resultados">'+res.map(function(s){return seccionHTML(s,true)}).join('')+'</div>';
@@ -118,7 +118,7 @@ function seccionHTML(s,enlazar){
  html+=(enlazar?'<h2 class="sec__title"><a href="'+href(s.id)+'" style="color:inherit;text-decoration:none">'+tit+'</a></h2>':'<h1 class="sec__title">'+tit+'</h1>')+
   (!enlazar&&t(s.nota)?'<p class="sec__note">'+fmt(t(s.nota))+'</p>':'')+'</div>';
  var buf=[];
- function flush(){if(!buf.length)return;html+='<ul class="list'+(buf.length>=12?' list--grid':'')+'">'+buf.map(function(i){return'<li><span>'+esc(t(i.nombre))+'</span>'+(i.dato?'<span class="dots"></span><span class="val">'+esc(i.dato)+'</span>':'')+'</li>'}).join('')+'</ul>';buf=[]}
+ function flush(){if(!buf.length)return;html+='<ul class="list'+(buf.length>=12?' list--grid':'')+'">'+buf.map(function(i){return'<li><span>'+esc(t(i.nombre))+'</span>'+(i.dato?'<span class="dots"></span><span class="val">'+esc(t(i.dato))+'</span>':'')+'</li>'}).join('')+'</ul>';buf=[]}
  s.items.forEach(function(i){if(simple(i))buf.push(i);else{flush();html+=itemHTML(i)}});
  flush();
  return html+'</section>';
