@@ -16,7 +16,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-10-14T19:59:13.672Z"
+  "actualizado": "2026-10-15T16:25:04.924Z"
  },
  "secciones": [
   {
@@ -64,7 +64,7 @@
      "horario": {
       "es": "Todos los días de 9:00 a 16:30 hs"
      },
-     "dato": "Marque 3001"
+     "dato": "Marque 0"
     },
     {
      "id": "apertura",
@@ -77,7 +77,7 @@
      "horario": {
       "es": "De 17:00 a 21:00 hs"
      },
-     "dato": "Marque 3001"
+     "dato": "Marque 0"
     },
     {
      "id": "lavanderia",
@@ -381,7 +381,7 @@
       "es": "Sala de juegos"
      },
      "descripcion": {
-      "es": "Cuenta con mesa de pool, ping pong, metegol, jenga gigante, generale gigante, cartas y juegos de mesa varios. La mesa de pool es de uso exclusivo para mayores de 16 años. Ubicado dentro de nuetsro Health & Spa."
+      "es": "Cuenta con mesa de pool, ping pong, metegol, jenga gigante, generala gigante, cartas y juegos de mesa varios. La mesa de pool es de uso exclusivo para mayores de 16 años. Ubicado dentro de nuestro Health & Spa."
      },
      "horario": {
       "es": "Lun a vie 7:00 a 22:00 hs · Sáb 8:00 a 22:00 hs · Dom y feriados 8:00 a 20:00 hs"
@@ -426,7 +426,7 @@
       "es": "Salas de reuniones"
      },
      "descripcion": {
-      "es": "Dos salas para hasta 15 personas. Solicítelas en el front desk o llamando a Guest Service."
+      "es": "Dos salas para hasta 15 personas. Solicítelas en el front desk o llamando a Guest Service. Sujetas a disponibilidad y con costo adicional."
      },
      "horario": {
       "es": "De 9:00 a 18:00 hs"
@@ -1098,9 +1098,9 @@
     {
      "id": "tortugas",
      "nombre": {
-      "es": "Tortugas Open Mall"
+      "es": "Tortugas Open Mall (TOM)"
      },
-     "dato": "13,6"
+     "dato": "13,6 km"
     },
     {
      "id": "propuestas-gastronomicas",
