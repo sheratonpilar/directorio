@@ -18,7 +18,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-10-15T21:24:31.091Z"
+  "actualizado": "2026-10-15T21:31:18.767Z"
  },
  "secciones": [
   {
@@ -1219,7 +1219,11 @@
       "en": "Brasov Grill & Bowl",
       "pt": "Brasov Grill & Bowl"
      },
-     "dato": "150 m"
+     "dato": "150 m",
+     "link": "https://www.google.com/maps/search/?api=1&query=Brasov+Grill+%26+Bowl+Pilar+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "rush",
@@ -1228,7 +1232,11 @@
       "en": "Rush – Parque de camas elásticas",
       "pt": "Rush – Parque de camas elásticas"
      },
-     "dato": "150 m"
+     "dato": "150 m",
+     "link": "https://www.google.com/maps/search/?api=1&query=Rush+parque+de+camas+elasticas+Pilar+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "multiplex",
@@ -1237,7 +1245,11 @@
       "en": "Cine Multiplex",
       "pt": "Cine Multiplex"
      },
-     "dato": "700 m"
+     "dato": "700 m",
+     "link": "https://www.google.com/maps/search/?api=1&query=Cine+Multiplex+Palmas+del+Pilar",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "cinepolis",
@@ -1246,7 +1258,11 @@
       "en": "Cinépolis Pilar",
       "pt": "Cinépolis Pilar"
      },
-     "dato": "800 m"
+     "dato": "800 m",
+     "link": "https://www.google.com/maps/search/?api=1&query=Cinepolis+Pilar+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "escape-room",
@@ -1255,7 +1271,11 @@
       "en": "Escape Room Pilar",
       "pt": "Escape Room Pilar"
      },
-     "dato": "800 m"
+     "dato": "800 m",
+     "link": "https://www.google.com/maps/search/?api=1&query=Escape+Room+Pilar+Torres+del+Sol",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "club-escape",
@@ -1264,7 +1284,11 @@
       "en": "Club del Escape Pilar",
       "pt": "Club del Escape Pilar"
      },
-     "dato": "950 m"
+     "dato": "950 m",
+     "link": "https://www.google.com/maps/search/?api=1&query=Club+del+Escape+Pilar+Cinepolis",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "bingo",
@@ -1273,7 +1297,11 @@
       "en": "Bingo Oasis",
       "pt": "Bingo Oasis"
      },
-     "dato": "1,1 km"
+     "dato": "1,1 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=Bingo+Oasis+Pilar+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "pilar-paddle",
@@ -1282,7 +1310,11 @@
       "en": "Pilar Paddle Center",
       "pt": "Pilar Paddle Center"
      },
-     "dato": "1,2 km"
+     "dato": "1,2 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=Pilar+Paddle+Center+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "neverland",
@@ -1291,7 +1323,11 @@
       "en": "Neverland",
       "pt": "Neverland"
      },
-     "dato": "1,6 km"
+     "dato": "1,6 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=Neverland+Palmas+del+Pilar",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "sharewood",
@@ -1300,7 +1336,11 @@
       "en": "Sharewood Pilar",
       "pt": "Sharewood Pilar"
      },
-     "dato": "1,6 km"
+     "dato": "1,6 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=Sharewood+Pilar+Darregueira+2010",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "yarda",
@@ -1309,7 +1349,11 @@
       "en": "Yarda 51: Indoor Golf",
       "pt": "Yarda 51: Indoor Golf"
      },
-     "dato": "2,1 km"
+     "dato": "2,1 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=Yarda+51+Indoor+Golf+Pilar",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "teatro",
@@ -1318,7 +1362,11 @@
       "en": "Teatro Gran Pilar",
       "pt": "Teatro Gran Pilar"
      },
-     "dato": "5,5 km"
+     "dato": "5,5 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=Teatro+Gran+Pilar+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "temaiken",
@@ -1327,7 +1375,11 @@
       "en": "Bioparque Temaikén",
       "pt": "Bioparque Temaikén"
      },
-     "dato": "12 km"
+     "dato": "12 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=Bioparque+Temaiken+Escobar+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "compras",
@@ -1349,7 +1401,11 @@
       "en": "Palmas de Pilar Shopping",
       "pt": "Palmas de Pilar Shopping"
      },
-     "dato": "450 m"
+     "dato": "450 m",
+     "link": "https://www.google.com/maps/search/?api=1&query=Shopping+Palmas+del+Pilar+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "pilar-walk",
@@ -1358,7 +1414,11 @@
       "en": "Pilar Walk",
       "pt": "Pilar Walk"
      },
-     "dato": "950 m"
+     "dato": "950 m",
+     "link": "https://www.google.com/maps/search/?api=1&query=Pilar+Walk+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "champagnat",
@@ -1367,7 +1427,11 @@
       "en": "Paseo Champagnat",
       "pt": "Paseo Champagnat"
      },
-     "dato": "5 km"
+     "dato": "5 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=Paseo+Champagnat+Pilar+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "paseo-pilar",
@@ -1376,7 +1440,11 @@
       "en": "Paseo Pilar",
       "pt": "Paseo Pilar"
      },
-     "dato": "5,9 km"
+     "dato": "5,9 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=Paseo+Pilar+shopping+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "tortugas",
@@ -1385,7 +1453,11 @@
       "en": "Tortugas Open Mall (TOM)",
       "pt": "Tortugas Open Mall (TOM)"
      },
-     "dato": "13,6 km"
+     "dato": "13,6 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=Tortugas+Open+Mall+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "propuestas-gastronomicas",
@@ -1407,7 +1479,11 @@
       "en": "Yokos Bureau",
       "pt": "Yokos Bureau"
      },
-     "dato": "500 m"
+     "dato": "500 m",
+     "link": "https://www.google.com/maps/search/?api=1&query=Yokos+Bureau+Pilar+km+49.5",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "birra-bar",
@@ -1416,7 +1492,11 @@
       "en": "La Birra Bar",
       "pt": "La Birra Bar"
      },
-     "dato": "750 m"
+     "dato": "750 m",
+     "link": "https://www.google.com/maps/search/?api=1&query=La+Birra+Bar+Pilar+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "mooi",
@@ -1425,7 +1505,11 @@
       "en": "Mooi",
       "pt": "Mooi"
      },
-     "dato": "850 m"
+     "dato": "850 m",
+     "link": "https://www.google.com/maps/search/?api=1&query=Mooi+Pilar+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "club-milanesa",
@@ -1434,7 +1518,11 @@
       "en": "El Club de la Milanesa",
       "pt": "El Club de la Milanesa"
      },
-     "dato": "1 km"
+     "dato": "1 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=El+Club+de+la+Milanesa+Pilar+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "food-truck-store",
@@ -1443,7 +1531,11 @@
       "en": "The Food Truck Store",
       "pt": "The Food Truck Store"
      },
-     "dato": "1,5 km"
+     "dato": "1,5 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=The+Food+Truck+Store+Pilar+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "rock-fellers",
@@ -1452,7 +1544,11 @@
       "en": "Rock & Feller’s",
       "pt": "Rock & Feller’s"
      },
-     "dato": "2,5 km"
+     "dato": "2,5 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=Rock+%26+Fellers+Pilar+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "tutto-tano",
@@ -1461,7 +1557,11 @@
       "en": "Tutto Tano",
       "pt": "Tutto Tano"
      },
-     "dato": "2,5 km"
+     "dato": "2,5 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=Tutto+Tano+Pilar+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "cabrera",
@@ -1470,7 +1570,11 @@
       "en": "La Cabrera",
       "pt": "La Cabrera"
      },
-     "dato": "2,7 km"
+     "dato": "2,7 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=La+Cabrera+Pilar+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "fabric-sushi",
@@ -1479,7 +1583,11 @@
       "en": "Fabric Sushi",
       "pt": "Fabric Sushi"
      },
-     "dato": "2,7 km"
+     "dato": "2,7 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=Fabric+Sushi+Pilar+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "kansas",
@@ -1488,7 +1596,11 @@
       "en": "Kansas",
       "pt": "Kansas"
      },
-     "dato": "6,4 km"
+     "dato": "6,4 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=Kansas+Pilar+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "lima",
@@ -1497,7 +1609,11 @@
       "en": "Lima Estilo Nikkei",
       "pt": "Lima Estilo Nikkei"
      },
-     "dato": "8 km"
+     "dato": "8 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=Lima+Estilo+Nikkei+Pilar+Vila+Center",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "otras-atracciones",
@@ -1519,7 +1635,11 @@
       "en": "Parque Austral — business and technology hub",
       "pt": "Parque Austral — centro de negócios e tecnologia"
      },
-     "dato": "1,2 km"
+     "dato": "1,2 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=Parque+Austral+Pilar+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "iae",
@@ -1528,7 +1648,11 @@
       "en": "IAE Business School",
       "pt": "Escola de Negócios IAE"
      },
-     "dato": "1,5 km"
+     "dato": "1,5 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=IAE+Business+School+Pilar+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "austral",
@@ -1537,7 +1661,11 @@
       "en": "Austral University Hospital",
       "pt": "Hospital Universitário Australiano"
      },
-     "dato": "2,4 km"
+     "dato": "2,4 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=Hospital+Universitario+Austral+Pilar",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "centro-historico",
@@ -1546,7 +1674,11 @@
       "en": "Historic center of Pilar",
       "pt": "Centro histórico de Pilar"
      },
-     "dato": "5 km"
+     "dato": "5 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=Plaza+12+de+Octubre+Pilar+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "iglesia",
@@ -1555,7 +1687,11 @@
       "en": "Church of Our Lady of the Pillar",
       "pt": "Igreja de Nossa Senhora do Pilar"
      },
-     "dato": "6 km"
+     "dato": "6 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=Parroquia+Nuestra+Senora+del+Pilar+Pilar+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "reserva-natural",
@@ -1564,7 +1700,11 @@
       "en": "Pilar Nature Reserve",
       "pt": "Reserva Natural de Pilar"
      },
-     "dato": "7,3 km"
+     "dato": "7,3 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=Reserva+Natural+del+Pilar+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "parque-industrial-pilar",
@@ -1573,7 +1713,11 @@
       "en": "Pilar Industrial Park",
       "pt": "Parque Industrial Pilar"
      },
-     "dato": "13,1 km"
+     "dato": "13,1 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=Parque+Industrial+Pilar+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "delta-tigre",
@@ -1582,7 +1726,11 @@
       "en": "Tiger Delta",
       "pt": "Delta do Tigre"
      },
-     "dato": "37 km"
+     "dato": "37 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=Delta+del+Tigre+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "aeroparque",
@@ -1591,7 +1739,11 @@
       "en": "Jorge Newbery Airport (AEP)",
       "pt": "Aeroporto Jorge Newbery (AEP)"
      },
-     "dato": "50 km"
+     "dato": "50 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=Aeroparque+Jorge+Newbery+AEP+Buenos+Aires",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     },
     {
      "id": "ezeiza",
@@ -1600,7 +1752,11 @@
       "en": "Ezeiza International Airport (EZE)",
       "pt": "Aeroporto Internacional de Ezeiza (EZE)"
      },
-     "dato": "70 km"
+     "dato": "70 km",
+     "link": "https://www.google.com/maps/search/?api=1&query=Aeropuerto+Internacional+Ministro+Pistarini+Ezeiza+EZE",
+     "link_texto": {
+      "es": "Como llegar"
+     }
     }
    ]
   },
