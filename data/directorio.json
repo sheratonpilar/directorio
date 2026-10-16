@@ -18,7 +18,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-10-16T12:04:30.379Z"
+  "actualizado": "2026-10-16T18:35:15.665Z"
  },
  "secciones": [
   {
@@ -731,139 +731,9 @@
       "pt": "Telefonia e tarifas"
      },
      "descripcion": {
-      "es": "Ponemos a su disposición el servicio de llamadas telefónicas nacionales e internacionales. A continuación, se detallan las tarifas vigentes según el tipo de llamada y el destino.",
+      "es": "Ponemos a su disposición el servicio de llamadas telefónicas nacionales e internacionales. Por favor comunicarse con nuestro Guest Service.",
       "en": "We offer national and international telephone calling services. Below are the current rates according to the type of call and destination.",
       "pt": "Oferecemos serviços de chamadas telefônicas nacionais e internacionais. Abaixo estão as tarifas atuais de acordo com o tipo de chamada e destino."
-     }
-    },
-    {
-     "id": "tel-local",
-     "nombre": {
-      "es": "Llamadas locales",
-      "en": "Local calls",
-      "pt": "Chamadas locais"
-     },
-     "dato": {
-      "es": "AR$ 50 / min",
-      "en": "AR$ 50 / min",
-      "pt": "AR$ 50 / min"
-     }
-    },
-    {
-     "id": "tel-cel",
-     "nombre": {
-      "es": "Celulares locales",
-      "en": "Calls to local mobile numbers",
-      "pt": "Chamadas para celulares locais"
-     },
-     "dato": {
-      "es": "AR$ 100 / min",
-      "en": "AR$ 100 / min",
-      "pt": "AR$ 100 / min"
-     }
-    },
-    {
-     "id": "tel-nac",
-     "nombre": {
-      "es": "Llamadas a Argentina",
-      "en": "Calls to Argentina",
-      "pt": "Chamadas para a Argentina"
-     },
-     "dato": {
-      "es": "AR$ 150 / min",
-      "en": "AR$ 150 / min",
-      "pt": "AR$ 150 / min"
-     }
-    },
-    {
-     "id": "tel-america",
-     "nombre": {
-      "es": "Llamadas a América (incl. EE.UU. y Canadá)",
-      "en": "Calls to the Americas, including the U.S. and Canada",
-      "pt": "Chamadas para as Américas (incluindo EUA e Canadá)"
-     },
-     "dato": {
-      "es": "AR$ 300 / min",
-      "en": "AR$ 300 / min",
-      "pt": "AR$ 300 / min"
-     }
-    },
-    {
-     "id": "tel-mundo",
-     "nombre": {
-      "es": "Llamadas al resto del mundo",
-      "en": "Calls to the rest of the world",
-      "pt": "Chamadas para o resto do mundo"
-     },
-     "dato": {
-      "es": "AR$ 400 / min",
-      "en": "AR$ 400 / min",
-      "pt": "AR$ 400 / min"
-     }
-    },
-    {
-     "id": "tel-0800",
-     "nombre": {
-      "es": "0800 / 0822 / 0810",
-      "en": "0800 / 0822 / 0810",
-      "pt": "0800 / 0822 / 0810"
-     },
-     "dato": {
-      "es": "AR$ 200 / llamada",
-      "en": "AR$ 200 / call",
-      "pt": "AR$ 200 / chamada"
-     }
-    },
-    {
-     "id": "tel-1800",
-     "nombre": {
-      "es": "1-800",
-      "en": "1-800",
-      "pt": "1-800"
-     },
-     "dato": {
-      "es": "AR$ 300 / min",
-      "en": "AR$ 300 / min",
-      "pt": "AR$ 300 / min"
-     }
-    },
-    {
-     "id": "tel-0810",
-     "nombre": {
-      "es": "0-810",
-      "en": "0-810",
-      "pt": "0-810"
-     },
-     "dato": {
-      "es": "AR$ 200 / llamada",
-      "en": "AR$ 200 / call",
-      "pt": "AR$ 200 / chamada"
-     }
-    },
-    {
-     "id": "tel-0600",
-     "nombre": {
-      "es": "0-600",
-      "en": "0-600",
-      "pt": "0-600"
-     },
-     "dato": {
-      "es": "AR$ 200 / hora",
-      "en": "AR$ 200 / hour",
-      "pt": "AR$ 200 / hora"
-     }
-    },
-    {
-     "id": "tel-0610",
-     "nombre": {
-      "es": "0-610",
-      "en": "0-610",
-      "pt": "0-610"
-     },
-     "dato": {
-      "es": "AR$ 200 / hora",
-      "en": "AR$ 200 / hour",
-      "pt": "AR$ 200 / hora"
      }
     }
    ]
