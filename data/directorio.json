@@ -18,7 +18,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-10-16T11:24:37.982Z"
+  "actualizado": "2026-10-16T12:04:30.379Z"
  },
  "secciones": [
   {
@@ -81,7 +81,7 @@
      "descripcion": {
       "es": "Todas nuestras estadías incluyen estacionamiento.\n\nSi utiliza el estacionamiento subterráneo, deberá validar su ticket en recepción antes de salir del hotel. Si no fue validado durante el check-in, por favor acérquese a recepción antes de retirarse.\n\nCada vez que salga y vuelva a ingresar durante su estadía, recibirá un nuevo ticket que también deberá validar en recepción antes de la siguiente salida.",
       "en": "Parking is included with every stay.\n\nIf you use the underground parking garage, you must have your parking ticket validated at the front desk before leaving the hotel. If it was not validated at check-in, please stop by the front desk before you leave.\n\nEach time you leave and re-enter during your stay, you will receive a new parking ticket, which must also be validated at the front desk before your next departure.",
-      "pt": "Todas as nossas estadias incluem estacionamento.\n\nSe utilizar o estacionamento subterrâneo, você deverá validar seu tíquete de estacionamento na recepção antes de sair do hotel. Caso ele não tenha sido validado no check-in, passe na recepção antes de sair.\n\nSempre que sair e voltar a entrar durante sua estadia, você receberá um novo ticket, que também deverá ser validado na recepção antes da próxima saída."
+      "pt": "Todas as nossas estadias incluem estacionamento.\n\nSe utilizar o estacionamento subterrâneo, você deverá validar seu ticket de estacionamento na recepção antes de sair do hotel. Caso ele não tenha sido validado no check-in, passe na recepção antes de sair.\n\nSempre que sair e voltar a entrar durante sua estadia, você receberá um novo ticket, que também deverá ser validado na recepção antes da próxima saída."
      }
     },
     {
@@ -93,12 +93,13 @@
      },
      "descripcion": {
       "es": "Si necesita un horario especial, contacte al Departamento de Ama de Llaves. Si prefiere que su habitación no sea acondicionada, simplemente deje puesto el cartel de \"No molestar\".",
-      "en": "If you require a special schedule, please contact the Housekeeping Department. If you prefer your room not to be cleaned, simply leave the \"Do Not Disturb\" sign up.",
+      "en": "If you would like your room cleaned at a specific time, please contact Housekeeping. If you prefer not to have your room cleaned, hang the ‘Do Not Disturb’ sign on the outside of your room door.",
       "pt": "Caso precise de um horário especial, entre em contato com a equipe de Governança. Se preferir que seu quarto não seja arrumado, basta deixar a placa “Não perturbe” na parte externa da porta."
      },
      "horario": {
       "es": "Todos los días de 9:00 a 16:30 h",
-      "en": "Every day from 9:00 a.m. to 4:30 p.m."
+      "en": "Every day from 9:00 a.m. to 4:30 p.m.",
+      "pt": "Todos os dias, das 9h às 16h30."
      },
      "dato": {
       "es": "Marque 0",
@@ -115,12 +116,13 @@
      },
      "descripcion": {
       "es": "Si desea que acondicionemos su habitación por la tarde, comuníquese con nuestro departamento de Ama de Llaves. Para garantizar su privacidad, lo ofrecemos solo a pedido.",
-      "en": "If you would like us to prepare your room in the afternoon, please contact our Housekeeping Department. To ensure your privacy, this service is offered only upon request.",
+      "en": "IIf you would like your room prepared for the evening, please contact Housekeeping. To ensure your privacy, this service is offered only upon request.",
       "pt": "Caso deseje que seu quarto seja arrumado no fim da tarde, entre em contato com a equipe de Governança. Para garantir sua privacidade, esse serviço é oferecido somente mediante solicitação."
      },
      "horario": {
       "es": "Todos los días de 17:00 a 21:00 h",
-      "en": "Every day from 5:00 p.m. to 9:00 p.m."
+      "en": "Every day from 5:00 p.m. to 9:00 p.m.",
+      "pt": "Todos os dias, das 17h às 21h."
      },
      "dato": {
       "es": "Marque 0",
@@ -137,12 +139,13 @@
      },
      "descripcion": {
       "es": "Si desea lavar ropa, en su armario encontrará una bolsa y una planilla con toda la información. Coloque las prendas en la bolsa junto con la planilla y marque 0 para coordinar el retiro.",
-      "en": "To use our laundry service, you will find a laundry bag and a form with full details in your closet. Place your clothes in the bag along with the form and dial 0 to arrange collection.",
+      "en": "A laundry bag and a form with full details are provided in your closet. Place your clothes in the bag along with the form and dial 0 to arrange collection.",
       "pt": "Se desejar utilizar o serviço de lavanderia, você encontrará uma sacola e um formulário com todas as informações no armário do seu quarto. Coloque as roupas na sacola junto com o formulário e disque 0 para combinar a retirada."
      },
      "horario": {
       "es": "Todos los días de 7:00 a 17:00 h",
-      "en": "Every day from 7:00 a.m. to 5:00 p.m."
+      "en": "Every day from 7:00 a.m. to 5:00 p.m.",
+      "pt": "Todos os dias, das 7h às 17h."
      },
      "dato": {
       "es": "Marque 0",
@@ -165,7 +168,7 @@
      },
      "descripcion": {
       "es": "¿Olvidó algo? Tenemos kit dental, kit de afeitar y otros artículos de viaje. Pídalos acercándose o comunicándose con el front desk.",
-      "en": "Did you forget something? We have dental kits, shaving kits, and other travel items. Please ask for them by coming to the front desk or contacting us.",
+      "en": "Did you forget something? We have dental kits, shaving kits, and other travel items. Please request them at the front desk or dial 0 from your room.",
       "pt": "Esqueceu alguma coisa? Temos kits de higiene bucal, kits de barbear e outros artigos de viagem. Solicite-os pessoalmente na recepção ou entre em contato com nossa equipe."
      },
      "dato": {
@@ -182,7 +185,7 @@
       "pt": "Cofre de segurança"
      },
      "descripcion": {
-      "es": "Su habitación cuenta con caja fuerte sin cargo para guardar dinero y objetos de valor. Las instrucciones de uso se encuentran en la misma.",
+      "es": "Su habitación cuenta con caja fuerte sin cargo para guardar dinero y objetos de valor. Las instrucciones de uso se encuentran en un adhesivo en la puerta de la caja fuerte.",
       "en": "Your room has a complimentary safe for storing money and valuables. Instructions are provided on a sticker on the safe door.",
       "pt": "Seu quarto conta com um cofre sem custo adicional para guardar dinheiro e objetos de valor. As instruções de uso estão em um adesivo na porta do cofre."
      }
@@ -264,7 +267,7 @@
      },
      "horario": {
       "es": "Vie y sáb de 20:00 a 00:00 h",
-      "en": "Fri and Sat from 8:00 PM to 12:00 AM",
+      "en": "Fri and Sat from 8:00 p.m. to 12:00 a.m.",
       "pt": "Sex e sáb: das 20h à meia-noite"
      },
      "whatsapp": "5491131353023",
@@ -334,11 +337,11 @@
      "descripcion": {
       "es": "El estilo del campo argentino y las especialidades de nuestro menú criollo.",
       "en": "Experience the charm of the Argentine countryside and the specialties of our traditional menu.",
-      "pt": "O estilo do interior argentino e as especialidades do nosso cardápio crioulo."
+      "pt": "O charme do campo argentino e as especialidades da nossa culinária tradicional."
      },
      "horario": {
       "es": "Vie y sáb de 20:00 a 00:00 h",
-      "en": "Fri and Sat from 8:00 PM to 12:00 AM",
+      "en": "Fri and Sat from 8:00 p.m to 12:00 a.m",
       "pt": "Sex e sáb: das 20h à meia-noite"
      },
      "aviso": {
@@ -399,7 +402,7 @@
       "pt": "De segunda a sexta, das 7h às 22h. · Sábado, das 8h às 22h. · Domingo e feriados, das 8h às 20h."
      },
      "aviso": {
-      "es": "Menores de 16 años: hasta las 17 hs",
+      "es": "Menores de 16 años: hasta las 17 h",
       "en": "Children under 16: until 5 pm",
       "pt": "Crianças menores de 16 anos: até às 17h"
      }
@@ -414,7 +417,7 @@
      "descripcion": {
       "es": "La piscina interna tiene una temperatura de 34 °C, el ice bath de 8 °C y el hidromasaje de 38 °C. Podrá alternar entre ellas para hacer terapia de contraste.\nLa piscina interna climatizada cuenta con dos escaleras de acero para ingresar, mientras que el hidromasaje cuenta con una escalinata con baranda para facilitar el acceso.",
       "en": "The indoor pool is maintained at 34 °C, the ice bath at 8 °C, and the whirlpool at 38 °C. You can alternate between them for contrast therapy.\nThe heated indoor pool has two stainless-steel pool ladders for entry, while the whirlpool has a staircase with a handrail for easy access.",
-      "pt": "A piscina interior é aquecida a 34°C, o banho de gelo a 8°C e a banheira de hidromassagem a 38°C. Pode alternar entre elas para uma terapia de contraste.\nA piscina interior aquecida tem duas escadas de aço para acesso, enquanto a banheira de hidromassagem tem uma escada com corrimão para facilitar o acesso."
+      "pt": "A piscina coberta é aquecida a 34°C, o banho de gelo a 8°C e a banheira de hidromassagem a 38°C. Você pode alternar entre elas para uma terapia de contraste.\nA piscina interior aquecida tem duas escadas de aço para acesso, enquanto a banheira de hidromassagem tem uma escada com corrimão para facilitar o acesso."
      }
     },
     {
@@ -425,9 +428,9 @@
       "pt": "Piscinas externas e solário"
      },
      "descripcion": {
-      "es": "Piscina externa de 240 m² y piscina para menores. Cuenta también con solarium húmedo y seco. Guardavidas en temporada de verano. Camastros con costo extra: consulte en recepción Health & Spa.",
-      "en": "240 m² outdoor pool and children's pool. Sunbathing areas and a shallow-water lounging area.. Lifeguard on duty during the summer season. Poolside daybeds available at an extra cost: please inquire at the Health & Spa reception.",
-      "pt": "Piscina exterior de 240 m² e piscina infantil. Dispõe ainda de solário seco e molhado. Guarda-vidas de serviço durante a temporada de verão. Espreguiçadeiras disponíveis mediante um custo adicional: por favor, informe-se na receção do Health & Spa."
+      "es": "Piscina externa de 240 m² y piscina para menores. Cuenta también con solárium húmedo y seco. Guardavidas en temporada de verano. Camastros con costo extra: consulte en recepción Health & Spa.",
+      "en": "240 m² outdoor pool and children's pool. Sunbathing areas and a shallow-water lounging area. Lifeguard on duty during the summer season. Poolside daybeds available at an extra cost: please inquire at the Health & Spa reception.",
+      "pt": "Piscina exterior de 240 m² e piscina infantil. Dispõe ainda de solário seco e molhado. Guarda-vidas de serviço durante a temporada de verão. Daybeds disponíveis mediante um custo adicional: por favor, informe-se na receção do Health & Spa."
      },
      "horario": {
       "es": "De 10:00 a 20:00 h",
@@ -449,16 +452,16 @@
      },
      "descripcion": {
       "es": "Gimnasio totalmente equipado, con vista a los jardines y asesoramiento profesional durante los horarios de apertura del spa.",
-      "en": "Fully equipped gym overlooking the gardens and professional advice during spa opening hours.",
-      "pt": "Academia totalmente equipada com vista para os jardins e aconselhamento profissional durante o horário de funcionamento do spa."
+      "en": "A fully equipped gym overlooking the gardens, with professional guidance available during spa opening hours.",
+      "pt": "Academia totalmente equipada, com vista para os jardins e orientação profissional durante o horário de funcionamento do spa."
      },
      "horario": {
-      "es": "Disponible 24 hs · Para acceder fuera del horario del spa, solicite la apertura en nuestro Front Desk.",
+      "es": "Disponible 24 h · Para acceder fuera del horario del spa, solicite la apertura en nuestro Front Desk.",
       "en": "Available 24 hours · To access outside of spa hours, please request access at our Front Desk.",
       "pt": "Disponível 24 horas · Para acesso fora do horário de funcionamento do spa, solicite na recepção."
      },
      "aviso": {
-      "es": "Permitido el uso sólo con calzado apropiado para gimnasio. Para mayores de 16 años.",
+      "es": "Permitido el uso sólo con calzado apropiado para gimnasio. Para mayores de 16 años inclusive.",
       "en": "Permitted for use only with appropriate gym footwear. For ages 16 and up.",
       "pt": "Permitido o uso somente com calçado apropriado para ginástica. Para maiores de 16 anos."
      }
@@ -472,7 +475,7 @@
      },
      "descripcion": {
       "es": "Servicio de masajes y tratamientos faciales diseñados para el bienestar y la renovación de la piel. \n\nCon reserva previa y según disponibilidad. Se recomienda presentarse 15 minutos antes del horario reservado para aprovechar al máximo su tiempo de masaje.\n**Cancelación:** se requiere un aviso con al menos 2 horas de anticipación al horario reservado.\nEn caso de no cancelar con la anticipación requerida, se aplicará un cargo del 50% del valor del servicio.",
-      "en": "Massage and facial treatments designed for skin well-being and renewal.\n\nReservations are required and subject to availability. We recommend arriving 15 minutes prior to your scheduled appointment to make the most of your massage time.\n\n**Cancellation:** Please notify us at least 2 hours in advance of your appointment. Failure to cancel within the required timeframe will result in a charge of 50% of the service fee.",
+      "en": "Massages for relaxation and well-being, and facial treatments for skin renewal.\n\nReservations are required and subject to availability. We recommend arriving 15 minutes prior to your scheduled appointment to make the most of your massage time.\n\n**Cancellation:** Please notify us at least 2 hours in advance of your appointment. Failure to cancel within the required timeframe will result in a charge of 50% of the service fee.",
       "pt": "Massagens e tratamentos faciais concebidos para o bem-estar e renovação da pele.\n\nÉ necessário fazer reserva, sujeita à disponibilidade. Recomendamos chegar 15 minutos antes do horário agendado para aproveitar ao máximo o tempo da sua massagem.\n\n**Cancelamento:** Por favor, avise-nos com pelo menos 2 horas de antecedência. O não cancelamento dentro do prazo estipulado resultará na cobrança de 50% do valor do serviço."
      },
      "horario": {
@@ -481,7 +484,7 @@
       "pt": "De segunda a sábado, das 14h às 21h · Domingos e feriados, das 10h às 17h"
      },
      "aviso": {
-      "es": "Para mayores de 16 años.",
+      "es": "Para mayores de 16 años inclusive.",
       "en": "For ages 16 and up.",
       "pt": "Para maiores de 16 anos."
      },
@@ -501,7 +504,7 @@
       "pt": "Vestiários e salas de relaxamento"
      },
      "descripcion": {
-      "es": "Los saunas, baños de vapor y salas de relax se encuentran ubicados dentro de los vestuarios de hombres y mujeres, respectivamente. Estos espacios no son mixtos. Contamos con lockers para guardar pertenencias y ofrecemos toallas, shampoo, acondicionador, jabón, crema corporal, secador de pelo y planchita para la comodidad de nuestros clientes. Nuestra sala de relax cuenta con agua saborizada, té y frutas.",
+      "es": "Los saunas, baños de vapor y salas de relax se encuentran ubicados dentro de los vestuarios de hombres y mujeres, respectivamente. Estos espacios no son mixtos. Contamos con lockers para guardar pertenencias y ofrecemos toallas, shampoo, acondicionador, jabón, crema corporal, secador de pelo y planchita para la comodidad de nuestros clientes. Las salas de relax cuentan con agua saborizada, té y frutas.",
       "en": "The saunas, steam rooms, and relaxation areas are located within the men's and women's changing rooms, respectively. These spaces are not co-ed. We have lockers for storing belongings and offer towels, shampoo, conditioner, soap, body lotion, a hair dryer, and a hair straightener for our guests' convenience. Our relaxation area offers flavored water, tea, and fruit.",
       "pt": "As saunas, banhos de vapor e áreas de relaxamento estão localizadas nos vestiários masculino e feminino, respectivamente. Esses espaços não são mistos. Disponibilizamos armários para guardar pertences e oferecemos toalhas, xampu, condicionador, sabonete, loção corporal, secador de cabelo e chapinha para maior comodidade de nossos hóspedes. Nossa área de relaxamento oferece água aromatizada, chá e frutas."
      }
@@ -554,9 +557,9 @@
       "pt": "Clube Infantil Sheratoons"
      },
      "descripcion": {
-      "es": "Actividades recreativas guiadas por nuestros profesores, pensadas para niños de 6 a 12 años (los menores de 6 años pueden participar acompañados por un adulto). Las propuestas incluyen juegos al aire libre, manualidades, talleres creativos y actividades deportivas.\n\nTambién contamos con un salón Sheratoons, equipado con videojuegos (Wii, PlayStation 5 y arcade), ping pong, plaza blanda para bebés y más. En fechas especiales, organizamos actividades temáticas como búsqueda de huevos de Pascua o manualidades para el Día del Padre, Día de la Madre o halloween.",
-      "en": "Recreational activities led by our instructors, designed for children aged 6 to 12 (children under 6 can participate accompanied by an adult). These include outdoor games, crafts, creative workshops, and sports activities.\n\nWe also have a Sheratoons room, equipped with video games (Wii, PlayStation 5, and arcade), ping pong, a soft play area for babies, and more. On special occasions, we organize themed activities such as Easter egg hunts or crafts for Father's Day, Mother's Day, or Halloween.",
-      "pt": "Atividades recreativas conduzidas por nossos instrutores, voltadas para crianças de 6 a 12 anos (crianças menores de 6 anos podem participar acompanhadas por um adulto). Essas atividades incluem jogos ao ar livre, artesanato, oficinas criativas e atividades esportivas.\n\nTambém contamos com uma sala Sheratons, equipada com videogames (Wii, PlayStation 5 e jogos de arcade), mesa de pingue-pongue, área de recreação acolchoada para bebês. e muito mais. Em ocasiões especiais, organizamos atividades temáticas, como caça aos ovos de Páscoa ou oficinas de artesanato para o Dia dos Pais, Dia das Mães ou Halloween."
+      "es": "Actividades recreativas guiadas por nuestros profesores, pensadas para niños de 6 a 12 años (los menores de 6 años pueden participar acompañados por un adulto). Las propuestas incluyen juegos al aire libre, manualidades, talleres creativos y actividades deportivas.\n\nTambién contamos con un salón Sheratoons, equipado con videojuegos (Wii, PlayStation 5 y arcade), ping pong, plaza blanda para bebés y más. En fechas especiales, organizamos actividades temáticas como búsqueda de huevos de Pascua o manualidades para el Día del Padre, Día de la Madre o Halloween.",
+      "en": "Recreational activities led by our instructors, designed for children aged 6 to 12 (children under 6 can participate accompanied by an adult). These include outdoor games, crafts, creative workshops, and sports activities.\n\nWe also have a Sheratoons room, equipped with video games (Wii, PlayStation 5, and arcade games), ping pong, a soft play area for babies, and more. On special occasions, we organize themed activities such as Easter egg hunts or crafts for Father's Day, Mother's Day, or Halloween.",
+      "pt": "Atividades recreativas conduzidas por nossos instrutores, voltadas para crianças de 6 a 12 anos (crianças menores de 6 anos podem participar acompanhadas por um adulto). Essas atividades incluem jogos ao ar livre, artesanato, oficinas criativas e atividades esportivas.\n\nTambém contamos com uma sala Sheratoons, equipada com videogames (Wii, PlayStation 5 e jogos de arcade), mesa de pingue-pongue, área de recreação acolchoada para bebês e muito mais. Em ocasiões especiais, organizamos atividades temáticas, como caça aos ovos de Páscoa ou oficinas de artesanato para o Dia dos Pais, Dia das Mães ou Halloween."
      },
      "horario": {
       "es": "Sáb 12:00 a 20:00 h · Dom 11:00 a 17:00 h · Fines de semana y todos los días durante vacaciones de invierno o verano.",
@@ -591,9 +594,9 @@
       "pt": "Sala de jogos"
      },
      "descripcion": {
-      "es": "Cuenta con mesa de pool, ping pong, metegol, jenga gigante, generala gigante, cartas y juegos de mesa varios. La mesa de pool es de uso exclusivo para mayores de 16 años. Ubicada dentro de nuestro Health & Spa.",
+      "es": "Cuenta con mesa de pool, ping pong, metegol, jenga gigante, generala gigante, cartas y juegos de mesa varios. La mesa de pool es de uso exclusivo para mayores de 16 años inclusive. Ubicada dentro de nuestro Health & Spa.",
       "en": "It features a pool table, ping pong, foosball, giant Jenga, giant dice game, cards, and various board games. The pool table is for the exclusive use of those 16 years and older. Located inside our Health & Spa.",
-      "pt": "O espaço conta com mesa de bilhar, pingue-pongue, pebolim, Jenga gigante, jogo de dados gigante, cartas e diversos jogos de tabuleiro. A mesa de bilhar é de uso exclusivo de pessoas com 16 anos ou mais. Localizada dentro do nosso Spa e Centro de Bem-Estar."
+      "pt": "O espaço conta com mesa de bilhar, pingue-pongue, pebolim, Jenga gigante, jogo de dados gigante, cartas e diversos jogos de tabuleiro. A mesa de bilhar é de uso exclusivo de pessoas com 16 anos ou mais. Localizada dentro do nosso Spa e Centro de Health & Spa."
      },
      "horario": {
       "es": "Lun a vie 7:00 a 22:00 h · Sáb 8:00 a 22:00 h · Dom y feriados 8:00 a 20:00 h",
@@ -601,7 +604,7 @@
       "pt": "De segunda a sexta, das 7h às 22h. · Sábado, das 8h às 22h. · Domingo e feriados, das 8h às 20h."
      },
      "aviso": {
-      "es": "Menores de 16 años: hasta las 17 hs",
+      "es": "Menores de 16 años: hasta las 17 h",
       "en": "Children under 16: until 5 pm",
       "pt": "Crianças menores de 16 anos: até às 17h"
      }
@@ -609,18 +612,18 @@
     {
      "id": "cancha-multideporte",
      "nombre": {
-      "es": "Cancha Multideporte",
+      "es": "Cancha multideporte",
       "en": "Multi-sport court",
       "pt": "Quadra poliesportiva"
      },
      "descripcion": {
       "es": "Un espacio al aire libre pensado para disfrutar del deporte y la actividad física. Cuenta con arcos de fútbol y aro de básquet, pero su superficie de pasto sintético permite practicar distintas disciplinas.\nSu uso es libre para huéspedes, socios Health & Spa y clientes de Día de Spa.\n\nPonemos a disposición pelotas de fútbol y básquet sin cargo y, para grupos numerosos, es posible reservar un turno. Además, la cancha cuenta con iluminación nocturna, por lo que puede disfrutarse tanto durante el día como por la noche.",
-      "en": "An outdoor space designed for enjoying sports and physical activity. It features soccer goals and a basketball hoop, but its synthetic turf surface allows for various sports.\nIts use is free for hotel guests, Health & Spa members, and Spa Day clients.\n\nWe provide soccer and basketballs free of charge, and for large groups, it's possible to reserve a time slot. The court is also illuminated, so it can be enjoyed both day and night.",
+      "en": "An outdoor space designed for enjoying sports and physical activity. It features soccer goals and a basketball hoop, but its synthetic turf surface allows for various sports.\nIts use is free for hotel guests, Health & Spa members, and Spa Day clients.\n\nSoccer balls and basketballs are available free of charge, and for large groups, it's possible to reserve a time slot. The court is also illuminated, so it can be enjoyed both day and night.",
       "pt": "Um espaço ao ar livre projetado para a prática de esportes e atividades físicas. Possui traves de futebol e uma cesta de basquete, mas sua superfície de grama sintética permite a prática de vários esportes.\nO uso é gratuito para hóspedes do hotel, membros do Health & Spa e clientes do Spa Day.\nDisponibilizamos bolas de futebol e de basquete sem custo adicional e, para grupos grandes, é possível reservar um horário. A quadra também é iluminada, para que possa ser aproveitada tanto de dia quanto de noite."
      },
      "horario": {
       "es": "Lun a vie 7:00 a 22:00 h · Sáb 8:00 a 22:00 h · Dom y feriados 8:00 a 20:00 h · Para utilizarla fuera de estos horarios, coordine previamente con el personal del Health & Spa",
-      "en": "Mon to Fri 7:00 a.m. to 10:00 p.m. · Sat 8:00 to 22:00 h · Sun and holidays 8:00 a.m. to 8:00 p.m. · To access outside of spa hours, please coordinate in advance with our Health & Spa staff.",
+      "en": "Mon to Fri 7:00 a.m. to 10:00 p.m. · Sat 8:00 a.m. to 10:00 p.m. · Sun and holidays 8:00 a.m. to 8:00 p.m. · To access outside of spa hours, please coordinate in advance with our Health & Spa staff.",
       "pt": "De segunda a sexta, das 7h às 22h · Sábado, das 8h às 22h · Domingo e feriados, das 8h às 20h · Para acesso fora do horário de funcionamento do spa, por favor, entre em contato com nossa equipe de Saúde e Bem-Estar com antecedência."
      }
     },
@@ -697,7 +700,7 @@
       "pt": "Wi-fi"
      },
      "descripcion": {
-      "es": "1. Conéctese a la red **Sheraton Pilar**.\n2. Espere a que se abra el navegador. De lo contrario, ábralo manulamente y se abrirá el portal de acceso del hotel.\n3. Ingrese su número de habitación y apellido (como figura en la reserva).\n4. Acepte los términos y condiciones, y presione INGRESAR.",
+      "es": "1. Conéctese a la red **Sheraton Pilar**.\n2. Espere a que se abra el navegador. De lo contrario, ábralo manualmente y se abrirá el portal de acceso del hotel.\n3. Ingrese su número de habitación y apellido (como figura en la reserva).\n4. Acepte los términos y condiciones, y presione INGRESAR.",
       "en": "1. Connect to the **Sheraton Pilar** network.\n\n2. Wait for your browser to open. If it doesn't, open it manually and you will be redirected to the hotel portal.\n\n3. Enter your room number and last name (as shown on your reservation).\n\n4. Accept the terms and conditions, and click INGRESAR.",
       "pt": "1. Conecte-se à rede **Sheraton Pilar**.\n\n2. Aguarde a abertura do seu navegador. Caso contrário, abra-o manualmente e você será redirecionado para o portal do hotel.\n\n3. Digite o número do seu quarto e o seu sobrenome (conforme consta na sua reserva).\n\n4. Aceite os termos e condições e clique em INGRESAR."
      },
@@ -723,7 +726,7 @@
     {
      "id": "llamadas",
      "nombre": {
-      "es": "Información Telefónica",
+      "es": "Información telefónica",
       "en": "Telephone Information",
       "pt": "Telefonia e tarifas"
      },
@@ -776,7 +779,7 @@
      "id": "tel-america",
      "nombre": {
       "es": "Llamadas a América (incl. EE.UU. y Canadá)",
-      "en": "Calls to America (incl. USA and Canada)",
+      "en": "Calls to the Americas, including the U.S. and Canada",
       "pt": "Chamadas para as Américas (incluindo EUA e Canadá)"
      },
      "dato": {
@@ -896,7 +899,7 @@
      "id": "tv-3",
      "nombre": {
       "es": "CNN Internacional",
-      "en": "CNN Internacional",
+      "en": "CNN International",
       "pt": "CNN Internacional"
      },
      "dato": {
@@ -909,7 +912,7 @@
      "id": "tv-4",
      "nombre": {
       "es": "CNN en Español",
-      "en": "CNN en Español",
+      "en": "CNN in Spanish",
       "pt": "CNN en Español"
      },
      "dato": {
@@ -1339,7 +1342,7 @@
      "nombre": {
       "es": "Caracol (Colombia)",
       "en": "Caracol (Colombia)",
-      "pt": "Caracol (Colombia)"
+      "pt": "Caracol (Colômbia)"
      },
      "dato": {
       "es": "37",
@@ -1351,8 +1354,8 @@
      "id": "tv-38",
      "nombre": {
       "es": "Rai (Italia)",
-      "en": "Rai (Italia)",
-      "pt": "Rai (Italia)"
+      "en": "Rai (Italy)",
+      "pt": "Rai (Itália)"
      },
      "dato": {
       "es": "38",
@@ -1364,8 +1367,8 @@
      "id": "tv-39",
      "nombre": {
       "es": "DW (Alemania)",
-      "en": "DW (Alemania)",
-      "pt": "DW (Alemania)"
+      "en": "DW (Germany)",
+      "pt": "DW (Alemanha)"
      },
      "dato": {
       "es": "39",
@@ -1390,8 +1393,8 @@
      "id": "tv-41",
      "nombre": {
       "es": "D-News (Latinoamérica)",
-      "en": "D-News (Latinoamérica)",
-      "pt": "D-News (Latinoamérica)"
+      "en": "D-News (Latin America)",
+      "pt": "D-News (América Latina)"
      },
      "dato": {
       "es": "41",
@@ -1403,8 +1406,8 @@
      "id": "tv-42",
      "nombre": {
       "es": "NHK (Japón)",
-      "en": "NHK (Japón)",
-      "pt": "NHK (Japón)"
+      "en": "NHK (Japan)",
+      "pt": "NHK (Japão)"
      },
      "dato": {
       "es": "42",
@@ -1416,7 +1419,7 @@
      "id": "tv-43",
      "nombre": {
       "es": "O Globo (Brasil)",
-      "en": "O Globo (Brasil)",
+      "en": "O Globo (Brazil)",
       "pt": "O Globo (Brasil)"
      },
      "dato": {
@@ -1494,7 +1497,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Brasov+Grill+%26+Bowl+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -1504,7 +1507,7 @@
      "nombre": {
       "es": "Rush – Parque de camas elásticas",
       "en": "Rush – Trampoline Park",
-      "pt": "Rush – Parque de camas elásticas"
+      "pt": "Rush – Parque de trampolins"
      },
      "dato": {
       "es": "150 m",
@@ -1513,7 +1516,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Rush+parque+de+camas+elasticas+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -1532,7 +1535,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Cine+Multiplex+Palmas+del+Pilar",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -1551,7 +1554,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Cinepolis+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -1570,7 +1573,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Escape+Room+Pilar+Torres+del+Sol",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -1589,7 +1592,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Club+del+Escape+Pilar+Cinepolis",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -1608,7 +1611,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Bingo+Oasis+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -1627,7 +1630,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Pilar+Paddle+Center+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -1646,7 +1649,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Neverland+Palmas+del+Pilar",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -1665,7 +1668,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Sharewood+Pilar+Darregueira+2010",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -1684,7 +1687,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Yarda+51+Indoor+Golf+Pilar",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -1703,7 +1706,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Teatro+Gran+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -1722,7 +1725,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Bioparque+Temaiken+Escobar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -1754,7 +1757,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Shopping+Palmas+del+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -1773,7 +1776,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Pilar+Walk+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -1792,7 +1795,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Paseo+Champagnat+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -1811,7 +1814,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Paseo+Pilar+shopping+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -1830,7 +1833,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Tortugas+Open+Mall+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -1843,7 +1846,7 @@
       "pt": "Propostas gastronômicas"
      },
      "descripcion": {
-      "es": "Descubrí los sabores de la zona con opciones para cada gusto y ocasión.",
+      "es": "Descubra los sabores de la zona con opciones para cada gusto y ocasión.",
       "en": "Discover the flavors of the area with options for every taste and occasion.",
       "pt": "Descubra os sabores da região com opções para todos os gostos e ocasiões."
      }
@@ -1862,7 +1865,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Yokos+Bureau+Pilar+km+49.5",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -1881,7 +1884,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=La+Birra+Bar+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -1900,7 +1903,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Mooi+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -1919,7 +1922,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=El+Club+de+la+Milanesa+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -1938,7 +1941,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=The+Food+Truck+Store+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -1957,7 +1960,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Rock+%26+Fellers+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -1976,7 +1979,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Tutto+Tano+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -1995,7 +1998,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=La+Cabrera+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -2014,7 +2017,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Fabric+Sushi+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -2033,7 +2036,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Kansas+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -2052,7 +2055,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Lima+Estilo+Nikkei+Pilar+Vila+Center",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -2065,7 +2068,7 @@
       "pt": "Outras atrações e serviços nas proximidades"
      },
      "descripcion": {
-      "es": "Lugares para descubrir, instituciones de salud y educación, polos empresariales y conexiones para tu viaje.",
+      "es": "Lugares para descubrir, instituciones de salud y educación, polos empresariales y conexiones para su viaje.",
       "en": "Places to discover, health and education institutions, business hubs and connections for your trip.",
       "pt": "Lugares para descobrir, instituições de saúde e educação, centros de negócios e conexões para sua viagem."
      }
@@ -2075,7 +2078,7 @@
      "nombre": {
       "es": "Parque Austral — polo empresarial y tecnológico",
       "en": "Parque Austral — business and technology hub",
-      "pt": "Parque Austral — polo empresarial y tecnológico"
+      "pt": "Parque Austral — polo empresarial e tecnológico"
      },
      "dato": {
       "es": "1,2 km",
@@ -2084,7 +2087,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Parque+Austral+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -2103,7 +2106,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=IAE+Business+School+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -2122,7 +2125,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Hospital+Universitario+Austral+Pilar",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -2141,7 +2144,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Plaza+12+de+Octubre+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -2160,7 +2163,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Parroquia+Nuestra+Senora+del+Pilar+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -2179,7 +2182,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Reserva+Natural+del+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -2198,7 +2201,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Parque+Industrial+Pilar+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -2217,7 +2220,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Delta+del+Tigre+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -2236,7 +2239,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Aeroparque+Jorge+Newbery+AEP+Buenos+Aires",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -2246,7 +2249,7 @@
      "nombre": {
       "es": "Aeropuerto Internacional Ezeiza (EZE)",
       "en": "Ezeiza International Airport (EZE)",
-      "pt": "Aeropuerto Internacional Ezeiza (EZE)"
+      "pt": "Aeroporto Internacional de Ezeiza (EZE)"
      },
      "dato": {
       "es": "70 km",
@@ -2255,7 +2258,7 @@
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Aeropuerto+Internacional+Ministro+Pistarini+Ezeiza+EZE",
      "link_texto": {
-      "es": "Como llegar",
+      "es": "Google Maps",
       "en": "Directions",
       "pt": "Como chegar"
      }
@@ -2367,7 +2370,7 @@
      "nombre": {
       "es": "Membresía Sheraton Pilar – Health & Spa",
       "en": "Sheraton Pilar Membership – Health & Spa",
-      "pt": "Associação Sheraton Pilar – Saúde e Spa"
+      "pt": "Associação Sheraton Pilar – Health & Spa"
      },
      "descripcion": {
       "es": "Acceso ilimitado a todas las instalaciones del Health & Spa: piscinas, hidromasaje, ice bath, saunas, baños de vapor, salas de relax, Sheraton Fitness, sala de juegos y vestuarios. Servicio de masajes y tratamientos faciales con cargo adicional.\n**Beneficios:** toallas, batas y lockers · Wi-Fi · estacionamiento.\n**Descuentos:** 15% en masajes · 10% en Las Vasijas, Don Giovanni y Lobby Bar · 10% en alojamiento · 10% en peluquería · 20% en lavandería.\nMás información en el Health & Spa.",
