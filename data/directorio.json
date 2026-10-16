@@ -18,7 +18,7 @@
    "en",
    "pt"
   ],
-  "actualizado": "2026-10-15T23:47:31.081Z"
+  "actualizado": "2026-10-16T11:24:37.982Z"
  },
  "secciones": [
   {
@@ -81,7 +81,7 @@
      "descripcion": {
       "es": "Todas nuestras estadías incluyen estacionamiento.\n\nSi utiliza el estacionamiento subterráneo, deberá validar su ticket en recepción antes de salir del hotel. Si no fue validado durante el check-in, por favor acérquese a recepción antes de retirarse.\n\nCada vez que salga y vuelva a ingresar durante su estadía, recibirá un nuevo ticket que también deberá validar en recepción antes de la siguiente salida.",
       "en": "Parking is included with every stay.\n\nIf you use the underground parking garage, you must have your parking ticket validated at the front desk before leaving the hotel. If it was not validated at check-in, please stop by the front desk before you leave.\n\nEach time you leave and re-enter during your stay, you will receive a new parking ticket, which must also be validated at the front desk before your next departure.",
-      "pt": "Todas as nossas estadias incluem estacionamento.\n\nSe utilizar o estacionamento subterrâneo, você deverá validar seu ticket na recepção antes de sair do hotel. Caso ele não tenha sido validado no check-in, passe na recepção antes de sair.\n\nSempre que sair e voltar a entrar durante sua estadia, você receberá um novo ticket, que também deverá ser validado na recepção antes da próxima saída."
+      "pt": "Todas as nossas estadias incluem estacionamento.\n\nSe utilizar o estacionamento subterrâneo, você deverá validar seu tíquete de estacionamento na recepção antes de sair do hotel. Caso ele não tenha sido validado no check-in, passe na recepção antes de sair.\n\nSempre que sair e voltar a entrar durante sua estadia, você receberá um novo ticket, que também deverá ser validado na recepção antes da próxima saída."
      }
     },
     {
@@ -89,12 +89,12 @@
      "nombre": {
       "es": "Limpieza de la habitación",
       "en": "Room cleaning",
-      "pt": "Atendimento ao hóspede"
+      "pt": "Limpeza do quarto"
      },
      "descripcion": {
       "es": "Si necesita un horario especial, contacte al Departamento de Ama de Llaves. Si prefiere que su habitación no sea acondicionada, simplemente deje puesto el cartel de \"No molestar\".",
       "en": "If you require a special schedule, please contact the Housekeeping Department. If you prefer your room not to be cleaned, simply leave the \"Do Not Disturb\" sign up.",
-      "pt": "Para quaisquer pedidos ou dúvidas durante a sua estadia."
+      "pt": "Caso precise de um horário especial, entre em contato com a equipe de Governança. Se preferir que seu quarto não seja arrumado, basta deixar a placa “Não perturbe” na parte externa da porta."
      },
      "horario": {
       "es": "Todos los días de 9:00 a 16:30 h",
@@ -110,13 +110,13 @@
      "id": "apertura",
      "nombre": {
       "es": "Servicio de apertura",
-      "en": "Turndown service.",
-      "pt": "Atendimento ao hóspede"
+      "en": "Turndown service",
+      "pt": "Serviço de preparação do quarto para a noite"
      },
      "descripcion": {
       "es": "Si desea que acondicionemos su habitación por la tarde, comuníquese con nuestro departamento de Ama de Llaves. Para garantizar su privacidad, lo ofrecemos solo a pedido.",
       "en": "If you would like us to prepare your room in the afternoon, please contact our Housekeeping Department. To ensure your privacy, this service is offered only upon request.",
-      "pt": "Para quaisquer pedidos ou dúvidas durante a sua estadia."
+      "pt": "Caso deseje que seu quarto seja arrumado no fim da tarde, entre em contato com a equipe de Governança. Para garantir sua privacidade, esse serviço é oferecido somente mediante solicitação."
      },
      "horario": {
       "es": "Todos los días de 17:00 a 21:00 h",
@@ -133,12 +133,12 @@
      "nombre": {
       "es": "Lavandería",
       "en": "Laundry",
-      "pt": "Atendimento ao hóspede"
+      "pt": "Lavanderia"
      },
      "descripcion": {
       "es": "Si desea lavar ropa, en su armario encontrará una bolsa y una planilla con toda la información. Coloque las prendas en la bolsa junto con la planilla y marque 0 para coordinar el retiro.",
-      "en": "Si desea lavar ropa, en su armario encontrará una bolsa y una planilla con toda la información. Coloque las prendas en la bolsa junto con la planilla y marque 0 para coordinar el retiro.",
-      "pt": "Para quaisquer pedidos ou dúvidas durante a sua estadia."
+      "en": "To use our laundry service, you will find a laundry bag and a form with full details in your closet. Place your clothes in the bag along with the form and dial 0 to arrange collection.",
+      "pt": "Se desejar utilizar o serviço de lavanderia, você encontrará uma sacola e um formulário com todas as informações no armário do seu quarto. Coloque as roupas na sacola junto com o formulário e disque 0 para combinar a retirada."
      },
      "horario": {
       "es": "Todos los días de 7:00 a 17:00 h",
@@ -161,12 +161,12 @@
      "nombre": {
       "es": "Amenities adicionales",
       "en": "Additional amenities",
-      "pt": "Atendimento ao hóspede"
+      "pt": "Artigos de higiene pessoal adicionais"
      },
      "descripcion": {
       "es": "¿Olvidó algo? Tenemos kit dental, kit de afeitar y otros artículos de viaje. Pídalos acercándose o comunicándose con el front desk.",
       "en": "Did you forget something? We have dental kits, shaving kits, and other travel items. Please ask for them by coming to the front desk or contacting us.",
-      "pt": "Para quaisquer pedidos ou dúvidas durante a sua estadia."
+      "pt": "Esqueceu alguma coisa? Temos kits de higiene bucal, kits de barbear e outros artigos de viagem. Solicite-os pessoalmente na recepção ou entre em contato com nossa equipe."
      },
      "dato": {
       "es": "Marque 0",
@@ -179,7 +179,7 @@
      "nombre": {
       "es": "Caja fuerte",
       "en": "Safe",
-      "pt": "Cofre"
+      "pt": "Cofre de segurança"
      },
      "descripcion": {
       "es": "Su habitación cuenta con caja fuerte sin cargo para guardar dinero y objetos de valor. Las instrucciones de uso se encuentran en la misma.",
@@ -194,7 +194,7 @@
    "nombre": {
     "es": "Propuestas gastronómicas",
     "en": "Restaurants & bars",
-    "pt": "Restaurantes e bares."
+    "pt": "Restaurantes e bares"
    },
    "nota": {
     "es": "Conozca nuestros restaurantes y bares, consulte menús y horarios, y realice su reserva.",
@@ -235,8 +235,8 @@
      },
      "horario": {
       "es": "Todos los días de 6:00 a 00:00 h",
-      "en": "Every day from 6:00 a.m. to 00:00 a.m.",
-      "pt": "Todos os dias, das 6:00 às 00h horas."
+      "en": "Every day from 6:00 a.m. to 12:00 a.m.",
+      "pt": "Todos os dias, das 6h à meia-noite."
      },
      "dato": {
       "es": "Marque 2840",
@@ -255,17 +255,17 @@
      "nombre": {
       "es": "Don Giovanni Ristorante",
       "en": "Don Giovanni Ristorante",
-      "pt": "Serviço de quarto"
+      "pt": "Don Giovanni Ristorante"
      },
      "descripcion": {
       "es": "Cocina mediterránea de autor en un ambiente elegante.",
       "en": "Signature Mediterranean cuisine in an elegant setting.",
-      "pt": "Uma ampla seleção de pratos e bebidas para desfrutar no conforto do seu quarto."
+      "pt": "Cozinha mediterrânea autoral em um ambiente elegante."
      },
      "horario": {
       "es": "Vie y sáb de 20:00 a 00:00 h",
       "en": "Fri and Sat from 8:00 PM to 12:00 AM",
-      "pt": "Todos os dias, das 6:00 às 00h horas."
+      "pt": "Sex e sáb: das 20h à meia-noite"
      },
      "whatsapp": "5491131353023",
      "link": "https://sheratonpilar.github.io/menu/carta/don-giovanni/",
@@ -280,17 +280,17 @@
      "nombre": {
       "es": "Las Vasijas Restaurante",
       "en": "Las Vasijas Restaurante",
-      "pt": "Serviço de quarto"
+      "pt": "Las Vasijas Restaurante"
      },
      "descripcion": {
       "es": "Buffet internacional con vista a los jardines. Amplia variedad de entradas, platos principales y postres.",
       "en": "International buffet overlooking the gardens. Wide variety of appetizers, main courses, and desserts.",
-      "pt": "Uma ampla seleção de pratos e bebidas para desfrutar no conforto do seu quarto."
+      "pt": "Buffet internacional com vista para os jardins. Ampla variedade de entradas, pratos principais e sobremesas."
      },
      "horario": {
       "es": "Almuerzo sáb y dom 13:00 a 15:30 h · Cena vie y sáb 20:00 a 00:00 h · Apertura durante la semana sujeta a disponibilidad. Consulte previamente.",
-      "en": "Lunch Sat and Sun 1:00 p.m. to 3:30 p.m. · Dinner Fri and Sat 8:00 p.m. to 00:00 a.m. · Weekday opening is subject to availability. Please check with us in advance.",
-      "pt": "Todos os dias, das 6:00 às 00h horas."
+      "en": "Lunch Sat and Sun 1:00 p.m. to 3:30 p.m. · Dinner Fri and Sat 8:00 p.m. to 12:00 a.m. · Weekday opening is subject to availability. Please check with us in advance.",
+      "pt": "Almoço: sáb e dom, das 13h às 15h30 · Jantar: sex e sáb, das 20h à meia-noite · Funcionamento durante a semana sujeito à disponibilidade. Consulte-nos com antecedência."
      },
      "whatsapp": "5491131353022",
      "link": "https://sheratonpilar.github.io/menu/carta/las-vasijas/",
@@ -305,17 +305,17 @@
      "nombre": {
       "es": "Lobby Bar",
       "en": "Lobby Bar",
-      "pt": "Serviço de quarto"
+      "pt": "Lobby Bar"
      },
      "descripcion": {
       "es": "Cafetería, pastelería, sándwiches, ensaladas, platos principales y cocktails. Sin reserva previa.",
       "en": "Coffee, pastries, sandwiches, salads, main courses, and cocktails. No reservation required.",
-      "pt": "Uma ampla seleção de pratos e bebidas para desfrutar no conforto do seu quarto."
+      "pt": "Cafés, confeitaria, sanduíches, saladas, pratos principais e coquetéis. Não é necessário fazer reserva."
      },
      "horario": {
       "es": "Dom a jue 8:00 a 00:00 h · Vie y sáb 8:00 a 2:00 h",
       "en": "Sun to Thu 8:00 a.m. to 12:00 a.m. · Fri and Sat 8:00 a.m. to 2:00 a.m.",
-      "pt": "Todos os dias, das 6:00 às 00h horas."
+      "pt": "Dom a qui: das 8h à meia-noite · Sex e sáb: das 8h às 2h"
      },
      "link": "https://sheratonpilar.github.io/menu/carta/lobby-bar/",
      "link_texto": {
@@ -333,11 +333,16 @@
      },
      "descripcion": {
       "es": "El estilo del campo argentino y las especialidades de nuestro menú criollo.",
-      "en": "Traditional Argentine dishes.",
+      "en": "Experience the charm of the Argentine countryside and the specialties of our traditional menu.",
       "pt": "O estilo do interior argentino e as especialidades do nosso cardápio crioulo."
      },
+     "horario": {
+      "es": "Vie y sáb de 20:00 a 00:00 h",
+      "en": "Fri and Sat from 8:00 PM to 12:00 AM",
+      "pt": "Sex e sáb: das 20h à meia-noite"
+     },
      "aviso": {
-      "es": "Temporalemnte cerrado, disponible solo en temporada de verano.",
+      "es": "Temporalmente cerrado, disponible solo en temporada de verano.",
       "en": "Temporarily closed, available only during the summer season.",
       "pt": "Temporariamente fechado, disponível apenas durante a temporada de verão."
      }
@@ -355,7 +360,7 @@
       "pt": "Bar da piscina: petiscos, bebidas e pratos para todos os gostos. Não é necessário fazer reserva, disponível apenas para hóspedes do hotel."
      },
      "aviso": {
-      "es": "Temporalemnte cerrado, disponible solo en temporada de verano.",
+      "es": "Temporalmente cerrado, disponible solo en temporada de verano.",
       "en": "Temporarily closed, available only during the summer season.",
       "pt": "Temporariamente fechado, disponível apenas durante a temporada de verão."
      }
@@ -386,7 +391,7 @@
      "descripcion": {
       "es": "Incluye dos piscinas (una cubierta climatizada y otra al aire libre), Sheraton Fitness, vestuarios, saunas, baños de vapor, hidromasaje, gabinetes de masajes, sala de relax y sala de juegos.\nRecuerde presentar las tarjetas celestes entregadas al momento del check-in, para canjearlas por toallas en la recepción del spa.",
       "en": "It includes two swimming pools (one heated indoor and one outdoor), Sheraton Fitness, changing rooms, saunas, steam rooms, a whirlpool, massage rooms, a relaxation room, and a game room.\n\nRemember to present the blue cards you received at check-in to exchange them for towels at the spa reception.",
-      "pt": "O spa inclui duas piscinas (Uma piscina coberta e aquecida e outra ao ar livre.), academia Sheraton Fitness, vestiários, saunas, banho turco, banheira de hidromassagem, salas de massagem, sala de relaxamento e sala de jogos.\n\nLembre-se de apresentar os cartões azuis que você recebeu no check-in para trocá-los por toalhas na recepção do spa."
+      "pt": "O spa inclui duas piscinas (uma coberta e aquecida e outra ao ar livre), academia Sheraton Fitness, vestiários, saunas, banhos de vapor, banheira de hidromassagem, salas de massagem, sala de relaxamento e sala de jogos.\n\nLembre-se de apresentar os cartões azuis que você recebeu no check-in para trocá-los por toalhas na recepção do spa."
      },
      "horario": {
       "es": "Lun a vie 7:00 a 22:00 h · Sáb 8:00 a 22:00 h · Dom y feriados 8:00 a 20:00 h",
@@ -506,17 +511,17 @@
      "nombre": {
       "es": "Peluquería",
       "en": "Hair salon",
-      "pt": "Serviço de quarto"
+      "pt": "Salão de beleza"
      },
      "descripcion": {
       "es": "Planta baja, al lado del Health & Spa. Reservas por WhatsApp o marcando su interno desde cualquier teléfono del hotel.",
       "en": "Ground floor, next to the Health & Spa. Reservations via WhatsApp or by dialing their extension from any hotel phone.",
-      "pt": "Uma ampla seleção de pratos e bebidas para desfrutar no conforto do seu quarto."
+      "pt": "No térreo, ao lado do Health & Spa. Reservas pelo WhatsApp ou discando o ramal do salão de qualquer telefone do hotel."
      },
      "horario": {
       "es": "Mar a sáb 9:30 a 20:00 h",
       "en": "Tue to Sat 9:30 a.m. to 8:00 p.m.",
-      "pt": "Todos os dias, das 6:00 às 00h horas."
+      "pt": "Ter a sáb: das 9h30 às 20h"
      },
      "dato": {
       "es": "Marque 2890",
@@ -606,7 +611,7 @@
      "nombre": {
       "es": "Cancha Multideporte",
       "en": "Multi-sport court",
-      "pt": "quadra poliesportiva"
+      "pt": "Quadra poliesportiva"
      },
      "descripcion": {
       "es": "Un espacio al aire libre pensado para disfrutar del deporte y la actividad física. Cuenta con arcos de fútbol y aro de básquet, pero su superficie de pasto sintético permite practicar distintas disciplinas.\nSu uso es libre para huéspedes, socios Health & Spa y clientes de Día de Spa.\n\nPonemos a disposición pelotas de fútbol y básquet sin cargo y, para grupos numerosos, es posible reservar un turno. Además, la cancha cuenta con iluminación nocturna, por lo que puede disfrutarse tanto durante el día como por la noche.",
@@ -650,16 +655,17 @@
      "nombre": {
       "es": "Salas de reuniones",
       "en": "Meeting rooms",
-      "pt": "Atendimento ao hóspede"
+      "pt": "Salas de reuniões"
      },
      "descripcion": {
       "es": "Dos salas para hasta 15 personas. Solicítelas en el front desk o llamando a Guest Service. Sujetas a disponibilidad y con costo adicional.",
       "en": "Two rooms for up to 15 people. Request them at the front desk or by calling Guest Service. Subject to availability and at an additional cost.",
-      "pt": "Para quaisquer pedidos ou dúvidas durante a sua estadia."
+      "pt": "Duas salas com capacidade para até 15 pessoas. Solicite a reserva na recepção ou entre em contato com o atendimento ao hóspede. Sujeitas à disponibilidade e com custo adicional."
      },
      "horario": {
       "es": "De 9:00 a 18:00 h",
-      "en": "From 9:00 a.m. to 6:00 p.m."
+      "en": "From 9:00 a.m. to 6:00 p.m.",
+      "pt": "Das 9h às 18h"
      },
      "dato": {
       "es": "Marque 0",
@@ -732,7 +738,7 @@
      "nombre": {
       "es": "Llamadas locales",
       "en": "Local calls",
-      "pt": "AR$ 50 / min"
+      "pt": "Chamadas locais"
      },
      "dato": {
       "es": "AR$ 50 / min",
@@ -744,8 +750,8 @@
      "id": "tel-cel",
      "nombre": {
       "es": "Celulares locales",
-      "en": "Calls to local mobile numbers.",
-      "pt": "AR$ 100 / min"
+      "en": "Calls to local mobile numbers",
+      "pt": "Chamadas para celulares locais"
      },
      "dato": {
       "es": "AR$ 100 / min",
@@ -758,7 +764,7 @@
      "nombre": {
       "es": "Llamadas a Argentina",
       "en": "Calls to Argentina",
-      "pt": "AR$ 150 / min"
+      "pt": "Chamadas para a Argentina"
      },
      "dato": {
       "es": "AR$ 150 / min",
@@ -771,7 +777,7 @@
      "nombre": {
       "es": "Llamadas a América (incl. EE.UU. y Canadá)",
       "en": "Calls to America (incl. USA and Canada)",
-      "pt": "AR$ 300 / min"
+      "pt": "Chamadas para as Américas (incluindo EUA e Canadá)"
      },
      "dato": {
       "es": "AR$ 300 / min",
@@ -784,7 +790,7 @@
      "nombre": {
       "es": "Llamadas al resto del mundo",
       "en": "Calls to the rest of the world",
-      "pt": "AR$ 400 / min"
+      "pt": "Chamadas para o resto do mundo"
      },
      "dato": {
       "es": "AR$ 400 / min",
@@ -797,7 +803,7 @@
      "nombre": {
       "es": "0800 / 0822 / 0810",
       "en": "0800 / 0822 / 0810",
-      "pt": "AR$ 200 / llamada"
+      "pt": "0800 / 0822 / 0810"
      },
      "dato": {
       "es": "AR$ 200 / llamada",
@@ -810,7 +816,7 @@
      "nombre": {
       "es": "1-800",
       "en": "1-800",
-      "pt": "AR$ 300 / min"
+      "pt": "1-800"
      },
      "dato": {
       "es": "AR$ 300 / min",
@@ -823,7 +829,7 @@
      "nombre": {
       "es": "0-810",
       "en": "0-810",
-      "pt": "AR$ 200 / llamada"
+      "pt": "0-810"
      },
      "dato": {
       "es": "AR$ 200 / llamada",
@@ -849,7 +855,7 @@
      "nombre": {
       "es": "0-610",
       "en": "0-610",
-      "pt": "0-600"
+      "pt": "0-610"
      },
      "dato": {
       "es": "AR$ 200 / hora",
@@ -1497,8 +1503,8 @@
      "id": "rush",
      "nombre": {
       "es": "Rush – Parque de camas elásticas",
-      "en": "Rush – Parque de camas elásticas",
-      "pt": "Brasov Grill & Bowl"
+      "en": "Rush – Trampoline Park",
+      "pt": "Rush – Parque de camas elásticas"
      },
      "dato": {
       "es": "150 m",
@@ -1517,12 +1523,12 @@
      "nombre": {
       "es": "Cine Multiplex",
       "en": "Cine Multiplex",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Cine Multiplex"
      },
      "dato": {
       "es": "700 m",
       "en": "700 m",
-      "pt": "150 m"
+      "pt": "700 m"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Cine+Multiplex+Palmas+del+Pilar",
      "link_texto": {
@@ -1536,12 +1542,12 @@
      "nombre": {
       "es": "Cinépolis Pilar",
       "en": "Cinépolis Pilar",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Cinépolis Pilar"
      },
      "dato": {
       "es": "800 m",
       "en": "800 m",
-      "pt": "150 m"
+      "pt": "800 m"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Cinepolis+Pilar+Buenos+Aires",
      "link_texto": {
@@ -1555,12 +1561,12 @@
      "nombre": {
       "es": "Escape Room Pilar",
       "en": "Escape Room Pilar",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Escape Room Pilar"
      },
      "dato": {
       "es": "800 m",
       "en": "800 m",
-      "pt": "150 m"
+      "pt": "800 m"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Escape+Room+Pilar+Torres+del+Sol",
      "link_texto": {
@@ -1574,12 +1580,12 @@
      "nombre": {
       "es": "Club del Escape Pilar",
       "en": "Club del Escape Pilar",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Club del Escape Pilar"
      },
      "dato": {
       "es": "950 m",
       "en": "950 m",
-      "pt": "150 m"
+      "pt": "950 m"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Club+del+Escape+Pilar+Cinepolis",
      "link_texto": {
@@ -1593,12 +1599,12 @@
      "nombre": {
       "es": "Bingo Oasis",
       "en": "Bingo Oasis",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Bingo Oasis"
      },
      "dato": {
       "es": "1,1 km",
       "en": "1,1 km",
-      "pt": "150 m"
+      "pt": "1,1 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Bingo+Oasis+Pilar+Buenos+Aires",
      "link_texto": {
@@ -1612,12 +1618,12 @@
      "nombre": {
       "es": "Pilar Paddle Center",
       "en": "Pilar Paddle Center",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Pilar Paddle Center"
      },
      "dato": {
       "es": "1,2 km",
       "en": "1,2 km",
-      "pt": "150 m"
+      "pt": "1,2 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Pilar+Paddle+Center+Buenos+Aires",
      "link_texto": {
@@ -1631,12 +1637,12 @@
      "nombre": {
       "es": "Neverland",
       "en": "Neverland",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Neverland"
      },
      "dato": {
       "es": "1,6 km",
       "en": "1,6 km",
-      "pt": "150 m"
+      "pt": "1,6 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Neverland+Palmas+del+Pilar",
      "link_texto": {
@@ -1650,12 +1656,12 @@
      "nombre": {
       "es": "Sharewood Pilar",
       "en": "Sharewood Pilar",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Sharewood Pilar"
      },
      "dato": {
       "es": "1,6 km",
       "en": "1,6 km",
-      "pt": "150 m"
+      "pt": "1,6 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Sharewood+Pilar+Darregueira+2010",
      "link_texto": {
@@ -1669,12 +1675,12 @@
      "nombre": {
       "es": "Yarda 51: Indoor Golf",
       "en": "Yarda 51: Indoor Golf",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Yarda 51: Indoor Golf"
      },
      "dato": {
       "es": "2,1 km",
       "en": "2,1 km",
-      "pt": "150 m"
+      "pt": "2,1 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Yarda+51+Indoor+Golf+Pilar",
      "link_texto": {
@@ -1688,12 +1694,12 @@
      "nombre": {
       "es": "Teatro Gran Pilar",
       "en": "Teatro Gran Pilar",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Teatro Gran Pilar"
      },
      "dato": {
       "es": "5,5 km",
       "en": "5,5 km",
-      "pt": "150 m"
+      "pt": "5,5 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Teatro+Gran+Pilar+Buenos+Aires",
      "link_texto": {
@@ -1707,12 +1713,12 @@
      "nombre": {
       "es": "Bioparque Temaikén",
       "en": "Bioparque Temaikén",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Bioparque Temaikén"
      },
      "dato": {
       "es": "12 km",
       "en": "12 km",
-      "pt": "150 m"
+      "pt": "12 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Bioparque+Temaiken+Escobar+Buenos+Aires",
      "link_texto": {
@@ -1739,12 +1745,12 @@
      "nombre": {
       "es": "Palmas de Pilar Shopping",
       "en": "Palmas de Pilar Shopping",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Palmas de Pilar Shopping"
      },
      "dato": {
       "es": "450 m",
       "en": "450 m",
-      "pt": "150 m"
+      "pt": "450 m"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Shopping+Palmas+del+Pilar+Buenos+Aires",
      "link_texto": {
@@ -1758,12 +1764,12 @@
      "nombre": {
       "es": "Pilar Walk",
       "en": "Pilar Walk",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Pilar Walk"
      },
      "dato": {
       "es": "950 m",
       "en": "950 m",
-      "pt": "150 m"
+      "pt": "950 m"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Pilar+Walk+Buenos+Aires",
      "link_texto": {
@@ -1777,12 +1783,12 @@
      "nombre": {
       "es": "Paseo Champagnat",
       "en": "Paseo Champagnat",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Paseo Champagnat"
      },
      "dato": {
       "es": "5 km",
       "en": "5 km",
-      "pt": "150 m"
+      "pt": "5 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Paseo+Champagnat+Pilar+Buenos+Aires",
      "link_texto": {
@@ -1796,12 +1802,12 @@
      "nombre": {
       "es": "Paseo Pilar",
       "en": "Paseo Pilar",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Paseo Pilar"
      },
      "dato": {
       "es": "5,9 km",
       "en": "5,9 km",
-      "pt": "150 m"
+      "pt": "5,9 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Paseo+Pilar+shopping+Buenos+Aires",
      "link_texto": {
@@ -1815,12 +1821,12 @@
      "nombre": {
       "es": "Tortugas Open Mall (TOM)",
       "en": "Tortugas Open Mall (TOM)",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Tortugas Open Mall (TOM)"
      },
      "dato": {
       "es": "13,6 km",
       "en": "13,6 km",
-      "pt": "150 m"
+      "pt": "13,6 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Tortugas+Open+Mall+Buenos+Aires",
      "link_texto": {
@@ -1833,7 +1839,7 @@
      "id": "propuestas-gastronomicas",
      "nombre": {
       "es": "Propuestas gastronómicas",
-      "en": "Gastronomic proposals",
+      "en": "Dining options",
       "pt": "Propostas gastronômicas"
      },
      "descripcion": {
@@ -1847,12 +1853,12 @@
      "nombre": {
       "es": "Yokos Bureau",
       "en": "Yokos Bureau",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Yokos Bureau"
      },
      "dato": {
       "es": "500 m",
       "en": "500 m",
-      "pt": "150 m"
+      "pt": "500 m"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Yokos+Bureau+Pilar+km+49.5",
      "link_texto": {
@@ -1866,12 +1872,12 @@
      "nombre": {
       "es": "La Birra Bar",
       "en": "La Birra Bar",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "La Birra Bar"
      },
      "dato": {
       "es": "750 m",
       "en": "750 m",
-      "pt": "150 m"
+      "pt": "750 m"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=La+Birra+Bar+Pilar+Buenos+Aires",
      "link_texto": {
@@ -1885,12 +1891,12 @@
      "nombre": {
       "es": "Mooi",
       "en": "Mooi",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Mooi"
      },
      "dato": {
       "es": "850 m",
       "en": "850 m",
-      "pt": "150 m"
+      "pt": "850 m"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Mooi+Pilar+Buenos+Aires",
      "link_texto": {
@@ -1904,12 +1910,12 @@
      "nombre": {
       "es": "El Club de la Milanesa",
       "en": "El Club de la Milanesa",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "El Club de la Milanesa"
      },
      "dato": {
       "es": "1 km",
       "en": "1 km",
-      "pt": "150 m"
+      "pt": "1 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=El+Club+de+la+Milanesa+Pilar+Buenos+Aires",
      "link_texto": {
@@ -1923,12 +1929,12 @@
      "nombre": {
       "es": "The Food Truck Store",
       "en": "The Food Truck Store",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "The Food Truck Store"
      },
      "dato": {
       "es": "1,5 km",
       "en": "1,5 km",
-      "pt": "150 m"
+      "pt": "1,5 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=The+Food+Truck+Store+Pilar+Buenos+Aires",
      "link_texto": {
@@ -1942,12 +1948,12 @@
      "nombre": {
       "es": "Rock & Feller’s",
       "en": "Rock & Feller’s",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Rock & Feller’s"
      },
      "dato": {
       "es": "2,5 km",
       "en": "2,5 km",
-      "pt": "150 m"
+      "pt": "2,5 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Rock+%26+Fellers+Pilar+Buenos+Aires",
      "link_texto": {
@@ -1961,12 +1967,12 @@
      "nombre": {
       "es": "Tutto Tano",
       "en": "Tutto Tano",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Tutto Tano"
      },
      "dato": {
       "es": "2,5 km",
       "en": "2,5 km",
-      "pt": "150 m"
+      "pt": "2,5 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Tutto+Tano+Pilar+Buenos+Aires",
      "link_texto": {
@@ -1980,12 +1986,12 @@
      "nombre": {
       "es": "La Cabrera",
       "en": "La Cabrera",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "La Cabrera"
      },
      "dato": {
       "es": "2,7 km",
       "en": "2,7 km",
-      "pt": "150 m"
+      "pt": "2,7 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=La+Cabrera+Pilar+Buenos+Aires",
      "link_texto": {
@@ -1999,12 +2005,12 @@
      "nombre": {
       "es": "Fabric Sushi",
       "en": "Fabric Sushi",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Fabric Sushi"
      },
      "dato": {
       "es": "2,7 km",
       "en": "2,7 km",
-      "pt": "150 m"
+      "pt": "2,7 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Fabric+Sushi+Pilar+Buenos+Aires",
      "link_texto": {
@@ -2018,12 +2024,12 @@
      "nombre": {
       "es": "Kansas",
       "en": "Kansas",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Kansas"
      },
      "dato": {
       "es": "6,4 km",
       "en": "6,4 km",
-      "pt": "150 m"
+      "pt": "6,4 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Kansas+Pilar+Buenos+Aires",
      "link_texto": {
@@ -2037,12 +2043,12 @@
      "nombre": {
       "es": "Lima Estilo Nikkei",
       "en": "Lima Estilo Nikkei",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Lima Estilo Nikkei"
      },
      "dato": {
       "es": "8 km",
       "en": "8 km",
-      "pt": "150 m"
+      "pt": "8 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Lima+Estilo+Nikkei+Pilar+Vila+Center",
      "link_texto": {
@@ -2069,12 +2075,12 @@
      "nombre": {
       "es": "Parque Austral — polo empresarial y tecnológico",
       "en": "Parque Austral — business and technology hub",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Parque Austral — polo empresarial y tecnológico"
      },
      "dato": {
       "es": "1,2 km",
       "en": "1,2 km",
-      "pt": "150 m"
+      "pt": "1,2 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Parque+Austral+Pilar+Buenos+Aires",
      "link_texto": {
@@ -2088,12 +2094,12 @@
      "nombre": {
       "es": "IAE Business School",
       "en": "IAE Business School",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "IAE Business School"
      },
      "dato": {
       "es": "1,5 km",
       "en": "1,5 km",
-      "pt": "150 m"
+      "pt": "1,5 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=IAE+Business+School+Pilar+Buenos+Aires",
      "link_texto": {
@@ -2107,12 +2113,12 @@
      "nombre": {
       "es": "Hospital Universitario Austral",
       "en": "Austral University Hospital",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Hospital Universitario Austral"
      },
      "dato": {
       "es": "2,4 km",
       "en": "2,4 km",
-      "pt": "150 m"
+      "pt": "2,4 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Hospital+Universitario+Austral+Pilar",
      "link_texto": {
@@ -2126,12 +2132,12 @@
      "nombre": {
       "es": "Centro histórico de Pilar",
       "en": "Historic center of Pilar",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Centro histórico de Pilar"
      },
      "dato": {
       "es": "5 km",
       "en": "5 km",
-      "pt": "150 m"
+      "pt": "5 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Plaza+12+de+Octubre+Pilar+Buenos+Aires",
      "link_texto": {
@@ -2145,12 +2151,12 @@
      "nombre": {
       "es": "Iglesia Nuestra Señora del Pilar",
       "en": "Church of Our Lady of the Pillar",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Iglesia Nuestra Señora del Pilar"
      },
      "dato": {
       "es": "6 km",
       "en": "6 km",
-      "pt": "150 m"
+      "pt": "6 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Parroquia+Nuestra+Senora+del+Pilar+Pilar+Buenos+Aires",
      "link_texto": {
@@ -2164,12 +2170,12 @@
      "nombre": {
       "es": "Reserva Natural del Pilar",
       "en": "Pilar Nature Reserve",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Reserva Natural del Pilar"
      },
      "dato": {
       "es": "7,3 km",
       "en": "7,3 km",
-      "pt": "150 m"
+      "pt": "7,3 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Reserva+Natural+del+Pilar+Buenos+Aires",
      "link_texto": {
@@ -2183,12 +2189,12 @@
      "nombre": {
       "es": "Parque Industrial de Pilar",
       "en": "Pilar Industrial Park",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Parque Industrial de Pilar"
      },
      "dato": {
       "es": "13,1 km",
       "en": "13,1 km",
-      "pt": "150 m"
+      "pt": "13,1 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Parque+Industrial+Pilar+Buenos+Aires",
      "link_texto": {
@@ -2201,13 +2207,13 @@
      "id": "delta-tigre",
      "nombre": {
       "es": "Delta del Tigre",
-      "en": "Tiger Delta",
-      "pt": "Brasov Grill & Bowl"
+      "en": "Tigre Delta",
+      "pt": "Delta del Tigre"
      },
      "dato": {
       "es": "37 km",
       "en": "37 km",
-      "pt": "150 m"
+      "pt": "37 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Delta+del+Tigre+Buenos+Aires",
      "link_texto": {
@@ -2221,12 +2227,12 @@
      "nombre": {
       "es": "Aeroparque Jorge Newbery (AEP)",
       "en": "Jorge Newbery Airport (AEP)",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Aeroparque Jorge Newbery (AEP)"
      },
      "dato": {
       "es": "50 km",
       "en": "50 km",
-      "pt": "150 m"
+      "pt": "50 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Aeroparque+Jorge+Newbery+AEP+Buenos+Aires",
      "link_texto": {
@@ -2240,12 +2246,12 @@
      "nombre": {
       "es": "Aeropuerto Internacional Ezeiza (EZE)",
       "en": "Ezeiza International Airport (EZE)",
-      "pt": "Brasov Grill & Bowl"
+      "pt": "Aeropuerto Internacional Ezeiza (EZE)"
      },
      "dato": {
       "es": "70 km",
       "en": "70 km",
-      "pt": "150 m"
+      "pt": "70 km"
      },
      "link": "https://www.google.com/maps/search/?api=1&query=Aeropuerto+Internacional+Ministro+Pistarini+Ezeiza+EZE",
      "link_texto": {
@@ -2260,7 +2266,7 @@
    "id": "seguridad",
    "nombre": {
     "es": "Procedimientos de seguridad",
-    "en": "Safety & security.",
+    "en": "Safety & security",
     "pt": "Procedimentos de segurança"
    },
    "nota": {
@@ -2279,7 +2285,7 @@
      },
      "descripcion": {
       "es": "Le recomendamos que tome algunas medidas de precaución al llegar:\n• Ubique las salidas de emergencia.\n• Revise el plano de evacuación ubicado en la cara interior de la puerta.\n• Ubique los matafuegos y alarmas de incendio más cercanos.",
-      "en": "We recommend you take the following precautions upon arrival:\n\n• Locate the emergency exits.\n\n• Check the map behind your room door.\n\n• Locate the nearest fire extinguishers and fire alarms.",
+      "en": "We recommend you take the following precautions upon arrival:\n\n• Locate the emergency exits.\n\n• Review the evacuation plan displayed on the inside of your room door.\n\n• Locate the nearest fire extinguishers and fire alarms.",
       "pt": "Recomendamos que tome as seguintes precauções ao chegar:\n\n• Localize as saídas de emergência.\n\n• Verifique o mapa atrás da porta do seu quarto.\n\n• Localize os extintores e alarmes de incêndio mais próximos."
      }
     },
@@ -2292,7 +2298,7 @@
      },
      "descripcion": {
       "es": "El hotel cuenta con aspersores y detectores de humo en habitaciones y pasillos.\n• Lleve su llave.\n• Antes de abrirla, fíjese si entra calor o humo por la puerta.\n• Si el pasillo está despejado, salga por la escalera más cercana.\n• **No use los ascensores.**",
-      "en": "The hotel has sprinklers and smoke detectors in rooms and hallways.\n\n• una instrucción de salida.\tTake your room key with you\n\n• Before opening the door, check for heat or smoke.\n\n• If the hallway is clear, exit via the nearest staircase.\n\n• **Do not use the elevators.**",
+      "en": "The hotel has sprinklers and smoke detectors in rooms and hallways.\n\n• Take your room key with you\n\n• Before opening the door, check for heat or smoke.\n\n• If the hallway is clear, exit via the nearest staircase.\n\n• **Do not use the elevators.**",
       "pt": "O hotel possui sprinklers e detectores de fumaça nos quartos e corredores.\n\n• Leve a chave do quarto com você.\n\n• Antes de abrir a porta, verifique se há calor ou fumaça.\n\n• Se o corredor estiver livre, saia pela escada mais próxima.\n\n• **Não utilize os elevadores.**"
      }
     },
@@ -2301,12 +2307,12 @@
      "nombre": {
       "es": "Si la puerta está caliente o no puede salir",
       "en": "If the door is hot or you can't get out",
-      "pt": "Atendimento ao hóspede"
+      "pt": "Se a porta estiver quente ou você não conseguir sair"
      },
      "descripcion": {
       "es": "• Coloque toallas mojadas en la parte inferior de la puerta.\n• Contáctese con Guest Service e indique su nombre y número de habitación.\n• Apague el aire acondicionado o calefacción.\n• Agáchese para no inhalar humo.",
       "en": "• Place wet towels at the bottom of the door.\n\n• Contact Guest Services and provide your name and room number.\n\n• Turn off the air conditioning or heating.\n\n• Crouch down to avoid inhaling smoke.",
-      "pt": "Para quaisquer pedidos ou dúvidas durante a sua estadia."
+      "pt": "• Coloque toalhas molhadas na parte inferior da porta.\n• Entre em contato com o atendimento ao hóspede e informe seu nome e número do quarto.\n• Desligue o ar-condicionado ou o aquecimento.\n• Mantenha-se abaixado para evitar inalar fumaça."
      },
      "dato": {
       "es": "Marque 0",
@@ -2323,8 +2329,8 @@
      },
      "descripcion": {
       "es": "• Cierre puertas y ventanas con todos los dispositivos de bloqueo, esté o no en la habitación (los ventanales abren hasta 10 cm).\n• Si alguien del personal llega sin que lo espere, pídale que se identifique. No acepte entregas que no pidió.\n• Use la mirilla para identificar a los visitantes.\n• Lleve siempre la llave de su habitación.\n• Si ve algo sospechoso, avísenos de inmediato.",
-      "en": "• Lock all doors and windows with all locking devices, whether you are in the room or not (the Windows open up to 10 cm).\n\n• If a staff member arrives unexpectedly, ask them to identify themselves. Do not accept deliveries you did not order.\n\n• Use the peephole to identify visitors before opening the door.\n\n• Always carry your room key.\n\n• If you see anything suspicious, please notify us immediately.",
-      "pt": "• Tranque todas as portas e janelas com todos os dispositivos de segurança, esteja você no quarto ou não (as Janelas abrem até 10 cm).\n\n• Se um funcionário chegar inesperadamente, peça que ele se identifique. Não aceite entregas que você não solicitou.\n\n• Use a olho mágico para verificar se há visitantes.\n\n• Sempre carregue a chave do seu quarto.\n\n• Se você observar algo suspeito, por favor, nos avise imediatamente."
+      "en": "• Lock all doors and windows with all locking devices, whether you are in the room or not (the windows open up to 10 cm).\n\n• If a staff member arrives unexpectedly, ask them to identify themselves. Do not accept deliveries you did not order.\n\n• Use the peephole to identify visitors before opening the door.\n\n• Always carry your room key.\n\n• If you see anything suspicious, please notify us immediately.",
+      "pt": "• Tranque todas as portas e janelas com todos os dispositivos de segurança, esteja você no quarto ou não (as janelas abrem até 10 cm).\n\n• Se um funcionário chegar inesperadamente, peça que ele se identifique. Não aceite entregas que você não solicitou.\n\n• Use a olho mágico para verificar se há visitantes.\n\n• Sempre carregue a chave do seu quarto.\n\n• Se você observar algo suspeito, por favor, nos avise imediatamente."
      }
     }
    ]
@@ -2424,8 +2430,8 @@
      },
      "descripcion": {
       "es": "Shows íntimos con artistas internacionales en los salones del hotel. Incluyen DJ en vivo, menú de 5 pasos, bebidas sin alcohol, vinos, espumantes y estacionamiento.",
-      "en": "Intimate shows with international artists in the hotel's ballrooms. Includes live DJ, 5-course menu, soft drinks, wines, sparkling wines, and parking.",
-      "pt": "Espetáculos intimistas com artistas internacionais nos lounges do hotel. Inclui DJ ao vivo, menu de 5 pratos, refrigerantes, vinhos, espumantes e estacionamento."
+      "en": "Intimate shows with international artists in the hotel's ballrooms. Includes a live DJ, 5-course menu, soft drinks, wines, sparkling wines, and parking.",
+      "pt": "Espetáculos intimistas com artistas internacionais nos salões de eventos do hotel. Inclui DJ ao vivo, menu de 5 pratos, bebidas não alcoólicas, vinhos, espumantes e estacionamento."
      },
      "aviso": {
       "es": "Consulte por el próximo evento",
