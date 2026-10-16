@@ -3,9 +3,9 @@ var qs=new URLSearchParams(location.search);
 var lang=['es','en','pt'].indexOf(qs.get('lang'))>=0?qs.get('lang'):'es';
 var data=null,app=document.getElementById('app'),bar=document.getElementById('bar'),busqueda='';
 var UI={
- es:{buscar:'Buscar un servicio…',sin:'No encontramos nada con eso. Pruebe con otra palabra o marque 0 desde su habitación.',act:'Actualizado',wa:'WhatsApp',mail:'Escribir un mail',marque:'Marque',interno:'Interno',mas:'Ver más',indice:'Índice',sig:'Siguiente',noexiste:'Esa sección no existe.',cierre:'¡Que tenga una excelente estadía!',error:'No pudimos cargar el directorio. Marque 0 desde su habitación para cualquier consulta.'},
- en:{buscar:'Search a service…',sin:'Nothing matches that. Try another word or dial 0 from your room.',act:'Updated',wa:'WhatsApp',mail:'Send an email',marque:'Dial',interno:'Extension',mas:'See more',indice:'Index',sig:'Next',noexiste:'That section does not exist.',cierre:'Enjoy your stay!',error:'The directory could not be loaded. Dial 0 from your room for any request.'},
- pt:{buscar:'Buscar um serviço…',sin:'Nada encontrado. Tente outra palavra ou disque 0 do seu quarto.',act:'Atualizado',wa:'WhatsApp',mail:'Enviar e-mail',marque:'Disque',interno:'Ramal',mas:'Ver mais',indice:'Índice',sig:'Próxima',noexiste:'Essa seção não existe.',cierre:'Tenha uma excelente estadia!',error:'Não foi possível carregar o diretório. Disque 0 do seu quarto.'}};
+ es:{buscar:'Buscar un servicio…',sin:'No encontramos resultados. Pruebe con otra palabra o marque 0 desde su habitación.',act:'Actualizado',wa:'WhatsApp',mail:'Escribir un mail',marque:'Marque',interno:'Interno',mas:'Ver más',indice:'Menú principal',sig:'Siguiente',noexiste:'Esa sección no existe.',cierre:'¡Que tenga una excelente estadía!',error:'No pudimos cargar el directorio. Marque 0 desde su habitación para cualquier consulta.'},
+ en:{buscar:'Search for a service…',sin:'No results found. Try another word or dial 0 from your room.',act:'Updated',wa:'WhatsApp',mail:'Send an email',marque:'Dial',interno:'Extension',mas:'See more',indice:'Main menu',sig:'Next',noexiste:'That section does not exist.',cierre:'Enjoy your stay!',error:'The directory could not be loaded. Dial 0 from your room for any request.'},
+ pt:{buscar:'Buscar um serviço…',sin:'Nenhum resultado encontrado. Tente outra palavra ou disque 0 do seu quarto.',act:'Atualizado',wa:'WhatsApp',mail:'Enviar e-mail',marque:'Disque',interno:'Ramal',mas:'Ver mais',indice:'Menu principal',sig:'Próxima',noexiste:'Essa seção não existe.',cierre:'Tenha uma excelente estadia!',error:'Não foi possível carregar o diretório. Disque 0 do seu quarto.'}};
 var IC={
  reloj:'<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>',
  wa:'<svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm0 18.2a8.2 8.2 0 0 1-4.2-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2zm4.5-6.1c-.2-.1-1.5-.7-1.7-.8s-.4-.1-.6.1-.7.8-.8 1-.3.2-.5.1a6.7 6.7 0 0 1-3.3-2.9c-.3-.4.2-.4.7-1.4.1-.2 0-.3 0-.5l-.8-1.8c-.2-.5-.4-.4-.6-.4h-.5a1 1 0 0 0-.7.3 3 3 0 0 0-.9 2.2 5.2 5.2 0 0 0 1.1 2.7 11.8 11.8 0 0 0 4.5 4c1.7.7 2.3.8 3.2.6a2.7 2.7 0 0 0 1.8-1.2 2.2 2.2 0 0 0 .1-1.3c0-.2-.2-.2-.5-.4z"/></svg>',
@@ -88,7 +88,7 @@ function pintarLista(){
  if(!n){cont.innerHTML='<nav class="cards">'+data.secciones.map(function(s){return cardHTML(s)}).join('')+'</nav>';return}
  var res=data.secciones.map(function(s){
   var all=norm(t(s.nombre)).indexOf(n)>=0;
-  var items=all?s.items:s.items.filter(function(i){return norm([t(i.nombre),t(i.descripcion),t(i.horario),t(i.dato)].join(' ')).indexOf(n)>=0});
+  var items=all?s.items:s.items.filter(function(i){return norm([t(i.nombre),t(i.descripcion),t(i.horario),t(i.dato),t(i.aviso)].join(' ')).indexOf(n)>=0});
   return items.length?{id:s.id,nombre:s.nombre,items:items}:null}).filter(Boolean);
  if(!res.length){cont.innerHTML='<p class="empty">'+esc(UI[lang].sin)+'</p>';return}
  cont.innerHTML='<div class="resultados">'+res.map(function(s){return seccionHTML(s,true)}).join('')+'</div>';
